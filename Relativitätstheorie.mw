@@ -1,0 +1,248 @@
+{{inuse}}
+
+{{Hee dä Artikel beschrief die physikalische Theorie vum '''Albert Einstein'''. För andere Bedeutunje luurt unger [[Relativität]] noh.}}
+
+De '''Relativitätstheorie''' befass sich met dämm Oppbau vun [[Raum (Physik)|Raum]] un [[Zeit|Zick]] su wie met dä Eijenart vun d'r [[Gravitation]]. Se besteht uss zweij öwerwiegend vum [[Albert Einstein]] verfasste physikalische [[Theorie]]ë, dä [[1905]] e_russjebraaten speziellen Relativitätstheorie un dä [[1916]] affjeschlossenen allgemeenen Relativitätstheorie. Die spezielle beschrief et Verhalde vun Raum un Zick uss dä Seesch vun zweij Zuschauer, die sich relativ zo_e_nander bewäje, un die Eijenaarte die dohmet verbunge sen. Dohropp baut de alljmeene Relativitätstheorie op, un führt de Gravitation op en Krömm vun Raum un Zick zeröck, die unger anderem durch die beteilichte Masse zestand kütt.
+
+De Relativitätstheorie hät dat Verständnis vun Raum un Zick revolutioneet un merkwürdije Saache oppjedeck, die me sich bildlich net vürstelle kann. Die Saache lossen sich äwer mathematisch un experimentell janz jenau nohwiese.
+
+De Relativitätstheorie es een vun dä zweij Süüle vun dämm Theorieëjebäud vun d'r Physik. Die Zesammeläjung met d'r [[Quantentheorie]], die de zweijte Süül darstellt, eß bis hück noch net vollständich jelunge un zällt zo de jrüßte Opjave vun d'r physikalischen [[Jrundlareforschung]]. En dä zweij Theorieë eß als Grenzfall ihre Vürjänger, de [[newtonsche Physik]], enthalde un erfüllt dohmet et sujenannte [[Korrespondenzprinzip]].
+
+Hee en dämm Artikel witt nur dä jrundlääjende Oppbau un die Eijneaarte vun dä Theorieë zesammejefass. Ussführlich köunnt'r dat unger [[spezielle Relativitätstheorie]] un [[allgemeine Relativitätstheorie]] nohlässe.
+
+__notoc__
+
+== De spezielle Relativitätstheorie ==
+
+<!-- un jetz fängk de Arbeijt aan -->
+
+===Relativität vun Raum un Zick===
+
+Die beiden folgenden Feststellungen lassen sich als [[Axiom]]e der Relativitätstheorie interpretieren, aus denen sich letztlich alles Weitere herleitet:
+
+[[Image:Konstanz_der_Lichtgeschwindigkeit.png|thumb|right|220px|Beide Beobachter messen für die Geschwindigkeit des Lichtes denselben Zahlenwert, obwohl der linke sich bewegt.]]
+* Messen verschiedene Beobachter die [[Geschwindigkeit]] eines Lichtstrahls relativ zu ihrem Standort, so kommen sie unabhängig von ihrem eigenen Bewegungszustand zum selben Ergebnis. Dieses sogenannte ''Prinzip von der Konstanz der [[Lichtgeschwindigkeit]]'' ist mit unserem Alltagsverständnis von Raum und Zeit nicht erklärbar, sondern erscheint [[Paradoxon|paradox]].
+* Die physikalischen Gesetze haben für alle Beobachter, die sich mit konstanter Geschwindigkeit bewegen, das heißt keiner Beschleunigung unterliegen, dieselbe Gestalt. Diesen Umstand nennt man [[Relativitätsprinzip]]. Man spricht von [[Inertialsystem]]en, in denen sich diese Beobachter befinden.
+
+Zur Auflösung des obigen scheinbaren Paradoxons müssen intuitive Vorstellungen von einem absoluten Raum und einer absoluten Zeit aufgegeben werden: Raum- und Zeitangaben sind in der Relativitätstheorie keine universell gültigen Ordnungsstrukturen, sondern der räumliche und zeitliche Abstand zweier Ereignisse, und damit wird auch ihre [[Relativität_der_Gleichzeitigkeit|Gleichzeitigkeit]] von Beobachtern mit verschiedenen Bewegungszuständen unterschiedlich beurteilt. Die Frage, wer die Situation korrekt beschreibt, ist prinzipiell nicht zu beantworten und daher sinnlos. Bewegte Objekte erweisen sich im Vergleich zum Ruhezustand in Bewegungsrichtung als verkürzt, und bewegte Uhren als verlangsamt. Diese [[Längenkontraktion]] und [[Zeitdilatation]] lassen sich vergleichsweise anschaulich anhand von [[Minkowski-Diagramm]]en und anhand des bekannten [[Zwillingsparadoxon]]s nachvollziehen. In der mathematischen Formulierung ergeben sie sich aus der [[Lorentz-Transformation]], die den Zusammenhang zwischen den Raum- und Zeitkoordinaten der verschiedenen Beobachter beschreibt. Diese [[Koordinatentransformation|Transformation]] lässt sich direkt aus den beiden obigen Axiomen und der Annahme, dass sie [[linear]] ist, herleiten.
+
+Alle diese Phänomene machen sich erst bei Geschwindigkeiten bemerkbar, die im Vergleich zur Lichtgeschwindigkeit ins Gewicht fallen, so dass sie im Alltag nicht auffallen.
+
+=== [[Äquivalenz von Masse und Energie]] ===
+
+Einem System mit der Masse ''m'' lässt sich auch im unbewegten Zustand eine [[Energie]] ''E'' zuordnen und zwar nach
+
+<center>'''<math>
+E = m \cdot c^2
+</math>'''</center>
+
+wobei ''c'' die Geschwindigkeit des Lichtes ist. Diese Formel ist eine der berühmtesten in der Physik. Oft wird irreführend behauptet, sie habe die Entwicklung der [[Atombombe]] ermöglicht. Richtig ist, dass damit der Mechanismus der Atombombe nicht erklärt werden kann. Allerdings konnte mit dieser Formel und den schon bekannten Massen der Atome die enorme Freisetzung von Energie bei der Kernspaltung berechnet werden  – schon bei deren Entdeckung durch [[Lise Meitner]]. Diese Massenabnahme tritt auch bei chemischen Reaktionen auf, war jedoch für die damaligen Messmethoden zu klein, anders als im Fall von Kernreaktionen.
+
+===Vereinigung von Raum und Zeit zur Raumzeit===
+
+Raum und Zeit erscheinen in den Grundgleichungen der Relativitätstheorie formal weitgehend gleichwertig nebeneinander und lassen sich daher zu einer vierdimensionalen [[Raumzeit]] vereinigen. Der Umstand, dass wir Raum und Zeit als unterschiedliche Phänomene wahrnehmen, sowie alle anderen Unterschiede zwischen Raum und Zeit, lassen sich letztlich auf ein einziges [[Vorzeichen]] zurückführen, durch das sich die Art und Weise, wie ein Abstand im [[Euklidischer Raum|euklidischen Raum]] definiert wird, von der Bestimmung des Abstands in der vierdimensionalen Raumzeit unterscheidet. Aus gewöhnlichen [[Vektor]]en werden dabei [[Vierervektor]]en.
+
+===Lichtgeschwindigkeit als Grenze===
+
+Kein Objekt, keine Welle und damit auch keine Information kann sich schneller bewegen als das [[Licht]]. Nähert sich die Geschwindigkeit eines materiellen Objektes der Lichtgeschwindigkeit, so strebt der Energieaufwand für eine weitere [[Beschleunigung]] über alle Grenzen. Zum Erreichen der Lichtgeschwindigkeit müsste unendlich viel Energie aufgebracht werden.
+
+Dieser Umstand ist eine Folge der Struktur von Raum und Zeit und keine Eigenschaft des Objekts, wie beispielsweise eines lediglich unvollkommenen [[Raumschiff]]es. Könnte sich ein Objekt mit [[Überlichtgeschwindigkeit]] von A nach B bewegen, so könnte man immer Beobachter finden, die eine Bewegung von B nach A wahrnehmen würden, wiederum ohne dass die Frage, wer die Situation korrekt beschreibt, einen Sinn gäbe. Das [[Kausalität]]sprinzip wäre dann verletzt, da die Reihenfolge von Ursache und Wirkung nicht mehr definiert wäre. Ein solches Objekt würde sich übrigens für jeden Beobachter mit Überlichtgeschwindigkeit bewegen.
+
+===Das Relativitätsprinzip===
+
+Aus dem Relativitätsprinzip folgt unmittelbar, dass es keine Möglichkeit gibt, eine absolute Geschwindigkeit eines Beobachters im Raum zu definieren beziehungsweise zu ermitteln, da es andernfalls im Widerspruch zum Relativitätsprinzip ein absolut ruhendes Bezugssystem gäbe, für das die Gesetze der Physik eine besonders einfache Gestalt annehmen würden. So scheiterten auch alle entsprechenden Versuche wie beispielsweise das berühmte [[Michelson-Morley-Experiment]] von [[1887]], mit dem man die Existenz eines im Kosmos ruhenden [[Äther (Physik)|Äther]]s als Träger [[Elektromagnetische Welle|elektromagnetischer Wellen]] nachweisen wollte.
+
+Das Relativitätsprinzip an sich ist wenig spektakulär, denn es gilt auch für die newtonsche Mechanik. Es widersprach vor den Entdeckungen Einsteins jedoch den Gesetzen der [[Elektrodynamik]] und man neigte dazu, es aufzugeben. Durch die Aufgabe der konventionellen Vorstellungen von Raum und Zeit gelang es Einstein, den Widerspruch aufzulösen. Nicht zufällig waren es Experimente und Überlegungen zur Elektrodynamik, die zur Entdeckung der Relativitätstheorie führten. So lautete der unscheinbare Titel der einsteinschen Publikation von 1905 ''„Zur Elektrodynamik bewegter Körper“'', der nicht gerade einen Umsturz der bis dahin gültigen Vorstellungen von Raum und Zeit erwarten ließ.
+
+===Magnetfelder in der Relativitätstheorie===
+
+Die Existenz [[Magnetismus|magnetischer]] Kräfte ist untrennbar mit der Relativitätstheorie verknüpft. Eine isolierte Existenz des [[Coulombsches Gesetz|coulombschen Gesetzes]] für elektrische Kräfte wäre nicht mit der Struktur von Raum und Zeit verträglich. So sieht ein Beobachter, der relativ zu einem System [[Elektrostatik|statischer elektrischer Ladungen]] ruht, kein Magnetfeld, anders als ein Beobachter, der sich relativ zu ihm bewegt. Übersetzt man die Beobachtungen des ruhenden Beobachters über eine [[Lorentz-Transformation]] in die des bewegten, so stellt sich heraus, dass dieser neben der elektrischen Kraft eine weitere wahrnimmt, die sich hinsichtlich ihrer mathematischen Struktur völlig mit den bekannten Gesetzen für Magnetfelder deckt. Die Existenz des [[Magnetfeld]]es in diesem Beispiel lässt sich daher auf die Struktur von Raum und Zeit zurückführen. Unter diesem Gesichtspunkt wirkt auch die im Vergleich zum Coulombgesetz komplizierte und auf den ersten Blick wenig plausible Struktur des vergleichbaren [[Biot-Savartsches Gesetz|Biot-Savartschen Gesetzes]] für Magnetfelder weniger verwunderlich. Im mathematischen Formalismus der Relativitätstheorie werden das elektrische und das magnetische Feld zu einer Einheit, dem vierdimensionalen [[elektromagnetischer Feldstärketensor|elektromagnetischen Feldstärketensor]], zusammengefasst, ganz analog zur Vereinigung von Raum und Zeit zur vierdimensionalen Raumzeit.
+
+'''Siehe auch:''' [[Spezielle Relativitätstheorie]]
+
+== Die allgemeine Relativitätstheorie ==
+
+===Gravitation und die Krümmung des Raumes===
+
+Die allgemeine Relativitätstheorie führt die Gravitation auf ein geometrisches Phänomen in einer gekrümmten Raumzeit zurück, indem sie feststellt:
+
+* Masse krümmt die Raumzeit in ihrer Umgebung.
+
+* Ein Gegenstand, auf den nur gravitative Kräfte wirken, bewegt sich zwischen zwei Punkten in der Raumzeit stets auf einer sogenannten [[Geodäte]]. 
+
+Entzieht sich die vierdimensionale Raumzeit der speziellen Relativitätstheorie bereits einer anschaulichen Vorstellbarkeit, so gilt das für eine zusätzlich gekrümmte Raumzeit erst recht. Zur Veranschauung kann man jedoch Situationen mit reduzierter Anzahl von Dimensionen betrachten. So entspricht im Fall einer 2-dimensionalen gekrümmten Landschaft die geradlinige Strecke dem Weg, den ein Fahrzeug mit geradeaus fixierter Lenkung nehmen würde. Würden zwei solche Fahrzeuge am Äquator nebeneinander exakt parallel Richtung Norden starten, dann würden sie sich am Nordpol treffen. Ein Beobachter, dem die Kugelgestalt der Erde verborgen bliebe, würde daraus auf eine Anziehungskraft zwischen den beiden Fahrzeugen schließen. Es handelt sich aber um ein rein geometrisches Phänomen. Gravitationskräfte werden daher in der allgemeinen Relativitätstheorie gelegentlich auch als [[Scheinkraft|Scheinkräfte]] bezeichnet.
+
+Da der geodätische Weg durch die Raumzeit von ihrer Geometrie und nicht von der Masse des fallenden Körpers abhängt, fallen alle Körper im Gravitationsfeld gleich schnell, wie bereits [[Galileo Galilei|Galilei]] feststellte. Dieser Umstand wird in der [[Newtonsche Mechanik|newtonschen Mechanik]] durch die [[Äquivalenz]] von [[Träge Masse|träger]] und [[Schwere Masse|schwerer Masse]] beschrieben, die auch der allgemeinen Relativitätstheorie zugrunde liegt.
+
+===Uhren im Gravitationsfeld===
+
+In der allgemeinen Relativitätstheorie hängt der Gang von Uhren nicht nur von ihrer relativen Geschwindigkeit ab, sondern auch von ihrem Ort im [[Gravitationsfeld]]. Eine Uhr auf einem Berg geht schneller als eine im Tal. Dieser Effekt ist zwar im irdischen Gravitationsfeld nur gering, er wird jedoch beim [[Global Positioning System|GPS-Navigationssystem]] zur Vermeidung von Fehlern bei der Positionsbestimmung über eine entsprechende [[Frequenz]]<nowiki></nowiki>korrektur der [[Funktechnik|Funksignale]]  berücksichtigt.
+
+===Die mathematische Struktur der allgemeinen Relativitätstheorie===
+
+Während die spezielle Relativitätstheorie auch mit relativ geringen mathematischen Kenntnissen nachvollziehbar ist, ist die allgemeine Relativitätstheorie deutlich anspruchsvoller. Die Beschreibung einer krummen Raumzeit erfolgt mit den Methoden der [[Differentialgeometrie]], die die [[euklidische Geometrie]] des uns vertrauten flachen Raumes ablöst. Die Entstehung der Krümmung wird durch die [[Einsteinsche Feldgleichungen|einsteinschen Feldgleichungen]] beschrieben. Dabei handelt es sich um [[Differentialgleichung]]en eines [[Tensorfeld]]es mit zehn Komponenten, die nur in speziellen Fällen analytisch, das heißt in Form einer mathematischen Gleichung, lösbar sind.
+
+===Kosmologie===
+
+Während die spezielle Relativitätstheorie bei Anwesenheit von Massen nur in Gebieten der Raumzeit gilt, die so klein sind, dass die Krümmung vernachlässigt werden kann, kommt die allgemeine Relativitätstheorie ohne diese Einschränkung aus. Sie kann somit auch auf das [[Universum]] als Ganzes angewandt werden und spielt daher in der [[Kosmologie]] eine zentrale Rolle. So wird die [[Expansion]] des Weltalls, die die Astronomen beobachten, durch die [[Alexander Friedmann|friedmannschen]] [[Friedmanngleichungen|Lösungen]] der einsteinschen Feldgleichungen in Kombination mit einer sogenannten [[kosmologische Konstante|kosmologischen Konstanten]] angemessen beschrieben. Danach begann diese Expansion mit dem [[Urknall]], der nach den jüngsten Untersuchungen vor 13,7 Milliarden Jahren stattgefunden hat, und der auch als der Beginn von Raum und Zeit angesehen werden kann. Dabei war das gesamte Universum auf einem Raumgebiet vom Durchmesser der [[Planck-Länge]] konzentriert.
+
+===Schwarze Löcher===
+
+Eine weitere Vorhersage der allgemeinen Relativitätstheorie sind [[schwarzes Loch|Schwarze Löcher]]. Einstein konnte sich mit diesem Gedanken nicht anfreunden, und meinte, es müsse einen Mechanismus geben, der die Entstehung solcher Objekte verhindert. Heutige Beobachtungen legen aber nahe, dass es solche Schwarzen Löcher im Universum tatsächlich gibt und zwar als Endstadium der Sternentwicklung bei sehr massereichen [[Stern]]en und in den Zentren nahezu aller [[Galaxis|Galaxien]].
+
+===Gravitationswellen===
+
+Schließlich folgt aus der allgemeinen Relativitätstheorie die Existenz von [[Gravitationswellen]], lokalen Deformationen der Raumzeit, die sich mit Lichtgeschwindigkeit ausbreiten. Sie sollten bei der Beschleunigung von Massen entstehen. Diese Deformationen sind jedoch dermaßen klein, dass sie sich bis heute einem direkten Nachweis entzogen haben. Die [[Supernova 1987A|Supernovaexplosion]] im Jahre [[1987]] in unserer Nachbarschaft sollte Gravitationswellen erzeugt haben, die nachweisbar gewesen wären. Diese Jahrhundertchance wurde jedoch verpasst, da mangels Absprache sämtliche Gravitationswellendetektoren weltweit in den entscheidenden Sekunden zu Wartungszwecken abgeschaltet waren. Immerhin konnte aus Beobachtungen an [[Doppelstern]]systemen mit [[Pulsar]]en die Existenz von Gravitationswellen indirekt bestätigt werden.
+
+'''Siehe auch:''' [[Allgemeine Relativitätstheorie]]
+
+== Entstehungsgeschichte ==
+
+=== Überwindung der euklidischen Geometrie ===
+
+Bereits vor Einstein hatte es Überlegungen zur mathematischen Struktur des Raumes gegeben. So stellten die Mathematiker [[János Bolyai]], [[Nikolai Iwanowitsch Lobatschewski]] und [[Carl Friedrich Gauß]] bereits Anfang des 19. Jahrhunderts fest, dass nicht unbedingt eine euklidische Geometrie des Raumes vorliegen müsse, und begannen, eine [[nichteuklidische Geometrie]] zu entwickeln. Diese Arbeiten blieben jedoch lange Zeit unbeachtet. Carl Friedrich Gauß publizierte seine diesbezüglichen Ergebnisse überhaupt nicht.
+
+Zwischen [[1818]] und [[1826]] leitete Gauß die Hannoversche Landesvermessung und entwickelte dabei Verfahren mit erheblich gesteigerter Genauigkeit. In diesem Zusammenhang entstand die Vorstellung, er habe empirisch nach einer Krümmung des Raumes gesucht, indem er die Winkelsumme in einem Dreieck vermaß, das vom [[Brocken]] im [[Harz (Mittelgebirge)|Harz]], dem [[Inselsberg]] im [[Thüringer Wald]] und dem [[Hoher Hagen (Dransfeld)|Hohen Hagen]] bei [[Göttingen]] gebildet wird. Sie wird heute mehrheitlich als Legende angesehen, auch wenn die Möglichkeit, Gauß habe nach Abweichungen vom üblichen Wert der Winkelsumme von 180° gesucht, nicht mit letzter Konsequenz ausgeschlossen werden kann. Die Genauigkeit seiner Instrumente hätte jedoch für den Nachweis der winzigen Krümmung des Raumes im Gravitationsfeld der Erde bei weitem nicht ausgereicht. Sie ist auch heute noch nicht möglich.
+
+Gauß' Schüler [[Bernhard Riemann]] war es, der die [[Differentialgeometrie]] krummer Räume entwickelte und [[1854]] vorstellte, ein Thema, das seinerzeit kaum jemand für relevant gehalten haben dürfte. [[Tullio Levi-Civita]], [[Gregorio Ricci-Curbastro]] und [[Elwin Bruno Christoffel]] bauten die Differentialgeometrie weiter aus. Einstein fand in ihren Arbeiten einen wahren Schatz an mathematischen Werkzeugen für seine allgemeine Relativitätstheorie.
+
+=== Ätherwind und Lorentztransformation ===
+
+Mit seinen 1865 veröffentlichten [[maxwellsche Gleichungen|Feldgleichungen]] hatte [[James Clerk Maxwell]] eine geschlossene Theorie von [[Elektrizität]], [[Magnetismus]] und [[Optik]] vorgelegt, die in den folgenden Jahrzehnten experimentell glänzend bestätigt wurde. Beim Wechsel in ein bewegtes Koordinatensystem änderten die maxwellschen Gleichungen jedoch ihre mathematische Gestalt. Das war ein klarer Verstoß gegen das galileische Relativitätsprinzip und warf die Frage auf, warum Experimente zur Überprüfung der maxwellschen Theorie nicht durch die Eigenbewegung der Erde beeinträchtigt wurden.
+
+[[Image:Ätherwind.png|thumb|right|255px|Wenn elektromagnetische Wellen an einen Äther gebunden wären, müsste man die Eigenbewegung von Erde und Sonne als ''Ätherwind'' messen können.]]
+
+Maxwell stellte sich elektromagnetische Wellen als an ein stoffliches Medium gebunden vor. Man bezeichnete dieses Medium als "den [[Äther (Physik)|Äther]]". Als die Verletzung des Relativitätsprinzips bemerkt wurde, schloss man, dass auf der bewegten Erde eine Art Gegenwind, den man Ätherwind nannte, nachweisbar sein müsse. Alle Versuche zum experimentellen Nachweis des Ätherwindes scheiterten jedoch; Michelson und Morley konnten 1887 [[Interferometer|interferometrisch]] nachweisen, dass die Geschwindigkeit der Erde relativ zum Äther keinesfalls größer als ein Viertel der Bahngeschwindigkeit der Erde sein kann. Doch erst um das Jahr 1900 sprachen namhafte Physiker, darunter [[Paul Drude]] und [[Henri Poincaré]], ihre Zweifel an der Existenz des Äthers aus.
+
+[[1887]] entdeckte [[Woldemar Voigt]] in einer Arbeit über den [[Doppler-Effekt]], dass bestimmte Gleichungen beim Wechsel in ein bewegtes Koordinatensystem ihre Form behalten, sofern man Orts- und Zeitkoordinaten nicht unabhängig voneinander transformiert, sondern in bestimmter Weise verkoppelt. Unabhängig von Voigt wurde diese Koordinatentransformation 1898 von [[Joseph Larmor]] und 1899 von [[Hendrik Antoon Lorentz]] entdeckt; sie ist heute als [[Lorentz-Transformation]] bekannt.
+
+1889 veröffentlichte der irische Physiker [[George FitzGerald]] eine kurze, nichtmathematische Arbeit, in der er darauf hinwies, dass das Michelson-Morley-Experiment nur erklärt werden kann, wenn man annimmt, dass die Interferometerarme ihre Länge ändern, je nachdem, welchen Winkel sie zum Ätherwind einnehmen. Lorentz kam 1892 unabhängig zum gleichen Ergebnis, das heute zumeist [[Lorentzkontraktion]], seltener auch FitzGerald-Lorentz-Kontraktion genannt wird.
+
+1898 wies [[Henri Poincaré]] darauf hin, dass wir keine intuitive Vorstellung von der Gleichheit zweier Zeitintervalle haben und dass Gleichzeitigkeit so ''definiert'' werden müsse, dass Naturgesetze eine möglichst einfache Gestalt haben. Im Juni 1905 veröffentlichte er, fast gleichzeitig mit Einsteins erster Arbeit zur Relativitätstheorie, einen Aufsatz ''Sur la dynamique de l'electron'', in dem er das Relativitätsprinzip aussprach (die Unmöglichkeit, absolute Bewegung nachzuweisen, scheint ein allgemeines Naturgesetz zu sein). In der gleichen Arbeit gab er der Lorentz-Transformation ihren Namen und wies darauf hin, dass sie zusammen mit den Drehungen im Raum eine [[Gruppentheorie|Gruppe]] bildet.
+
+Erstaunlicherweise haben sich Einstein und Poincaré niemals gegenseitig zitiert, während beide jederzeit auf die Verdienste von Lorentz hinwiesen. Lorentz seinerseits wollte sich niemals ganz von der Äthervorstellung lösen.
+
+=== Albert Einstein ===
+
+[[Image:Albert Einstein Swss Patent Office clerk 1905.jpg|thumb|Albert Einstein 1905]]
+[[Albert Einstein]] schloss [[1900]] sein Physikstudium mit eher mittelmäßigem Erfolg ab und reichte 1905 seine Doktorarbeit ein. In dieser Zeit verdiente er seinen Lebensunterhalt als Angestellter im [[Patentamt]] von [[Bern]], was nicht gerade eine größere Karriere erwarten ließ. In seiner freien Zeit arbeitete er jedoch intensiv an bahnbrechenden theoretischen Ideen und publizierte 1905 vier Arbeiten, von denen jede einzelne seinen Ruhm als großer Physiker hätte begründen können. In einer davon formulierte er das, was wir heute die spezielle Relativitätstheorie nennen. Diese Publikationen brachten ihm Rufe als Hochschullehrer nach Prag und bald darauf nach Zürich ein.
+
+Aus den Bemühungen, eine mit dem Relativitätsprinzip verträgliche Beschreibung der Gravitation zu entwickeln, erwuchs in den folgenden Jahren die allgemeine Relativitätstheorie. In mühevoller Arbeit eignete sich Einstein die nötigen mathematischen Fertigkeiten an. In welchem Ausmaß seine Frau, die Mathematikerin [[Mileva Maric]], an der mathematischen Ausformulierung beteiligt war, ist nicht genau rekonstruierbar. Anders als bei der speziellen Relativitätstheorie publizierte Einstein zunächst Teilergebnisse; die endgültigen Feldgleichungen fand unabhängig von ihm [[1915]] auch [[David Hilbert]].
+
+Einstein stellte fest, dass seine Feldgleichungen kein statisches [[Universum]] zulassen. 1917 schlug er daher die [[kosmologische Konstante]] vor, ein Zusatzterm in den Feldgleichungen, der ein zeitlich unverändertes Universum ermöglicht. [[1922]] stellte [[Alexander Friedmann]] Lösungen ohne kosmologische Konstante vor, für die das Universum entweder expandiert oder kollabiert. [[1927]] entdeckte [[Edwin Hubble]] die Expansion des Universums und bestätigte damit Friedmanns Ansatz. Einstein bezeichnete daraufhin seine kosmologische Konstante als ''die größte Eselei meines Lebens''. Heutige Beobachtungen deuten jedoch darauf hin, dass die kosmologische Konstante sehr wohl existiert, wenngleich mit einem anderen Wert, als für ein statisches Universum nötig wäre.
+
+Für die Relativitätstheorie, eine der bedeutendsten Entdeckungen überhaupt, ist erstaunlicherweise kein [[Nobelpreis]] verliehen worden. Gegen eine Auszeichnung Einsteins sprach aus Sicht der Schwedischen Akademie, dass die mathematische Struktur der speziellen Relativitätstheorie von anderen ausgearbeitet worden war; eine gemeinsame Ehrung war nach dem Tod [[Henri Poincaré|Poincarés]] (1912) nicht mehr möglich. Hintergründig bestand allerdings wohl auch die Befürchtung, diese abstrakte Theorie - die zu dieser Zeit kaum experimentell gestützt war - könnte letztlich falsch sein. Die Vergabe des Nobelpreises an eine falsche Theorie wäre eine Blamage für das Komitee gewesen. Als Notlösung erhielt Einstein den [[Nobelpreis]] des Jahres [[1921]] für seine Arbeit zum [[Photoeffekt]] aus dem Jahr 1905, die einen wichtigen Schritt in der Entwicklung der Quantentheorie darstellte. Dennoch sprach Einstein in seiner Rede bei den Feierlichkeiten zur Preisverleihung über die Relativitätstheorie.
+
+=== Weitere geometrische Theorien ===   
+    
+Nach der Erklärung der Gravitation als geometrisches Phänomen lag es nahe, auch die anderen damals bekannten [[Grundkräfte der Physik|Grundkräfte]], die elektrische und die magnetische, auf geometrische Effekte zurückzuführen. [[Theodor Kaluza]] ([[1921]]) und [[Oskar Klein]] ([[1926]]) nahmen dazu eine zusätzliche in sich geschlossene Dimension des Raumes mit subatomarer Länge an, derart dass sie uns verborgen bleibt. Sie blieben jedoch mit ihrer Theorie erfolglos. Auch Einstein arbeitete lange vergeblich daran, eine solche [[einheitliche Feldtheorie]] zu schaffen.
+
+Nach der Entdeckung weiterer [[Grundkraft|Grundkräfte]] der Natur erlebten diese sogenannten [[Kaluza-Klein-Theorie|Kaluza-Klein-Theorien]] eine [[Renaissance]] - allerdings auf der Basis der Quantentheorie. Die heute aussichtsreichste Theorie zur Vereinigung der Relativitätstheorie und der Quantentheorie dieser Art, die [[Stringtheorie]], geht von sechs beziehungsweise sieben verborgenen Dimensionen von der Größe der [[Planck-Länge]] und damit von einer zehn- beziehungsweise elfdimensionalen Raumzeit aus.
+
+== Experimentelle Bestätigungen ==
+
+Der erste Erfolg der speziellen Relativitätstheorie war die Auflösung des Widerspruches zwischen dem Ergebnis des [[Michelson-Morley-Experiment]]s und der Theorie der Elektrodynamik, der überhaupt als Anlass für ihre Entdeckung angesehen werden kann. Seither hat sich die spezielle Relativitätstheorie in der Interpretation unzähliger Experimente bewährt. Ein überzeugendes Beispiel ist der Nachweis von [[Myonen]] in der [[Höhenstrahlung]], die auf Grund ihrer kurzen Lebensdauer nicht die Erdoberfläche erreichen könnten, wenn nicht auf Grund ihrer hohen Geschwindigkeit die Zeit für sie langsamer gehen würde, beziehungsweise sie die Flugstrecke längenkontrahiert erfahren würden.
+
+Hingegen gab es zur Zeit der Veröffentlichung der allgemeinen Relativitätstheorie einen einzigen Hinweis für ihre Richtigkeit, die Perihel-Drehung des Merkurs. [[1919]] stellte [[Arthur Stanley Eddington]] bei einer [[Sonnenfinsternis]] eine Verschiebung der scheinbaren Position der Sterne nahe der Sonne fest und lieferte mit diesem sehr direkten Hinweis auf eine Krümmung des Raums eine weitere Bestätigung der Theorie.
+
+Weitere experimentelle Tests sind im Artikel zur [[Allgemeine Relativitätstheorie|allgemeinen Relativitätstheorie]] beschrieben.
+
+Die Relativitätstheorie hat sich bis heute in der von Einstein vorgegebenen Form gegen alle Alternativen, die insbesondere zu seiner Theorie der Gravitation vorgeschlagen wurden, behaupten können. Die bedeutendste war die [[Jordan-Brans-Dicke-Theorie]], die jedoch deutlich komplexer war, und wie alle anderen auch, durch den Vergleich mit experimentellen Ergebnissen widerlegt wurde.
+
+== Rezeption und Interpretation ==
+
+=== Wahrnehmung in der Öffentlichkeit ===
+
+Die neue Sichtweise der Relativitätstheorie bezüglich Raum und Zeit erregte nach ihrer Entdeckung auch in der Allgemeinheit Aufsehen. Einstein wurde zur Berühmtheit, und es war in den [[1920er]] Jahren in Mode, über die Relativitätstheorie zu diskutieren, auch wenn sie kaum jemand verstanden hatte. Verkürzt auf den Spruch ''alles ist relativ'' wurde sie zuweilen in die Nähe eines philosophischen [[Relativismus]] gerückt.
+
+[[Kritik an der Relativitätstheorie]] speiste sich aus verschiedenen Quellen, wie Unverständnis, Ablehnung der fortschreitenden Mathematisierung der Physik und Ressentiments gegen Einsteins jüdische Abstammung. Ab den 1920er Jahren versuchten einige wenige offen antisemitische Physiker, namentlich die Nobelpreisträger [[Philipp Lenard]] und [[Johannes Stark]], der Relativitätstheorie eine ''[[deutsche Physik]]'' entgegenzusetzen. Wenige Jahre nach der [[Nationalsozialismus|nationalsozialistischen]] Machtergreifung ging Stark mit einem Artikel in der SS-Zeitung ''[[Das Schwarze Korps]]'' vom 15. Juli 1937 gegen die im Land verbliebenen Anhänger der Relativitäts- und Quantentheorie in die Offensive. Unter anderem denunzierte er [[Werner Heisenberg]] und [[Max Planck]] als ''weiße Juden''. Heisenberg wandte sich direkt an [[Heinrich Himmler|Himmler]] und erreichte seine volle Rehabilitierung; nicht zuletzt mit Blick auf die Bedürfnisse der Rüstungsentwicklung blieb die Relativitätstheorie erlaubt.
+
+=== Erkenntnistheoretische Implikationen ===
+
+Raum und Zeit spielen eine Schlüsselrolle in der [[Erkenntnistheorie]] von [[Immanuel Kant]]. Das legt nahe, dass die Relativitätstheorie mit ihren Aussagen über Raum und Zeit auch philosophische Implikationen hat.
+
+Für Kant sind Raum und Zeit unabhängig von jedem empirischen Inhalt, also [[a priori]], gegebene Formen der [[Anschauung]]. ''Reine Anschauung'' ermöglicht es, ''reine Mathematik'' zu betreiben: Geometrie basiert auf Anschauung im Raum, Arithmetik basiert auf Abzählen in der Zeit. Mathematik erlaubt [[Synthetisches Urteil a priori|Synthetische Urteile a priori]]: ''„Ebensowenig ist irgendein Grundsatz der reinen Geometrie [[analytisches Urteil|analytisch]]. Daß die gerade Linie zwischen zwei Punkten die kürzeste sei, ist ein synthetischer Satz. Denn mein Begriff vom ''Geraden'' enthält nichts von Größe, sondern nur eine Qualität“'' ([[Kritik der reinen Vernunft|KrV]], B16).
+
+Kant nimmt also die euklidische Geometrie als Grundlage der (physikalischen) Anschauung an. An diese Vorgehensweise knüpfen heute die [[Protophysik]]er an. 
+
+Dass der physikalisch empirische (also: [[a posteriori]]) Raum der Relativitätstheorie zufolge tatsächlich gekrümmt ist, war Anfang des 20. Jahrhunderts überraschend, jedoch nicht unvereinbar mit dem erreichten Verständnis von Geometrie. Dass Raum und Zeit kommensurabel sind, weil zeitliche Größen durch Multiplikation mit der Lichtgeschwindigkeit in räumliche Größen umgerechnet werden können, so dass beide in den Gleichungen dieser Theorie strukturell nahezu gleichwertig in Erscheinung treten, war ebenfalls eine Überraschung.
+
+Über die Mathematik hinaus findet Kant, dass auch die Naturwissenschaft (''physica'') ''synthetische Urteile a priori als Prinzipien in sich'' enthält, so etwa die Erhaltung der Masse (KdrV, B17). In der Relativitätstheorie tritt an Stelle der Massenerhaltung die Erhaltung der Gesamtenergie. Auch hier bestätigt die Physik die philosophische Kritik an Kant, der zu Folge synthetische Urteile a priori nicht möglich sind.
+
+=== Schlusswort ===
+
+Die Relativitätstheorie markiert wissenschaftshistorisch den Punkt, an dem die [[Anschauung]] als Mittel zum physikalischen Verständnis von Naturphänomenen zum ersten Mal grundsätzlich versagte. Raum und Zeit sind Vorbedingung für jegliche Erfahrung und können daher nicht Gegenstand dieser Erfahrung sein, wie bereits Immanuel Kant sinngemäß feststellte. Diese Situation sollte sich durch die anschließende Entdeckung der [[Quantentheorie]] mit ihrer Aufgabe strikt [[Determinismus|deterministischer]] Modelle und der Erkenntnis des [[Zufall]]s als fundamentalem Bestandteil der Welt noch erheblich verschärfen. Im Rahmen eines naturwissenschaftlichen Ansatzes gelingt es lediglich mit den Mitteln der Mathematik, diese Grenze erfolgreich zu überschreiten. Die Relativitätstheorie ist daher von [[Erkenntnistheorie|erkenntnistheoretischer]] Relevanz. Vor der Formulierung der Relativitätstheorie war die Diskussion über Raum, Zeit und Kosmologie weitgehend der [[Philosophie]] und [[Religion]] vorbehalten. Der Kirchenhistoriker [[Adolf von Harnack]] stellte seinerzeit fest:
+
+:''„Man klagt darüber, dass unsere Generation keine Philosophen habe. Mit Unrecht. Sie sitzen jetzt nur in einer anderen Fakultät. Sie heißen Max Planck und Albert Einstein“''.
+
+== Literatur ==
+* Albert Einstein/[[Leopold Infeld]]: ''Die Evolution der Physik''. 1950, auch als Taschenbuch: Reinbek, Rowohlt 1987 ISBN 3-499-18342-0
+* Albert Einstein: ''Grundzüge der Relativitätstheorie''. 6. A. Springer, Berlin u.a. 2002 ISBN 3-540-43512-3 (Originaltitel: ''Meaning of relativity'')
+* Hans Stephani: ''Allgemeine Relativitätstheorie'', 4. Auflage, Wiley-VCH, 1991. ISBN 3326000839.
+* Julian Schwinger: ''Einsteins Erbe. Die Einheit von Raum und Zeit''. Spektrum, Heidelberg u.a. 2000 ISBN 3-8274-1045-2 (leicht verständliche Einführung für Laien)
+* David Bodanis: ''Bis Einstein kam. Die abenteuerliche Suche nach dem Geheimnis der Welt''. Fischer, Frankfurt am Main 2003 ISBN 3-596-15399-9 (leicht verständliche Einführung zum Verständnis der Relativitätstheorie und der vorher geläufigen Lehrmeinungen, erläutert z. B. in eigenen Kapiteln ausführlich ''E'', ''m'', ''c²'' und sogar das Gleichheitszeichen)
+* Ernst Cassirer: ''Zur Einsteinschen Relativitätstheorie. Erkenntnistheoretische Betrachtungen'', Meiner, Hamburg 2001, ISBN 3-7873-1410-5
+* Jürgen Freund: ''Relativitätstheorie für Studienanfänger - ein Lehrbuch''. vdf Hochschulverlag an der ETH Zürich 2004; ISBN 3-7281-2993-3 (leicht verständliche Einführung; Mindestvoraussetzung Abitur, einige Kapitel können gelesen werden in [http://www.relativitaet.info/])
+* Holger Müller, Achim Peters: ''Einsteins Theorie auf dem optischen Prüfstand: Spezielle Relativitätstheorie''. Physik in unserer Zeit 35(2), S. 70 – 75 (2004), {{ISSN|0031-9252}}
+* Goenner, Hubert: ''Spezielle Relativitätstheorie und die klassische Feldtheorie'', Elsevier - Spektrum Akademischer Verlag 2004, ISBN 3-8274-1434-2
+* Nolting, Wolfgang ''Grundkurs Theoretische Physik Bd.4 : Spezielle Relativitätstheorie, Thermodynamik'', Springer, Berlin 2003, ISBN 3-5404-2116-5
+* Gerald Kahan: "Einsteins Relativitätstheorie - zum leichten Verständnis für jedermann", Dumont, ISBN 3-7701-1852-9
+
+== Wäbsigge ==
+
+*[http://www.tempolimit-lichtgeschwindigkeit.de/ Tempolimit Lichtgeschwindigkeit] - Visualisierung der Phänomene der Relativitätstheorie
+*[http://www.einstein-online.info/ Einstein online]
+*[http://www.ap.univie.ac.at/users/fe/rel.html Zur technischen Anwendung der Allgemeinen Relativitätstheorie in GPS-Systemen]
+*[http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Special_relativity.html Zur Geschichte der speziellen Relativitätstheorie]
+
+{{Wikibooks|Einsteins Welt|Einsteins Welt – Die Welt der Speziellen Relativitätstheorie}}
+{{Wikibooks|A. Einstein, Zur Elektrodynamik bewegter Körper. Kommentiert und erläutert.}}
+{{Wikibooks|Spezielle Relativitätstheorie: Inhalt|Spezielle Relativitätstheorie I-V}}
+=== Videos ===
+*[[Real Video]] (Aus der Fernsehsendung [[Alpha_Centauri_(TV)|Alpha Centauri]]):
+**[http://www.br-online.de/cgi-bin/ravi?v=alpha/centauri/v/&f=010610.rm&g2=1 Was ist Gleichzeitigkeit?]
+**[http://www.br-online.de/cgi-bin/ravi?v=alpha/centauri/v/&f=010304.rm&g2=1 Was ist Zeit?]
+**[http://www.br-online.de/cgi-bin/ravi?v=alpha/centauri/v/&g2=1&f=040204.rm Was war der Äther?]
+**[http://www.br-online.de/cgi-bin/ravi?v=alpha/centauri/v/&g2=1&f=040414.rm Was sind Myonen?]
+**[http://www.br-online.de/cgi-bin/ravi?v=alpha/centauri/v/&g2=1&f=050105.rm Kann man mit Lichtgeschwindigkeit reisen?]
+**[http://www.br-online.de/cgi-bin/ravi?v=alpha/centauri/v/&g2=1&f=040707.rm Gibt es Überlichtgeschwindigkeit?]
+
+== Gesprochene Wikipedia ==
+{{Gesprochene Wikipedia|Relativitaetstheorie.ogg|. Derzeit wird dieser Artikel viel bearbeitet, daher entspricht die gesprochene Version nicht mehr dem aktuellen Stand}}
+
+{{Exzellent}} 
+
+[[Kategorie:Exzellenter Artikel|Relativitatstheorie]]
+[[Kategorie:Relativitätstheorie]]
+[[Kategorie:Zeitbegriff]]
+[[Kategorie:1905]]
+[[Kategorie:1916]]
+
+[[ca:Teoria de la relativitat]]
+[[cs:Einsteinův princip relativity]]
+[[da:Relativitetsteori]]
+[[et:Relatiivsusteooria]]
+[[en:Theory of relativity]]
+[[es:Teoría de la Relatividad]]
+[[fa:نسبیت]]
+[[fr:Théorie de la relativité]]
+[[he:תורת היחסות]]
+[[is:Afst%C3%A6%C3%B0iskenningin]]
+[[it:Teoria della relatività]]
+[[lv:Relativitātes teorija]]
+[[lt:Reliatyvumo teorija]]
+[[mr:सापेक्षतावादाचा सिद्धांत]]
+[[hu:Relativitáselmélet]]
+[[nl:Relativiteitstheorie]]
+[[ja:相対性理論]]
+[[no:Relativitetsteorien]]
+[[pl:Teoria względności]]
+[[pt:Teoria da relatividade]]
+[[ro:Teoria relativităţii]]
+[[sk:Teória relativity]]
+[[sl:Splo%C5%A1na_teorija_relativnosti]]
+[[fi:Suhteellisuusteoria]]
+[[sv:Relativitetsteori]]
+[[th:ทฤษฎีสัมพัทธภาพ]]
+[[uk:Теорія відносності]]
+[[zh:相对论]]
