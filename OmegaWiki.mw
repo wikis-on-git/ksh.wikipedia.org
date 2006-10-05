@@ -1,0 +1,72 @@
+Dat
+'''WiktionaryZ''' ess_en ellëtronesch
+[[Wööterbooch]]
+em
+[[Internet]].
+Et weed jän med '''WZ''' [[Affköözung (Schriive)|affjekööz]].
+Ed_eß em Opbou,
+un sůll_enß e
+[[Nohkixel]]
+wääde,
+wo mer alle [[Woot|Wööter]]
+en alle [[Shprooch]]e
+medd_en Äklierong en alle Shprooche,
+un dänne ier [[Övversäzze|Övversäzong]] en alle Shprooche
+nohluure künne sull.
+Un noch enne Houfe mieh Ennfommazjone un Daate zo jedem Woot.
+
+== Tëshnigk ==
+Opjeboud_eß_dat_Jannze op dä Söüle:
+# Et hadd_en [[Web_Sigk]], woh mer sesh de Wööterbooch_Date, un e paar Sigge dröm_eröm, aanlure un enjëvve kann.
+# Et eß e [[Wiki]], wo ville Minsche jemëijnsam draan werreke künne, un ier Weßße ennjävve, su dadd_et zosamme jenumme widdo aan dii errußjejovve wääde kann, di dornoh froore.
+# Et hädd_en [[rellazjonal DaateBank]], woh de jannze [[Wööter]] un denne ier [[Daate]] dren stääshe. Dat määt, dat mer di joot en jeede Aat fowënnde kann, di mer met däm [[Tax_Date|Täx]] fun de nommaale Wikkiß nedd_esu joot_künndt.
+
+<!--
+# 
+
+is a translating multilingual dictionary based on a   It is commonly abbreviated as '''WZ''' (originally '''UW'''.)
+
+== Wi_t ëntshtund ==
+The first steps towards "WiktionaryZ" date back to [[August 30]] [[2004]] when on the Italian [[Wiktionary]] the first templates were inserted. These templates then served to permit a fast exchange of complete lists of words from one Wiktionary to the other.
+
+In that moment two [[wikt:Wiktionarian|Wiktionarian]]s, from the [[Italian language|Italian]] and the [[Dutch language|Dutch]] Wiktionary started to talk about methods of utilizing Wiktionarians' time more efficiently.  It was clear that copying and pasting these lists from one language Wiktionary to another was inefficient and error-prone, while increasing the amount of [[time]] needed to make corrections.  With separate Wiktionaries, the probability that a particular translation list would be out of sync with another version of the same list increased exponentially with each language Wiktionary added.
+
+The logical consequence was to think about inserting this data into a common place.  A project with the work name "Ultimate Wiktionary" took its first steps.  By December 2004 the basic functionalities were clear: an extension for the [[Mediawiki]] software, building on the [[Wikidata]] project.
+
+During the following year, when the programming of the software had already started, still many changes to the database design were made and more peculiarities of languages like [[Chinese language|Chinese]], [[Korean language|Korean]], [[Arabic language|Arabic]], [[Russian language|Russian]] and also [[sign language]] were considered, some of these thanks to various contacts during [[Wikimania]] [[2005]] in [[Frankfurt]].
+
+Unlike the original Wiktionaries, WiktionaryZ will allow for the download of data, particularly for reuse with other software.  For example, software [[CAT]] ([[Computer Assisted Translation]]), dictionary software on a local computer and spellcheckers.
+
+Currently, a prototype including only the data of the GEMET multilingual [[thesaurus]] is online.  This resource is considered to be an optimal collection of terminology to test functions with.
+
+==Important dates during the life of the project==
+*[[August 30]] [[2004]] first discussions
+* March [[2005]] first database design
+*[[December 26]] 2005 first read-only prototype
+*January 2006 the name of Ultimate Wiktionary is changed to WiktionaryZ
+*January 2006 the WiktionaryZ Committee starts working
+*end of February 2006 a second read-only prototype is online
+*[[April 30]] [[2006]] a first editable prototype (for a restricted number of people) came online
+*approx. August 2006 version 1.0
+
+== References ==
+{{unreferenced}}
+<references />
+-->
+== Websigge ==
+* [http://www.wiktionaryz.org/Development_wiki:Main_Page/ksh WiktionaryZ Ennjangß_Sigk]
+* [http://www.wiktionaryz.org/Portal:ksh WiktionaryZ Sigk övver de Kölsche Shprooch]
+* [http://meta.wikimedia.org/wiki/Category:Ultimate_Wiktionary Infomazjon övver de Aanfäng op Metta_Wikki] (''op [[änglesch (Shprooch)|änglesch]]'')
+* [http://wiktionaryz.blogspot.com/ Et Blog fum dem WiktionaryZ singe Kommißßjon] (''op [[änglesch (Shprooch)|änglesch]]'')
+* [http://eionet.eu.int/GEMET GEMET]
+
+<!-- ======= -->
+[[Category:Nohkixel]]
+[[Category:Websigk]]
+[[Category:Shprooche]]
+<!-- ======= -->
+[[de:Wikipedia:WiktionaryZ]]
+[[en:WiktionaryZ]]
+[[it:WiktionaryZ]]
+[[nap:WiktionaryZ]]
+[[sr:WiktionaryZ]]
