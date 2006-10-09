@@ -1,0 +1,32 @@
+Dä Name '''localhost''' hät ungo [[tcp/IP]] dä Kompjuto wo mo dran es, odo jrad drop es. Op do äjene Rääschno küt mo no met dä [[IP_Addräßß]] [[127.0.0.1]] un di eß nommahl op dä Name '''localhost''' [[jemäpp]]. Bäj [[IPv6]] eß dat di [[::1]], di doselve Deenß däjt. Hät mo do enne [[Sörvo]] am loufe, da kammer dä med localhost aanredde, zem Bäjshpell esu:
+
+ telnet localhost 1024
+ ftp localhost
+ http<nowiki>://localhost</nowiki>:8080/wiki/Main_Page
+
+Beddent weed dat all janz jenousu wi wann dat enne anndorre Rääshno wö.
+Op dö [[Protokoll]] Ebene jäjt dan dat [[Klajent Projramm]] med däm äjene Räschnor jenau esu öm wi wän dat enne beleebijje Räschnor em Ingernet wöhr. Mer bruch jaa käjne Zojangk noh'm Ingernet do för, et es jenooch, wämmo om äjene Süstem en [[loopback device]] ennjereshd hät. Dat es e shtök [[software]] wat sesh wi et Ingernet sellve benimmt, ävvo do bäj di Daate, di mo imm shek, jlish wido zerrög jit, als wi wän se fun drusse jekumme wööre.
+
+Jebruch weed das jähn fö de äijene Räsho uß ze probeere ih dat mo dänn aan et näz hängk, ävvo och fö Projamme ze täste befüür mo se errus jit. Mansh äjno hät et och leevo wan hä käjn Ungesheed zweshe däm äjene Rääshno un anndore em Näz maache möse.
+
+== Websigg ==
+
+* RFC 3330 — Spezjäll IPv4 Addräße
+* RFC 3513 — De IPv6 Addräße Arshitäktur
+
+[[Kategorie:tcp/IP]]
+
+[[da:Localhost]]
+[[de:Localhost]]
+[[en:Localhost]]
+[[es:Localhost]]
+[[fr:Localhost]]
+[[it:Localhost]]
+[[ja:Localhost]]
+[[lv:Localhost]]
+[[nl:Localhost]]
+[[nn:Localhost]]
+[[pl:127.0.0.1]]
+[[ru:127.0.0.1]]
+[[sv:Localhost]]
+[[tr:127.0.0.1]]
