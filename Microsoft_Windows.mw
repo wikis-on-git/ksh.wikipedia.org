@@ -1,0 +1,217 @@
+<!-- <big/>'''Bitte noch mieh övversetze!'''</big>
+
+Dieser Artikel beschäftigt sich mit dem Betriebssystem Microsoft Windows, weitere Bedeutungen von Windows unter [[Windows (Begriffsklärung)]]
+-->
+'''Microsoft Windows''' {{IPA|ˈmaɪkɹəsɒft ˈwɪndoʊz}} is' ene [[Markennom]] för ene [[Betdreevsystäämcher]] vun [[Microsoft]]. Janz primitif wör ''Microsoft Windows'', wee als bloodisch Vüürlog [[GEM]] oder [[Rohmenarbick]], en jroofische Erwickerung des Betdreevsystäämchers [[MicroSoft-DiskettOperazioonsSüsteem]]. Inzwische hat Finster/Windows das DOS-Fundament links lejje jeloße un preißt sisch selvs zum Noohfoljer odder Alternatief jääje DOS.
+
+
+== Prodüktleencher ==
+=== 16-Bit-Vesiunne vun Microsoft Windows ===
+* [[Microsoft Windows 1.0|Windows 1.0]]
+* [[Microsoft Windows 2.0|Windows 2.0]]
+* Windows 3.0 (Nöher beschriwwe unger [[Microsoft Windows 3.x|Windows 3.x]])
+* Windows 3.1
+** Windows 3.11
+* Windows för de Arbigsjroppe 3.1
+** Windows för de Arbigsjroppe 3.11
+
+=== DOS-Linnisch för 32-Bit-Rechner ===
+De [[32-Bit-Aaschitektur|32-Bit]]-Vesiunne baseeren op et [[MS-DOS]]-Süstääm, besitzen äwwer enen eije Süstäämkern ([[Kernel]]), dä noh dämm Süstäämstart de Süstäämzejreffe steuert. ''MS-DOS'' is trutzdääm intejraler Bestandtejl, jenau wie och dat Projramm [[Scandisk]]. Sig 
+''Microsoft Windows 95'' jitt et usserdääm de ejjeschränk Ungerstützung för [[prämptiefes Multitasking]] un dr Spischerschotz. Diss Linnisch weed uch als ''Windows 9x'' bezejschnet.
+
+Windows 95 baseete Vesiunne:
+* [[Microsoft Windows 95|Windows 95]]
+** Windows 95
+** Windows 95A
+** Windows 95B
+** Windows 95C
+* [[Microsoft Windows 98|Windows 98]]
+** Windows 98
+** Windows 98SE
+* [[Microsoft Windows ME|Windows ME]]
+
+=== NT-Linie ===
+Die ''Microsoft Windows NT''-Serie besitz ene eije [[Kernel]] bzw. Bedreevsystem-Kern. Dat Kürzel '''NT''' stejt luut Microsoft för '''New Technology''', wie ejner Relies-Ankündijong vun 1993 zu entnehmen ist und nicht, wie gelegentlich angenommen, für ''N-Ten'' (N10), ingem Emulator, op welschem dat Süstääm vun Microsoft in dä Anfangsfoos bedrivve wurd. 
+
+Windows NT wurde ursprünglich für verschiedene Prozessorarchitekturen angeboten, sowohl für 32-[[Bit]]-  als auch für 64-Bit-Systeme. Diese breit angelegte Unterstützung wurde allerdings im Laufe der Zeit immer mehr ausgedünnt. Seit der XP-Einführung werden nur noch Intel-i386-basierte Systeme unterstützt, die frühere Entwicklung von Versionen von NT für die Alpha-Architektur von [[DEC]] und weiteren stellte man nach und nach ein.
+
+''MS-DOS'' ist nur noch als [[Laufzeitumgebung]] verfügbar, und alle Systemaufrufe werden vom Systemkern gesteuert.
+
+NT besitzt [[präemptives Multitasking]] mit Speicherschutz. Direkte Hardwarezugriffe von Programmen sind also systembedingt (und im Gegensatz zur DOS-Linie) nicht erlaubt. Beginnend mit ''Microsoft Windows 2000'' wurden die NT-Linie und die Konsumentenvariante von Microsoft Windows vereinheitlicht und in eine gemeinsame Produktlinie überführt. Mit der XP-Version kann die Zusammenführung „unsicherer Consumer-Multimedia-Versionen, DOS-basiert“ und „sicherer NT-Profi-Versionen ohne Multimedia“ als abgeschlossen betrachtet werden.
+
+NT-basierte Versionen:
+* [[Microsoft Windows NT|Microsoft Windows NT 3.1]]
+* [[Microsoft Windows NT|Microsoft Windows NT 3.5]]
+* [[Microsoft Windows NT|Microsoft Windows NT 3.51]]
+* [[Microsoft Windows NT|Microsoft Windows NT 4.0]]
+* [[Microsoft Windows 2000]] (NT 5.0)
+* [[Microsoft Windows XP]] (NT 5.1)
+* [[Microsoft_Windows_PE]] (Microsoft Windows Preinstallation Environment/XP-Kernel)
+** [[Windows XP Media Center Edition]] (2004/2005)
+** Microsoft Windows XP N (Das N steht für No Media player)
+** [[Microsoft Windows XP Starter Edition]] 
+** Microsoft Windows XP Codename Mönch/Eiger (abgespeckte Versionen von XP) 
+** [[Microsoft Windows XP 64-bit Edition]]
+* [[Microsoft Windows Server 2003]] (NT 5.2)
+* Microsoft [[Windows Vista]] (NT 6.0 - voraussichtliche Erscheinung: Ende 2006)
+* Microsoft Windows Codename [[Blackcomb]] (voraussichtliche Erscheinung: 2012)
+
+=== CE-Linie für mobile Geräte ===
+* [[Microsoft Pocket_PC|Microsoft Windows CE 1.0]]
+* [[Microsoft Pocket_PC|Microsoft Windows CE 2.0]]
+* [[Microsoft Pocket_PC|Microsoft Windows CE 2.01]]
+* [[Microsoft Pocket_PC|Microsoft Windows CE 2.02]]
+* [[Microsoft Pocket_PC|Microsoft Windows CE 2.1]]
+* [[Microsoft Pocket_PC|Microsoft Windows CE 2.11]]
+* [[Microsoft Pocket_PC|Microsoft Windows CE 2.12]]
+* [[Microsoft Pocket_PC|Microsoft Pocket PC]]
+* [[Microsoft Pocket_PC|Microsoft Pocket PC 2001]]
+* [[Microsoft Pocket_PC|Microsoft Pocket PC 2002]]
+* [[Microsoft Pocket_PC|Microsoft Windows Mobile 2003 für Pocket PC]] (auch als ''Phone Edition'' mit Telefonfunktionen)
+* [[Microsoft Pocket_PC|Microsoft Windows Mobile 5.0]]
+* [[Windows Automotive|Microsoft Windows Automotive]]
+ 
+
+Des weiteren gibt es noch unterschiedliche Versionen für einzelne Gerätetypen sowie spezielle Versionen für diverse [[CPU|CPUs]].
+
+== Windoow un sing Versioone ==
+{{Üvversezze}}
+Microsoft konnte mit seinen Betriebssystemen im Laufe der [[1990er]] Jahre eine Vorrangstellung auf dem [[Schreibtisch (EDV)|Desktop]]-Markt erreichen und bildet ein Quasi-[[Monopol]]. Alternativen stellen die [[Freie Software|freien]] [[Open Source]]-Betriebssysteme [[Linux]] und [[Berkeley Software Distribution|BSD]] sowie das nicht freie [[Mac OS X]] dar.
+Zwischen den Fangemeinden von Linux, Mac und Windows gibt es oft unversöhnliche Meinungsverschiedenheiten. Ein Hauptvorwurf an Windows war die unbefriedigende Stabiliät, die mit Windows ME einen Höhepunkt erreichte. In späteren Versionen räumte Microsoft diesem Punkt höhere Priorität ein, wodurch sich die Stabilität unter Anderem aufgrund der NT-Basis deutlich verbesserte.
+
+Um den Begriff „Windows“ als Markennamen gibt es andauernden Streit, da er beschreibenden Charakter hat, für eine Funktion des Betriebssystems (nämlich Programme in Fenstern laufen zu lassen), und daher auch andere den Begriff in ihren Produkten verwenden wollen. Um Missverständnisse zu vermeiden, sollte man möglichst immer den vollständigen Markennamen ''Microsoft Windows'' verwenden.
+
+Nicht zu Ende scheint auch der Bedeutungsinhalt von „WinTel“: der teils als unheilig bezeichneten Allianz zwischen Microsoft Windows-Versionen und den Entwicklungs-Generationen der Intel-Prozessoren:
+
+Eine neue Windows-Version wird leistungsfähiger – es mangelt an Speicherplatz und Prozessorleistung.
+Intel bringt hierzu neue, schnellere Prozessoren heraus – bestehende Hardware der Nutzer erscheint peu a peu veraltet. Microsoft nutzt die neue, schnellere Hardware – und bringt mit der nächsten, leistungsfähigeren Windows-Version wieder höhere Anforderungen an die Technik. Und so weiter und so fort – ein bislang ohne Ende sich drehendes Rad. Siehe unten die Planungen für '''Blackcomb'''.
+
+=== De wishtishßten Windoows Wersjoohnen &mdash; övverblick („Ärbeijdsnaame“ – Produkktnaame) ===
+
+Dä '''Ärbeijdsnaame''' iß &hellip;
+Dä '''Produkktnaame''' iß &hellip;
+
+'''„Interface Manager“''' - Windows 1.0, erste Version überhaupt, die 1983 auf der Comdex vorgestellt wurde. Es wurde von der Marketing-Abteilung in „Windows“ umbenannt, da die Entwickler immer von Fenstern sprachen. Im November 1985 stand es schließlich in den Läden.
+
+'''„Sparta“''' - Windows für Workgroups 3.1, erste netzwerkfähige Windows-Version. Im Handel war es im November 1992 erhältlich.
+
+'''„Daytona“''' - Windows NT 3.5, eine Weiterentwicklung von WinNT 3.1, die weiterhin mit der Oberfläche von Windows 3.x daher kam. Es bot nicht viel Neues, hauptsächlich wurden nur Verbesserungen in Stabilität und Geschwindigkeit gemacht. Auf dem Markt war es schließlich im September 1994 zu finden.
+
+'''„Chicago“''' – [[Microsoft Windows 95|Windows 95]], bestverkauftes System aller Zeiten, Endversion im Verkauf August 1995. In beiden Folgejahren erscheinen Windows 95 B (zweite Fassung) und Windows 95 C (dritte Fassung). Das System wird seit Januar 2002 von Microsoft offiziell nicht mehr unterstützt.
+
+'''„Shell Update Release“''' – [[Microsoft Windows NT|Windows NT 4.0]], oft fälschlicherweise mit dem Codenamen '''„Cairo“''' in Verbindung gebracht, erscheint kurz nach Win95, es hat im Gegensatz zu Windows NT 3.x die gleiche Benutzeroberfläche wie Win95, ist aber nicht mehr DOS-basierend sondern bietet mit einem neuen Kernel eine Reihe, bei anderen für professionellen Einsatz ausgelegten Systemen bereits übliche, Funktionen. Microsoft hofft mit den darauf folgenden Server-Versionen auch diesen Markt für sich zu gewinnen. Der Kern ist stabiler als Windows 95. Auch dieses System wird seit Januar [[2002]] von Microsoft nicht mehr unterstützt.
+
+'''„Nashville“''' – Windows 95 B, sollte ein eigenes System werden (Windows 96), das hauptsächlich Verbesserungen und Erweiterungen zum Thema Internet bereithielt, unter anderen auch Internet Explorer 3.5, der ebenfalls nie erschienen ist. Ideeninhalt floss komplett in Windows 95 B ein.
+
+'''„Memphis“''' – [[Microsoft Windows 98|Windows 98]], erscheint als Evolutionsstufe von Windows 95 drei Jahre später. Es enthält hauptsächlich Internet-Erweiterungen wie den integrierten [[Internet Explorer]] 4.0 sowie Multimedia-Erweiterungen. Ab 2006 wird Windows 98 nicht mehr von Microsoft unterstützt. Bereits jetzt wird es nicht weiter in den Regalen verkauft, es ist nur noch über ausgewählte Händler zu beziehen. Zweiterfolgreichstes System neben Windows 95. Mitte [[1999]] erschien eine überarbeitete Version von Windows 98, Windows 98 Second Edition (Zweite Ausgabe). Sie enthält beispielsweise das Windows 98 Service Pack 1, den Internet Explorer 5 sowie einige Verbesserungen im Bereich Multimedia und USB.
+
+'''„Georgia“''' – [[Microsoft Windows ME|Windows Millennium Edition]], ist gegen Ende [[2000]] als Nachfolger von Windows 98 auf dem Markt erschienen. Auch hier wurden hauptsächlich kosmetische Änderungen und Multimedia-Verbesserungen vorgenommen - so zum Beispiel eine verbesserte Version des [[Windows Media Player]]. Ein Tool zur Systemwiederherstellung, an einem automatischen oder vom Benutzer gesetzten Punkt, ist ähnlich wie in Windows XP möglich. Ferner wurde der Schutz von Systemdateien verbessert. Das Löschen von diesen wird jetzt durch die "system file protection" (SFP) PC-Health, im Gegensatz zu den Vorgängerversionen, von vornherein verhindert. Durch das Programm „Komprimierte Ordner“ wird das Erstellen und Entpacken von ZIP-Archiven direkt unterstützt. Darüber hinaus enthält es noch eine Handvoll neue Funktionen und galt daher als Pausenfüller bis zur nächsten „großen“ Windows-Version, dem heutigen Windows XP.
+
+'''„Neptune“''' – Windows 2000 Home Edition, niemals erschienen, Projekt wurde abgebrochen. Neptune sollte ursprünglich die Heim-Version von Windows 2000 werden, aber all die Ideen von Neptune sind später in Windows XP eingeflossen. Eine Testversion gab es jedoch.
+
+'''„NT 5.0“''' – [[Microsoft Windows 2000|Windows 2000]], ist Anfang 2000 erschienen und stellt den Nachfolger von Windows NT 4 dar. Es ist weitaus stabiler als sein Vorgänger, bietet neue Unterstützung für Geräte aller Art und stellt auch Spielmöglichkeiten zur Verfügung. Windows 2000 wird später auch in Server-Versionen ausgeliefert, die für unterschiedliche Unternehmensgrößen ausgelegt sind, um seinen Vorgänger der NT 4 Server abzulösen. [[Active Directory]] wird in den Servervarianten das erste mal angeboten. Ab 2006 werden die Server-Versionen eingestellt.
+
+'''„Odyssey“''' – Windows-2000-Nachfolger, abgebrochen, nie erschienen. Projektinhalt ist in Windows XP eingeflossen.
+
+'''„Whistler“''' – [[Microsoft Windows XP|Windows XP]] ''(interne Versionsnummer 5.1 und somit direkter Nachfolger von 2000)'', ist im Oktober [[2001]] erschienen und verschmilzt erstmals die beiden Produktschienen zwischen kommerziellem und Heim-System, stellt auch eine neue Benutzerführung bereit mit noch mehr Multimedia und Internet im System. Die neue Produktaktivierung soll [[Urheberrecht|urheberrechtswidrige]] Verwendung verhindern, es gab und gibt darüber heftige Diskussionen, in denen man Microsoft seine Vorgehensweise als Ausspionieren von Benutzern vorwarf und vorwirft. Ohne Nachfrage beim Nutzer lässt sich Microsoft eine große Menge an Daten regelmäßig übermitteln, u.a. den zuletzt mit dem MS-Mediaplayer benutzten Medieninhalt (Filmtitel etc.), weshalb viele Nutzer alternative Mediaplayer bevorzugen. 
+Im August [[2004]] wurde das Service Pack 2 veröffentlicht, dieses gilt schon als Vorstufe zur neuen Windows Version Longhorn.
+
+'''„.NET Server“''' – [[Windows Server 2003]], die Server-Variante von Windows XP, und Nachfolger der Windows 2000 Server-Systeme. Diese ist einige Monate nach Windows XP erschienen.
+
+'''„Longhorn“''' – [[Microsoft Windows Vista|Windows Vista]], Die erste Alphaversion zu Windows Longhorn kam bereits Anfang 2002 heraus, der endgültige Release ist für Sommer 2006 geplant, wobei es sich bei Windows Longhorn um eine Übergangsversion zu Windows Blackcomb handelt. Im Mittelpunkt der Entwicklung steht vor allem ein datenbankbasiertes [[SQL]]-Dateisystem namens [[WinFS]] und einige weitere Neuerungen gegenüber Windows XP, wobei bereits jetzt angekündigt wurde, dass [[WinFS]] nicht in der Verkaufsversion enthalten sein wird und später nachgeliefert werden soll. Außerdem soll die grafische Benutzerschnittstelle neu aufgebaut sein, in der auch neue Desktopthemes vorhanden sein werden.
+
+'''„[[Microsoft Windows Blackcomb|Blackcomb]]“''' – Windows Blackcomb wird es wahrscheinlich in einer 32-Bit- und einer 64-Bit-Version geben. Der Desktop könnte komplett reorganisiert werden, da Microsoft plant, den Desktop mehrdimensional zu gestalten. Mit Windows Blackcomb geht Microsoft Plänen nach, den PC als Steuereinheit für komplett vernetzte Häuser einzubinden.
+
+'''„XP Eiger/Mönch“''' – Unter den Codenamen Eiger resp. Mönch entwickelt Microsoft zwei Thinclient-Versionen von Windows XP. Eiger ist dabei die Basisvariante, während Mönch bereits Sicherheitsmerkmale (Security-Features) aufweist. Die Vollversion von Windows XP wird aufgrund ihrer Hardwareansprüche allgemein als ungeeignet für Thin Clients angesehen. Zum Betrieb von Microsoft Windows XP Eiger & XP Mönch sollen bereits ein Pentium-Prozessor und 64 MByte RAM sowie 500 MB Festplattenspeicher ausreichen.
+
+== Ußßerdämm ==
+* [[Microsoft Windows PE]]
+* [[Betriebssystem]] (operating system)
+* [[Unix]]
+* [[Linux]]
+* [[Linspire]] (vormals Lindows)
+* [[Mac OS]]
+* [[OS/2]]
+* [[BeOs]]
+* [[ReactOS]]
+* [[Unbeaufsichtigte Installation]]
+* [[Windows Installer]]
+* [[Windows-Witze]] ([[Wintendo]])
+
+== Websigge ==
+* [http://www.winhistory.de/ Seite mit allen Windowsversionen und dazugehörigen Screenshots und Infos]
+* [http://www.microsoft.com/germany/windowsxp/praxis/history/default.mspx Geschichte von Microsoft Windows 1.0 bis XP aus der Perspektive Microsofts]
+* [http://www.neowin.net/articles.php?action=more&id=53 Geschichte von Microsoft Windows] (englisch)
+* [http://www.microsoft.com/windows/WinHistoryDesktop.mspx Microsoft Windows Desktop Products History] (englisch)
+* [http://www.winfaq.de/ Fragen und Antworten rund um Windows, die ultimative FAQ im Internet]
+* [http://www.windowszone.de/ Microsoft: Wissensportal rund um Windows]
+* [http://www.levenez.com/windows/ Windows-Versions-Geschichte]
+* [http://www.windowszone.de/Windows_95_Vista.Windows Das Treffen der Generationen: Windows 95 und Windows Vista. 10 Jahre Entwicklungsgeschichte (Teil 1, Windows 95 erscheint)]
+<!-- ======= -->
+[[an:Microsoft Windows]]
+[[ar:مايكروسوفت ويندوز]]
+[[ast:Microsoft Windows]]
+[[az:Microsoft Windows]]
+[[bat-smg:Microsoft Windows]]
+[[bg:Microsoft Windows]]
+[[bs:Microsoft Windows]]
+[[ca:Microsoft Windows]]
+[[cs:Microsoft Windows]]
+[[da:Microsoft Windows]]
+[[de:Microsoft Windows]]
+[[el:Microsoft Windows]]
+[[en:Microsoft Windows]]
+[[eo:Vindozo]]
+[[es:Microsoft Windows]]
+[[et:Microsoft Windows]]
+[[eu:Microsoft Windows]]
+[[fa:ویندوز]]
+[[fi:Microsoft Windows]]
+[[fr:Microsoft Windows]]
+[[gl:Windows]]
+[[he:Microsoft Windows]]
+[[hr:Microsoft Windows]]
+[[hu:Microsoft Windows]]
+[[ia:Microsoft Windows]]
+[[id:Windows]]
+[[is:Microsoft Windows]]
+[[it:Microsoft Windows]]
+[[ja:Microsoft Windows]]
+[[jbo:la canko]]
+[[ko:마이크로소프트 윈도]]
+[[ku:Microsoft Windows]]
+[[la:Microsoft Windows]]
+[[lb:Microsoft Windows]]
+[[li:Windows]]
+[[lt:Microsoft Windows]]
+[[lv:Microsoft Windows]]
+[[mk:Microsoft Windows]]
+[[ml:മൈക്രോസോഫ്ട്‌ വിന്‍ഡോസ്‌]]
+[[mr:मायक्रोसॉफ्ट विंडोज]]
+[[ms:Microsoft Windows]]
+[[nds:Microsoft Windows]]
+[[nl:Microsoft Windows]]
+[[nn:Microsoft Windows]]
+[[no:Microsoft Windows]]
+[[pl:Microsoft Windows]]
+[[pt:Microsoft Windows]]
+[[ro:Microsoft Windows]]
+[[ru:Microsoft Windows]]
+[[sh:Microsoft Windows]]
+[[simple:Microsoft Windows]]
+[[sk:Microsoft Windows]]
+[[sl:Microsoft Windows]]
+[[sq:Microsoft Windows]]
+[[sr:Мајкрософт Виндоус]]
+[[sv:Microsoft Windows]]
+[[ta:வின்டோஸ்]]
+[[th:ไมโครซอฟท์ วินโดวส์]]
+[[tr:Microsoft Windows]]
+[[uk:Microsoft Windows]]
+[[ur:MS Windows]]
+[[uz:Microsoft Windows]]
+[[vi:Microsoft Windows]]
+[[yi:ווינדאוס]]
+[[zh:Microsoft Windows]]
+[[zh-min-nan:Microsoft Windows]]
+[[zh-yue:Microsoft Windows]]
