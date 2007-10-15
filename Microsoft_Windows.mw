@@ -30,7 +30,17 @@ Windows 95 baseete Vesiunne:
 ** Windows 98SE
 * [[Microsoft Windows ME|Windows ME]]
 
-=== NT-djtzkxtr7lk,trxuxut
+=== NT-Linie ===
+Die ''Microsoft Windows NT''-Serie besitz ene eije [[Kernel]] bzw. Bedreevsystem-Kern. Dat Kürzel '''NT''' stejt luut Microsoft för '''New Technology''', wie ejner Relies-Ankündijong vun 1993 zu entnehmen ist und nicht, wie gelegentlich angenommen, für ''N-Ten'' (N10), ingem Emulator, op welschem dat Süstääm vun Microsoft in dä Anfangsfoos bedrivve wurd. 
+
+Windows NT wurde ursprünglich für verschiedene Prozessorarchitekturen angeboten, sowohl für 32-[[Bit]]-  als auch für 64-Bit-Systeme. Diese breit angelegte Unterstützung wurde allerdings im Laufe der Zeit immer mehr ausgedünnt. Seit der XP-Einführung werden nur noch Intel-i386-basierte Systeme unterstützt, die frühere Entwicklung von Versionen von NT für die Alpha-Architektur von [[DEC]] und weiteren stellte man nach und nach ein.
+
+''MS-DOS'' ist nur noch als [[Laufzeitumgebung]] verfügbar, und alle Systemaufrufe werden vom Systemkern gesteuert.
+
+NT besitzt [[präemptives Multitasking]] mit Speicherschutz. Direkte Hardwarezugriffe von Programmen sind also systembedingt (und im Gegensatz zur DOS-Linie) nicht erlaubt. Beginnend mit ''Microsoft Windows 2000'' wurden die NT-Linie und die Konsumentenvariante von Microsoft Windows vereinheitlicht und in eine gemeinsame Produktlinie überführt. Mit der XP-Version kann die Zusammenführung „unsicherer Consumer-Multimedia-Versionen, DOS-basiert“ und „sicherer NT-Profi-Versionen ohne Multimedia“ als abgeschlossen betrachtet werden.
+
+NT-basierte Versionen:
+* [[Microsoft Windows NT|Microsoft Windows NT 3.1]]
 * [[Microsoft Windows NT|Microsoft Windows NT 3.5]]
 * [[Microsoft Windows NT|Microsoft Windows NT 3.51]]
 * [[Microsoft Windows NT|Microsoft Windows NT 4.0]]
