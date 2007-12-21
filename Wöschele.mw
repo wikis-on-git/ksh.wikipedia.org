@@ -1,9 +1,63 @@
+{{Oat Kaste
+|Wappe             = Wappen_von_Würselen.png
+|Kaat              =
+|Kaat Txt          = Wo iss dat?
+|Översesh Lbl      = Övverseesh
+|Bunsland          = Noodrhing-Weßßfaale
+|Bunsland Lbl      = Bunndsland
+|Bunsland Lbl Sig  = Bundesland (Deutschland)
+|RegBez            = Kölle
+|RegBez Sig        = Rijierungsbezörk Kölle
+|RegBez Lbl Sig    = Rijierungsbezörk
+|Landkris          = Kreijß Oche
+|Landkris Lbl Sig  = Landkreijs
+<!--
+|PLZ4              = [[5x2]]
+-->
+|PLZ5              = [[52146]]
+|PLZ5 Lbl Sig      = Poßleijzahl
+|Tel               = [[02405]]
+|Tel Lbl           = Vüürwahl
+|Tel Lbl Sig       = Telefonvorwahl
+|Autos             = [[AC]]
+|Autos Lbl Sig     = Autonummere
+|JemSchl           = 05 3 54 036
+|JemSchl Lbl       = Jemeijndeschlüssel
+|JemSchl Lbl Sig   = Amplishe Jemeijndeschlüssel
+
+|Hüh               = 191
+|Hüh Lbl           = Wie huh lit dat?
+|Hüh Ein           = [[Meter|m]] ü. [[Normalnull|NN]]
+|Bewoner           = 37130
+|Bewoner Lbl       = Wi vill Minsche wonne do?
+|Bewoner Stand     = (31. Dez. 2004)
+|Wigde             = 34.385
+|Wigde Lbl         = Wie jrouß is dat?
+|Wigde Ein         = [[Kwadraatkilometer|km²]]
+|BewPro            = 1080
+|BewPro Ein        = <small>[[Lück]] pro [[km²]]</small>
+|BewPro Stand      = (31. Dez. 2004)
+|GeoKoord          = 50° 49' n. Br., 06° 08' ö. L.
+|GeoKoord Lbl      = Wo is dat jenou?
+|GeoKoord Lbl Sig  = Läng un Breed
+|Adres             = Morlaixplatz 1<br />[[52146]] [[Würselen]]
+|Adres Lbl         = Adräss vun de Stadtverwaltung
+|Website           = www.wuerselen.de
+|Website Lbl       = Offizjäll [[Website]]
+|e-mail            = info@wuerselen.de
+|e-mail Lbl        = [[E-Mail]]-Adräs
+|Politik Lbl       = Politik
+|Bürjermeister     = [[Werner Breuer]] ([[CDU]])
+|Bürjermeister Lbl Sig = Börjermeejster
+}}
+<!--
 {| border="0" cellpadding="2" cellspacing="1" width="250" align="right" style="margin-left:1em; background:#e3e3e3;"
 ! Wappe
 ! Kaat
 |- bgcolor="#FFFFFF" align="center"
 | style="width: 145px;" | [[Beld:Wappen_von_Würselen.png|120px]]<br />
-| width="145" | <!--[[Beld:Karte_Deutschland.png|150px|Wo iss dat?]]-->
+| width="145" | <!--[[Beld:Karte_Deutschland.png|150px|Wo iss dat?]]--
+>
 |-
 ! colspan="2" | Övverseesh
 |---- bgcolor="#FFFFFF"
@@ -41,7 +95,20 @@
 |---- bgcolor="#FFFFFF"
 | [[Börjermeejster]]: || [[Werner Breuer]] [[CDU]]
 |}
-
+--
+{{#expr: 2 * 34,56 }} --
+{{#expr: 2 * 34.56 }} --
+{{#expr: 2 / 34,56 }} --
+{{#expr: 2 / 34.56 }} --
+{{#expr: 34.56 / 2 }} --
+++
+{{formatnum:{{#expr: 2 * 34.56 }} }} --
+{{formatnum:{{#expr: 2 / 34.56 }} }} --
+{{formatnum:{{#expr: 34.56 / 2 }} }} --
+++
+{{formatnum:{{#expr: 1234.56789 }} | 2 }} --
+++
+<!-- -->
 '''Wöschele'''  
 (et schpreischt sesch „wöschele“ met'ne weisch „sch“) essen Schtadt en de Nöh vun [[Oche]] un [[Aischwiele]] em [[Kreijß Oche]].
 
