@@ -11,6 +11,7 @@ Do schtonn 207 Wööter dren, un mer schriif ėmme nevven_ennannder, wi däsäll
 !Ënglish
 !Deutsch
 !Öcher Platt
+!Bönnsch
 !Kölsch
 !Krievelsch
 !Holländesch
@@ -20,13 +21,15 @@ Do schtonn 207 Wööter dren, un mer schriif ėmme nevven_ennannder, wi däsäll
 | {{lang|de|haben}}
 | hän
 | hann
+| hann
 | hant, häbbe
 | {{lang|nl|hebben}}
 | …
 |-
 | {{lang|en|child}}
 | {{lang|de|Kind}}
-| 
+|
+| Panz, Könd 
 | Panz
 | Weet, Kenk
 | {{lang|nl|Kind}}
@@ -34,10 +37,20 @@ Do schtonn 207 Wööter dren, un mer schriif ėmme nevven_ennannder, wi däsäll
 |-
 | {{lang|en|to wash}}
 | {{lang|de|waschen}}
-| 
+|
+| weische 
 | wäsche
 | wäsche
 | {{lang|nl|wassen}}
+| …
+|-
+| {{lang|en|to eat}}
+| {{lang|de|essen}}
+|
+| eiße 
+| esse
+| 
+| {{lang|nl|eten}}
 | …
 |-
 | … || … || … || … || … || … || …
