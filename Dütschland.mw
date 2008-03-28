@@ -20,7 +20,7 @@
 |ksh-wreka=
 |mei=
 |nds=Düütschland
-|nds-nl:Duutslaand
+|nds-nl=Duutslaand
 |nl=
 |nld=Duitsland
 |pdc=Deitschland
@@ -33,23 +33,17 @@
 {{Navvi Europa Shtaate}}
 {{stub}}
 <!-- ======= -->
+[[Category:Dütschland| ]]
 [[Category:Jääjendt]]
 [[SaachjrupP:Shtaat]]
 [[SaachjrupP:Europa]]
-[[Category:Deutschland]]
 <!-- ======= -->
-
-{{Link FA|af}}
-{{Link FA|ar}}
-{{Link FA|en}}
-{{Link FA|yi}}
-
-[[af:Duitsland]]
+[[af:Duitsland]]{{Link FA|af}}
 [[als:Deutschland]]
 [[am:ጀርመን]]
 [[an:Alemaña]]
 [[ang:Þēodiscland]]
-[[ar:ألمانيا]]
+[[ar:ألمانيا]]{{Link FA|ar}}
 [[arc:ܓܪܡܢ]]
 [[ast:Alemaña]]
 [[ay:Alimaña]]
@@ -86,7 +80,7 @@
 [[ee:Germany]]
 [[el:Γερμανία]]
 [[eml:Germâgna]]
-[[en:Germany]]
+[[en:Germany]]{{Link FA|en}}
 [[eo:Germanio]]
 [[es:Alemania]]
 [[et:Saksamaa]]
@@ -227,7 +221,7 @@
 [[wuu:德国]]
 [[xal:Германь]]
 [[xh:IJamani]]
-[[yi:דייטשלאנד]]
+[[yi:דייטשלאנד]]{{Link FA|yi}}
 [[yo:Germany]]
 [[zea:Duutsland]]
 [[zh:德国]]
