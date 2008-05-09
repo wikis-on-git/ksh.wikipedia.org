@@ -21,7 +21,7 @@ Dä Ongerscheed zwesche Faase un de Agrejaatzohshtäng eß besöndersch fun Jewe
 == Alljemëijn: Wat sin Faase? ==
 Em alljemëijne sėn zwëij ongerscheedlijje Zohshtänd fon ennem Süßteem en ongerscheedlijje Faase, wann mer enne plözlejje Fo'ännderong fon ier füssekaalėsche Ëijeschaffte hät, be_m Övverjanng fom ëijne Zohshtannd noh_m anndere. Anndos_eröm sėnn zwëij Zohschtänd en desëllve Faaß, wam_mer dä ëijne en dä anndere erröver brenge kann, un dat der_oohne plözlejje Änderong mööschlesch eß.
 
-(Klëijne Ußnaahme jidd_et ävver, süsh onge em Affschnedd_övver de Faase-Dijajramme, dä [[krėttėsche Punk (Füssik)|krėttėsche Punk]] zwesche Flößßeschkëijd_un Jaahß eß esu ëijn.
+(Klëijne Ußnaahme jidd_et ävver, süsh onge em Affschnedd_övver de Faase-Dijajramme, dä [[krėttėsche Pungk (Füssik)|krėttėsche Pungk]] zwesche Flößßeschkëijd_un Jaahß eß esu ëijn.
 
 {{Övversäzze!}}
 An important point is that different types of phases are associated with different physical qualities. When discussing the solid, liquid, and gaseous phases, we talked about rigidity and compressibility, and the effects of varying the pressure and volume, because those are the relevant properties that distinguish a solid, a liquid, and a gas. On the other hand, when discussing [[paramagnetism]] and [[ferromagnetism]], we look at the magnetization, because that is what distinguishes the ferromagnetic phase from the paramagnetic phase. Several more examples of phases will be given in the following section.
@@ -30,18 +30,17 @@ In more technical language, a phase is a region in the [[parameter space]] of [[
 
 When a system goes from one phase to another, there will generally be a stage where the free energy is non-analytic. This is a [[phase transition]]. Due to this non-analyticity, the free energies on either side of the transition are two different functions, so one or more thermodynamic properties will behave very differently after the transition. The property most commonly examined in this context is the [[heat capacity]]. During a transition, the heat capacity may become infinite, jump abruptly to a different value, or exhibit a "kink" or discontinuity in its [[derivative]]. See also [[differential scanning calorimetry]].
 
-[[Image:Heat-capacity-transition.svg|thumb|400px|center|Possible graphs of heat capacity (C) against temperature (T) at a phase transition]]
+[[Image:Heat-capacity-transition.svg|thumb|400px|center|Mööschlejje Zosammehäng fun de Wärmemënge (C) met_e Temperatur (T) am Faase_Övverjang]]
 
-==Phase diagrams==
-{{Main article|Phase diagram}}
+== Faase Dijajramme ==
+De ëijnzelle ongerscheedlijje Faase fon_ennem Süßteem kam_mer med_ennem [[Faase Dijajramme|Faasedijajramm]] daashtëlle.
+Op dee [[Koodinnaate_Axe]] drääht mer fö jewöönlesch de belangfolle [[Tërrmodünnamėk|tërrmodünnamėsche]] [[Varėjable (Füssik)|Varėjable]] op. Bëij ëijnfache [[Meshaanėk (Füssėk)|meshaanėshe]] Süßteeme eß dat dermiihtß de [[Tëmperatuuer]] un dr [[Drok (Füssėk)|Drok]].
 
-The different phases of a system may be represented using a '''phase diagram'''. The axes of the diagrams are the relevant thermodynamic variables. For simple mechanical systems, we generally use the [[pressure]] and [[temperature]].
+[[Image:phase-diag.svg|thumb|300px|E tüppėsch Faasedijajramm förr_e Matrijaal, wat en faßte, en flößßėje un en Jaahß-Faaß hät]]
 
-[[Image:phase-diag.svg|thumb|300px|A phase diagram for a typical material exhibiting solid, liquid and gaseous phases]]
+De Makkėerronge en dämm Faasedijajramm zëije di Ponngkte, woh de fohanndene [[Ennëjii (Füssėk)|Ennëjii]] sesh nit annalütesch fo'hallde dëijt. De offe Berëishe, woh de sesh annalüttėsch fo'hallde dëijt, donn dä Faase ëntshprääshe. En dämm Dijajramm, sėn de Faase met Lėnnėje jetrännt. Doh laanß eß dat Süßteem met sėnge Ënnëjii nit analüttėsch. Esu Stëlle nënnt me de '''Faase-[[Övverjang|Övverjäng]]''' oddo och Faase-Jrënze.
 
-The markings on the phase diagram show the points where the free energy is non-analytic. The open spaces, where the free energy is analytic, correspond to the phases. The phases are separated by lines of non-analyticity, where phase transitions occur, which are called '''phase boundaries'''.
-
-In the diagram, the phase boundary between liquid and gas does not continue indefinitely. Instead, it terminates at a point on the phase diagram called the [[critical point (chemistry)|critical point]].  At temperatures and pressure above the critical point, the physical property differences that differentiate the liquid phase from the gas phase become less defined.  This reflects the fact that, at extremely high temperatures and pressures, the liquid and gaseous phases become indistinguishable. In water, the critical point occurs at around 647 [[Kelvin|K]] (374 °C or 705 °F) and 22.064 [[Pascal (unit)|MPa]].
+Ėn dämm Belld hee jëijt de Faase-Jrënß zwesche dä [[Flößßesch]]këijd_un dämm Jaahß nit iiewėsh wigger. Enää, se hööd_op aan ennem Pungk em Faasedijajramm, dä mer dä [[krėttėsche Pungk (Füssik)|krėttėsche Pungk]] nännt. Bëij rėshtėsh huue Tëmpratuure zosamme medd_em riisėjje Drok, ovverhallef fon dämm krettische Pungk äävenß, do foschwemme de füssėkaalesch Ongescheede zwesche Flößßeschkëijd_un Jaahß esu, dat mer se ööhnzwann nit mieh ongerschëije kann. Woh dä Pungk eß, ess_en [[Matrijaalëijeschaff]]. Et Waßer hät dä onjevääe bëij 647&nbsp;[[Kelvin|K]] (oddo 374&nbsp;°C) un 22,064&nbsp;[[Mega|M]][[Pascal (Mohß)|Pa]].
 
 The existence of the liquid-gas critical point reveals a slight ambiguity in our above definitions. When going from the liquid to the gaseous phase, one usually crosses the phase boundary, but it is possible to choose a path that never crosses the boundary by going to the right of the critical point. Thus, phases can sometimes blend continuously into each other. This new phase which has some properties that are similar to a liquid and some properties that are similar to a gas is called a [[supercritical fluid]]. We should note, however, that this does not always happen. For example, it is impossible for the solid-liquid phase boundary to end in a critical point in the same way as the liquid-gas boundary, because the solid and liquid phases have different [[symmetry in physics|symmetry]].
 
