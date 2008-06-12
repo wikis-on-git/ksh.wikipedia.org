@@ -1,0 +1,387 @@
+{{Atikkel_op|Kölsch|}}
+
+
+De
+'''Windows Glyph List 4''', fö_jewööhnlesch [[Affköözong (Schriive)|affjekööz]] als '''[[WGL4]]''', di nënnt mer och der '''Pan_europäjėsche Zëijschesaz'''.
+Dat eß en Sammlong uß 652 [[Zëijsche (Kompjuto)|Zëijsche]], di fon de nöüjßte [[Bedriifsüstem]]e fun dä [[Ferrma]] ''{{lang|en|[[Microsoft]]}}'' komme solle, un em [[Unicode]] dren sėn.
+Der Senn dohenger eß, en Rėschschnuur ze jëvve för dė Lück un Fėrrme,
+di [[Schreff]]te bou, wo mer de [[natörlėshe Shprooch]]e fun [[Europpa]] med opschriive kann. Fö allem jeijd_et do_bëij_öm Schreffte, di_j_e Zëijsche, odder enne [[Jlühf]], fon mööshlėshß jeedem Schreffzëijshe uß alle Shprooche han. Schreffte, di dat han, künne fun sesch saare, dat se WGL4-kompatiibel sen, un mer kann domet reschne, dat_se met ene jroße Aanzahl [[Projramm (Kompjuto)|Projramm]]e zosamme shpelle.
+
+Zick [[2004 (Joohr)|2004]] sen de WGL4 Zëijshe de ëijnzėjje wo fon sescher sėnn soll, dat se met dä nöüjere Väsjohne fun de ''{{lang|en|[[Microsoft Windows]]}}''. Mansh ''{{lang|en|Unicode}}''_Zëijshe maach et nit jävve om neu inshtallėete Standaad-[[Windows-9x]] — zemm Bëijshpell [[Ameenėsch]] un [[Je'orrjėsch]]e — odder op Stanndatt-[[Linux]] — zemm Bëijshpell en [[Indije|Indėsche]] [[Devanajari]] — odder op [[Windows-XP]] — zemm Bëijshpell [[Ättijoopėsch]] odder de [[Ruune]]schreff — ävver de Europäjėsche WGL4 Jlüfe sen op alle wėshtėjje Väsjohne fom ''{{lang|en|Microsoft Windows}}'' allt fon Aanfang an drop.
+
+
+== Ömfang ==
+De WGL4-Zëijshe, esu wi se fun [[Microsoft]] zosamme jeshtallt woode senn, änthallde all de Zëijshe
+ <!--rework in progress but need to check all the character sets i'm adding.------ the following single byte [[windows code pages|code pages used by windows]].
+{| class=wikitable
+! !!ANSI!!OEM
+|-
+!English
+|rowspan=2|[[windows-1252|1252]]||[[code page 437|437]]
+|-
+!Latin-1 (western European)
+|[[code page 850|850]]
+|-
+!Latin-2 (central European)
+|[[windows-1250|1250]]||[[code page 852|852]]
+|}
+
+-->
+en Microsoft iere ''{{lang|en|[[code page]]s}}''
+[[windows-1252]] „Wesslesch Windows“,
+[[windows-1250]] „Meddel_Europäjėsch“,
+[[windows-1251]] „Kürėllėsch Windows“,
+[[windows-1253]] „Jrėėschėsch Windows“, un
+[[windows-1254]] „Törkėsch Windows“,
+un de Zëijsche fon_de [[codepage 437]] fon [[MS-DOS]].
+
+De kombeneerende [[dijakrettesche Zëijsche]] uß de
+[[code page 1258]] sin nit dobeëij,
+the [[thailändesch (Schreff)|thailändesch]] [[Bochshtave us de [[code page 874]] och nit, un de idejojrafėshe Zëijsche en de ''{{lang|en|code pages}}'' [[windows-932]], [[windows-936]], [[windows-949]], un [[windows-950]] fäähle och.
+
+Hee sin de Berëijshe uss_em [[Unicode]], di_j_em WGL4 dren sin:
+
+{|class="wikitable" style="font-family:monospace"
+|-style="font-family:serif"
+! Rëije !! Zëlle !! Berëijsch
+|-
+!rowspan="2"| 00
+| 20–7E
+| Basic Latin (00–7F)
+|-
+| A0–FF
+| Latin-1 Supplement (80–FF)
+|-
+!rowspan="2"| 01
+| 00–7F
+| Latin Extended-A (00–7F)
+|-
+| 92, FA–FF
+| Latin Extended-B (80–FF <span title="U+024F">…</span>)
+|-
+! 02
+| C6–C7, C9, D8–DD
+| Spacing Modifier Letters (B0–FF)
+|-
+! 03
+| 84–8A, 8C, 8E–A1, A3–CE
+| Greek (70–FF)
+|-
+! 04
+| 01–0C, 0E–4F, 51–5C, 5E–5F, 90–91
+| Cyrillic (00–FF)
+|-
+! 1E
+| 80–85, F2–F3
+| Latin Extended Additional (00–FF)
+|-
+!rowspan="3"| 20
+| 13–15, 17–1E, 20–22, 26, 30, 32–33, 39–3A, 3C, 3E
+| General Punctuation (00–6F)
+|-
+| 44, 7F
+| Superscripts and Subscripts (70–9F)
+|-
+| A3–A4, A7, AC
+| Currency Symbols (A0–CF)
+|-
+!rowspan="3"| 21
+| 05, 13, 16, 22, 26, 2E
+| Letterlike Symbols (00–4F)
+|-
+| 5B–5E
+| Number Forms (50–8F)
+|-
+| 90–95, A8
+| Arrows (90–FF)
+|-
+! 22
+| 02, 06, 0F, 11–12, 15, 19–1A, 1E–1F, 29, 2B, 48, 60–61, 64–65
+| Mathematical Operators (00–FF)
+|-
+! 23
+| 02, 10, 20–21
+| Miscellaneous Technical (00–FF)
+|-
+!rowspan="3"| 25
+| 00, 02, 0C, 10, 14, 18, 1C, 24, 2C, 34, 3C, 50–6C
+| Box Drawing (00–7F)
+|-
+| 80, 84, 88, 8C, 90–93
+| Block Elements (80–9F)
+|-
+| A0–A1, AA–AC, B2, BA, BC, C4, CA–CB, CF, D8–D9, E6
+| Geometric Shapes (A0–FF)
+|-
+! 26
+| 3A–3C, 40, 42, 60, 63, 65–66, 6A–6B
+| Miscellaneous Symbols (00–FF)
+|-
+! F0
+| 01–02
+| Private Use Area (00–FF …)
+|-
+! FB
+| 01–02
+| Alphabetic Presentation Forms (00–4F)
+|}
+
+=== Zëijschetabëll ===
+{| style="text-align:center"
+! U+
+!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!A!!B!!C!!D!!E!!F
+|-
+!002
+|&#32;||!||"||#||$||%||&||'||(||)||*||+||,||-||.||/
+|-
+!003
+|0||1||2||3||4||5||6||7||8||9||:||;||<||=||>||?
+|-
+!004
+|@||A||B||C||D||E||F||G||H||I||J||K||L||M||N||O
+|-
+!005
+|P||Q||R||S||T||U||V||W||X||Y||Z||[||\||]||^||_
+|-
+!006
+|`||a||b||c||d||e||f||g||h||i||j||k||l||m||n||o
+|-
+!007
+|p||q||r||s||t||u||v||w||x||y||z||{||&#124;||}||~||bgcolor="#CCCCCC"|&nbsp;
+|-
+!00A
+|&nbsp;||¡||¢||£||¤||¥||¦||§||¨||©||ª||«||¬||style="color:#CCC"|-||®||¯
+|-
+!00B
+|°||±||²||³||´||µ||¶||·||¸||¹||º||»||¼||½||¾||¿
+|-
+!00C
+|À||Á||Â||Ã||Ä||Å||Æ||Ç||È||É||Ê||Ë||Ì||Í||Î||Ï
+|-
+!00D
+|Ð||Ñ||Ò||Ó||Ô||Õ||Ö||×||Ø||Ù||Ú||Û||Ü||Ý||Þ||ß
+|-
+!00E
+|à||á||â||ã||ä||å||æ||ç||è||é||ê||ë||ì||í||î||ï
+|-
+!00F
+|ð||ñ||ò||ó||ô||õ||ö||÷||ø||ù||ú||û||ü||ý||þ||ÿ
+|-
+!010
+|Ā||ā||Ă||ă||Ą||ą||Ć||ć||Ĉ||ĉ||Ċ||ċ||Č||č||Ď||ď
+|-
+!011
+|Đ||đ||Ē||ē||Ĕ||ĕ||Ė||ė||Ę||ę||Ě||ě||Ĝ||ĝ||Ğ||ğ
+|-
+!012
+|Ġ||ġ||Ģ||ģ||Ĥ||ĥ||Ħ||ħ||Ĩ||ĩ||Ī||ī||Ĭ||ĭ||Į||į
+|-
+!013
+|İ||ı||Ĳ||ĳ||Ĵ||ĵ||Ķ||ķ||ĸ||Ĺ||ĺ||Ļ||ļ||Ľ||ľ||Ŀ
+|-
+!014
+|ŀ||Ł||ł||Ń||ń||Ņ||ņ||Ň||ň||ŉ||Ŋ||ŋ||Ō||ō||Ŏ||ŏ
+|-
+!015
+|Ő||ő||Œ||œ||Ŕ||ŕ||Ŗ||ŗ||Ř||ř||Ś||ś||Ŝ||ŝ||Ş||ş
+|-
+!016
+|Š||š||Ţ||ţ||Ť||ť||Ŧ||ŧ||Ũ||ũ||Ū||ū||Ŭ||ŭ||Ů||ů
+|-
+!017
+|Ű||ű||Ų||ų||Ŵ||ŵ||Ŷ||ŷ||Ÿ||Ź||ź||Ż||ż||Ž||ž||ſ
+|-
+!019
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||ƒ||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|-
+!01F
+|bgcolor="#CCCCCC" colspan="10"|&nbsp;||Ǻ||ǻ||Ǽ||ǽ||Ǿ||ǿ
+|-
+!02C
+|bgcolor="#CCCCCC" colspan="6"|&nbsp;||ˆ||ˇ||bgcolor="#CCCCCC"|&nbsp;||ˉ||bgcolor="#CCCCCC" colspan="6"|&nbsp;
+|-
+!02D
+|bgcolor="#CCCCCC" colspan="8"|&nbsp;||˘||˙||˚||˛||˜||˝||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!037
+|bgcolor="#CCCCCC" colspan="14"|&nbsp;||;||bgcolor="#CCCCCC"|&nbsp;
+|-
+!038
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||΄||΅||Ά||·||Έ||Ή||Ί||bgcolor="#CCCCCC"|&nbsp;||Ό||bgcolor="#CCCCCC"|&nbsp;||Ύ||Ώ
+|-
+!039
+|ΐ||Α||Β||Γ||Δ||Ε||Ζ||Η||Θ||Ι||Κ||Λ||Μ||Ν||Ξ||Ο
+|-
+!03A
+|Π||Ρ||bgcolor="#CCCCCC"|&nbsp;||Σ||Τ||Υ||Φ||Χ||Ψ||Ω||Ϊ||Ϋ||ά||έ||ή||ί
+|-
+!03B
+|ΰ||α||β||γ||δ||ε||ζ||η||θ||ι||κ||λ||μ||ν||ξ||ο
+|-
+!03C
+|π||ρ||ς||σ||τ||υ||φ||χ||ψ||ω||ϊ||ϋ||ό||ύ||ώ||bgcolor="#CCCCCC"|&nbsp;
+|-
+!040
+|bgcolor="#CCCCCC"|&nbsp;||Ё||Ђ||Ѓ||Є||Ѕ||І||Ї||Ј||Љ||Њ||Ћ||Ќ||bgcolor="#CCCCCC"|&nbsp;||Ў||Џ
+|-
+!041
+|А||Б||В||Г||Д||Е||Ж||З||И||Й||К||Л||М||Н||О||П
+|-
+!042
+|Р||С||Т||У||Ф||Х||Ц||Ч||Ш||Щ||Ъ||Ы||Ь||Э||Ю||Я
+|-
+!043
+|а||б||в||г||д||е||ж||з||и||й||к||л||м||н||о||п
+|-
+!044
+|р||с||т||у||ф||х||ц||ч||ш||щ||ъ||ы||ь||э||ю||я
+|-
+!045
+|bgcolor="#CCCCCC"|&nbsp;||ё||ђ||ѓ||є||ѕ||і||ї||ј||љ||њ||ћ||ќ||bgcolor="#CCCCCC"|&nbsp;||ў||џ
+|- 
+!049
+|Ґ||ґ||bgcolor="#CCCCCC" colspan="14"|&nbsp;
+|- 
+!1E8
+|Ẁ||ẁ||Ẃ||ẃ||Ẅ||ẅ||bgcolor="#CCCCCC" colspan="10"|&nbsp;
+|-
+!1EF
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||Ỳ||ỳ||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!201
+|bgcolor="#CCCCCC" colspan="3"|&nbsp;||–||—||―||bgcolor="#CCCCCC"|&nbsp;||‗||‘||’||‚||‛||“||”||„||bgcolor="#CCCCCC"|&nbsp;
+|-
+!202
+|†||‡||•||bgcolor="#CCCCCC" colspan="3"|&nbsp;||…||bgcolor="#CCCCCC" colspan="9"|&nbsp;
+|-
+!203
+|‰||bgcolor="#CCCCCC"|&nbsp;||′||″||bgcolor="#CCCCCC" colspan="5"|&nbsp;||‹||›||bgcolor="#CCCCCC"|&nbsp;||‼||bgcolor="#CCCCCC"|&nbsp;||‾||bgcolor="#CCCCCC"|&nbsp;
+|-
+!204
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||⁄||bgcolor="#CCCCCC" colspan="11"|&nbsp;
+|-
+!207
+|bgcolor="#CCCCCC" colspan="15"|&nbsp;||ⁿ
+|-
+!20A
+|bgcolor="#CCCCCC" colspan="3"|&nbsp;||₣||₤||bgcolor="#CCCCCC" colspan="2"|&nbsp;||₧||bgcolor="#CCCCCC" colspan="4"|&nbsp;||€||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!210
+|bgcolor="#CCCCCC" colspan="5"|&nbsp;||℅||bgcolor="#CCCCCC" colspan="10"|&nbsp;
+|-
+!211
+|bgcolor="#CCCCCC" colspan="3"|&nbsp;||ℓ||bgcolor="#CCCCCC" colspan="2"|&nbsp;||№||bgcolor="#CCCCCC" colspan="9"|&nbsp;
+|-
+!212
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||™||bgcolor="#CCCCCC" colspan="3"|&nbsp;||Ω||bgcolor="#CCCCCC" colspan="7"|&nbsp;||℮||bgcolor="#CCCCCC"|&nbsp;
+|-
+!215
+|bgcolor="#CCCCCC" colspan="11"|&nbsp;||⅛
+||⅜||⅝||⅞||bgcolor="#CCCCCC"|&nbsp;
+|-
+!219
+|←||↑||→||↓||↔||↕||bgcolor="#CCCCCC" colspan="10"|&nbsp;
+|-
+!21A
+|bgcolor="#CCCCCC" colspan="8"|&nbsp;||bgcolor="#CCFFFF"|↨||bgcolor="#CCCCCC" colspan="7"|&nbsp;
+|-
+!220
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||∂||bgcolor="#CCCCCC" colspan="3"|&nbsp;||∆||bgcolor="#CCCCCC" colspan="8"|&nbsp;||∏
+|-
+!221
+|bgcolor="#CCCCCC"|&nbsp;||∑||−||bgcolor="#CCCCCC" colspan="2"|&nbsp;||∕||bgcolor="#CCCCCC" colspan="3"|&nbsp;||∙||√||bgcolor="#CCCCCC" colspan="3"|&nbsp;||∞||∟
+|-
+!222
+|bgcolor="#CCCCCC" colspan="9"|&nbsp;||∩||bgcolor="#CCCCCC"|&nbsp;||∫||bgcolor="#CCCCCC" colspan="4"|&nbsp;
+|-
+!224
+|bgcolor="#CCCCCC" colspan="8"|&nbsp;||≈||bgcolor="#CCCCCC" colspan="7"|&nbsp;
+|-
+!226
+|≠||≡||bgcolor="#CCCCCC" colspan="2"|&nbsp;||≤||≥||bgcolor="#CCCCCC" colspan="10"|&nbsp;
+|-
+!230
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#CCFFFF"|⌂||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|-
+!231
+|bgcolor="#CCFFFF"|⌐||bgcolor="#CCCCCC" colspan="15"|&nbsp;
+|-
+!232
+|bgcolor="#CCFFFF"|⌠||bgcolor="#CCFFFF"|⌡||bgcolor="#CCCCCC" colspan="14"|&nbsp;
+|-
+!250
+|─||bgcolor="#CCCCCC"|&nbsp;||│||bgcolor="#CCCCCC" colspan="9"|&nbsp;||┌||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!251
+|┐||bgcolor="#CCCCCC" colspan="3"|&nbsp;||└||bgcolor="#CCCCCC" colspan="3"|&nbsp;||┘||bgcolor="#CCCCCC" colspan="3"|&nbsp;||├||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!252
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||┤||bgcolor="#CCCCCC" colspan="7"|&nbsp;||┬||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!253
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||┴||bgcolor="#CCCCCC" colspan="7"|&nbsp;||┼||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!255
+|═||║||╒||╓||╔||╕||╖||╗||╘||╙||╚||╛||╜||╝||╞||╟
+|-
+!256
+|╠||╡||╢||╣||╤||╥||╦||╧||╨||╩||╪||╫||╬||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!258
+|bgcolor="#CCFFFF"|▀||bgcolor="#CCCCCC" colspan="3"|&nbsp;||▄||bgcolor="#CCCCCC" colspan="3"|&nbsp;||█||bgcolor="#CCCCCC" colspan="3"|&nbsp;||▌||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!259
+|bgcolor="#CCFFFF"|▐||bgcolor="#CCFFFF"|░||▒||▓||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!25A
+|■||□||bgcolor="#CCCCCC" colspan="8"|&nbsp;||▪||▫||bgcolor="#CCFFFF"|▬||bgcolor="#CCCCCC" colspan="4"|&nbsp;
+|-
+!25B
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||▲||bgcolor="#CCCCCC" colspan="7"|&nbsp;||bgcolor="#CCFFFF"|►||bgcolor="#CCCCCC"|&nbsp;||▼||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!25C
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||bgcolor="#CCFFFF"|◄||bgcolor="#CCCCCC" colspan="5"|&nbsp;||◊||○||bgcolor="#CCCCCC" colspan="3"|&nbsp;||●
+|-
+!25D
+|bgcolor="#CCCCCC" colspan="8"|&nbsp;||bgcolor="#CCFFFF"|◘||bgcolor="#CCFFFF"|◙||bgcolor="#CCCCCC" colspan="6"|&nbsp;
+|-
+!25E
+|bgcolor="#CCCCCC" colspan="6"|&nbsp;||◦||bgcolor="#CCCCCC" colspan="9"|&nbsp;
+|-
+!263
+|bgcolor="#CCCCCC" colspan="10"|&nbsp;||bgcolor="#CCFFFF"|☺||bgcolor="#CCFFFF"|☻||bgcolor="#CCFFFF"|☼||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!264
+|♀||bgcolor="#CCCCCC"|&nbsp;||♂||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|-
+!266
+|♠||bgcolor="#CCCCCC" colspan="2"|&nbsp;||♣||bgcolor="#CCCCCC"|&nbsp;||♥||bgcolor="#CCFFFF"|♦||bgcolor="#CCCCCC" colspan="3"|&nbsp;||♪||bgcolor="#CCFFFF"|♫||bgcolor="#CCCCCC" colspan="4"|&nbsp;
+|-
+!F00
+|bgcolor="#CCCCCC"|&nbsp;||bgcolor="#FFDDCC"|||bgcolor="#FFDDCC"|||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|-
+!FB0
+|bgcolor="#CCCCCC"|&nbsp;||ﬁ||ﬂ||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|}
+{| cellspacing="10" align="left" style="text-align:center"
+!width="25%"| Lejendt
+|bgcolor="#CCCCCC" width="25%"| nit jebruch
+|bgcolor="#CCFFFF" width="25%"| frëijwellėsch
+|bgcolor="#FFDDCC" width="25%"| för der Eijebedarref
+|}
+{{dronger}}
+== Looer och noh ==
+* de [[Adobe Glyph List]]
+
+== Web Sigge ==
+* [http://www.alanwood.net/demos/wgl4.html ''{{lang|en|Using special characters from Windows Glyph List 4 (WGL4) in HTML}}''] fum ''{{lang|en|[[Alan Wood]]}}'' (''op [[Änglesch (Shprooch)|Änglesch]])
+* [http://www.microsoft.com/OpenType/otspec/wgl4.htm ''{{lang|en|WGL4.0 Character Set}}''] op ''{{lang|en|[[Microsoft Typography]]}}'' (''op [[Änglesch (Shprooch)|Änglesch]])
+
+<!-- ======= -->
+[[Category:Digital typography]]
+[[Category:Microsoft Windows multimedia technology]]
+<!-- ======== -->
+[[en:Windows Glyph List 4]]
+[[de:Windows Glyph List 4]]
+[[ru:Windows Glyph List 4]]
+[[sv:Windows Glyph List 4]]
