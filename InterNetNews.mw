@@ -1,0 +1,46 @@
+{{Atikkel_op|Kölsch|}}
+<!--
+{{Infobox Software
+| Name = InterNetNews
+| Logo = 
+| Screenshot = 
+| Beschreibung =
+| Maintainer = 
+| Hersteller = 
+| Management = 
+| AktuelleVersion = 2.4.5
+| AktuelleVersionFreigabeDatum = 
+| AktuelleVorabVersion = 
+| AktuelleVorabVersionFreigabeDatum = 
+| Betriebssystem = [[unixähnlich]]e
+| Kategorie = [[Newsserver]]
+| Lizenz = [[ISC-Lizenz]]
+| Deutsch = 
+| Website = [http://isc.org/sw/inn/ offizielle Webpräsenz]
+}}
+-->
+
+
+Dat Projramm '''InterNetNews''' weed [[Affköözung (Schriive)|afjekööz]] med '''INN''', als ''{{lang|en|[[binary executable]]}}'' och '''inn''', un eß ene [[Fräj ßoffwäe|fräje]] [[ßööver (Projramm)|ßööver]] för de ''{{lang|en|[[Netnews|news]]}}'' em ''{{lang|en|[[Usenet]]}}''.
+Dä inn wood aff [[1991 (Johr)|1991]] fum ''{{lang|en|[[Rich Salz]]}}'' ußjedaach un jeschrevve.
+Zick em [[Joohr 1996]] hät dat ''{{lang|en|[[Internet Systems Consortium]]}}'' — [[Affköözung (Schriive)|afjekööz]] med [[ISC]] — dä e beßje övvernůmme. Dä ''{{lang|en|[[Russ Allbery]]}}'' en de Houpsaach, un andere, donn en wigger betreuje un äntwekkelle, un als en [[Räfferänz-Emplemäntazjohn]] för et ''{{lang|en|[[Network News Transfer Protocol]]}}'' [[NNTP]] flääje. De ISC hälld_en och för [[Download|Daun_ze_loude]] paraat. Hä eß unger en fräje Lizänz för Jehde ze hann, de besje shpezjälle [[ISC-Lizänz]], di_j_en äänlesch Lizänz es, wi de [[BSD-Lizenz]] med zwäj [[Klausel]]le, jedenfalls_en [[Open-Source-Lizänz|''{{lang|en|Open-Source}}''-Lizänz]]. Hä leuf op alle ''{{lang|en|[[Unix]]}}''-aatijje [[Bedriefß_Süßteem|Süßteeme]], allsů och met [[Linux]] un [[OS/X]]. Hä kritt un scheck de ''{{lang|en|News}}'' tiräk fun un noh ander [[Newsserver|''{{lang|en|news}}''ßöövere]], wam_mer se ennställd_un di_j_em dat Rääsch dozoh jevve.
+
+== Websigge ==
+* [http://isc.org/sw/inn/ offizjäll Websigg fum INN fum ISC] (''op [[Änglesch (Shprooch)|Änglesch]]'')
+* [ftp://ftp.isc.org/isc/inn/extra-docs/innusenix.pdf ene Fördraach], jehallde op de [[USENIX]] em [[Joohr 1992]] (''op [[Änglesch (Shprooch)|Änglesch]]'')
+
+
+<!-- ======= -->
+[[Katejori:Projramm]]
+[[Katejori:Usenet]]
+[[Katejori:Fräj ßoffwäer]]
+[[Katejori:Open Source Software]]
+[[Katejori:Soffwäer unger ISC-Lizänz]]
+[[Katejori:Räfferänz-Emplemäntazjohn]]
+<!-- ======== -->
+[[de:InterNetNews]]
+[[en:InterNetNews]]
+[[es:InterNetNews]]
+[[fr:InterNetNews]]
+[[pl:INN]]
+[[pt:INN]]
