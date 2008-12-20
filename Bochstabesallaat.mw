@@ -1,0 +1,88 @@
+{{Atikkel_op|Kölsch|}}
+
+
+'''Bochstabesallat''' kütt zoshtand, wann enne [[Komjutor]], ene [[Kompjuto-Dröcker]], odder esu jet, mem fokeehte [[Zëjschesaz (Kompjuto)|Zëjschesaz]] ärbeide. Wat do ußjejovve weed, dat kam_mer dann jaa nit lässe, or nur zem Dëijl. Tüppesche Fäll bëij ons:
+* De [[Ümluut]]e sen fott.
+* För jede Ümluut un et [[scharfe s]] stëij jet angersch do.
+* Mer süüht nur ene exootesche Sammlong uß koomije Zëijshe.
+[[Image:Mojibake.png|thumb|400px|De Sigg övver {{lang|jp|[[文字化け]]}} (Bochstabesallaat) en de Wikipedija op [[Japanesch (Shprooch)|Japanesch]] ävver jezëijsh, wi wänn dat noh dä [[ISO-8859-1]] [[Norrem]] [[Kodeere|kodeet]] wöhr — et eß ävver en [[UTF-8]].]]
+<!--
+== Ander Bezëishnonge ==
+{{nihongo|'''Mojibake'''|文字化け||{{pronEng|ˌmɔdʒi'bake}}}} is the happenstance of incorrect, unreadable characters (garbage characters) shown when [[computer software]] fails to render a text correctly according to its associated [[character encoding]].
+
+==Etymology==
+Mojibake is a [[loanword]] from [[Japanese language|Japanese]]; the Japanese word 文字化け ({{IPA|[moʥibake]}}) is composed of 文字 (''moji''), which means ''letter'', ''character'', and 化け (''bake''), from the verb 化ける (''bakeru''), which means ''to appear in disguise, to take the form of, to change for the worse''. Literally, it means "character mutation".
+
+==Causes==
+''Mojibake'' is often caused when a [[character encoding]] is not correctly tagged in a document, or when a document is moved to a system with a different default encoding. Such display of [[writing system]]s or [[character encoding]]s that are mistagged or "foreign" to the user's computer system: if a computer does not have the software required to process a foreign language's characters, it will attempt to process them in its default language encoding, usually resulting in gibberish. Messages transferred between different encodings of the same language can also have ''mojibake'' problems. Japanese language users, with several different encodings historically employed, would encounter this problem relatively often. For example, the intended word "文字化け", encoded in [[UTF-8]], is incorrectly displayed as "æ–‡å­—åŒ–ã‘" in software that is configured to expect text in the [[Windows-1252]] or [[ISO-8859-1]] encodings, usually labeled Western.
+
+A [[web browser]] may not be able to distinguish a page coded in [[EUC-JP]] and another in [[Shift-JIS]] if the coding scheme is not assigned explicitly using the [[Hypertext Transfer Protocol|HTTP]] headers sent along with the documents, or using the [[HTML]] document's [[meta tag]]s that are used to substitute for missing HTTP headers if the server cannot be configured to send the proper HTTP headers. Heuristics can be applied to guess at the character set, but these are not always successful.
+
+In the mid 1990s, as this problem became common, several websites featured mojibake not as a problem to be tackled but simply for amusement. Words and even sentences were "deciphered" with meanings made up to deliver funny messages.
+
+Mojibake can also occur between what appears to be the same encodings. For example, [[Microsoft Windows|Windows]] and [[Macintosh]] both use the name [[ISO-8859-1]] for a character encoding. However, each system includes characters in their encoding not in ISO-8859-1, and these are not compatible across systems. It is possible to be unaware of these extra characters' incompatibility across platforms, and to unintentionally cause mojibake by using them.
+
+==Resolutions==
+
+Applications using [[UTF-8]] as a default encoding may achieve a greater degree of interoperability due to its widespread use and backwards compatibility with [[US-ASCII]].
+
+The difficulty of resolving an instance of mojibake varies depending on the application within which it occurs and the causes of it. Two of the most common applications in which mojibake may occur are [[web browser]]s and [[word processor]]s. Modern browsers and word processors often support a wide array of character encodings. Browsers would often allow a user to change its [[Layout engine|rendering engine's]] encoding setting on the fly, while word processors would allow the user to select the appropriate encoding when opening a file. It may take some [[trial and error]] for users to find the correct encoding.
+
+The problem gets more complicated when it occurs in an application that normally does not support a wide range of character encoding, such as in a non-Unicode computer game. In this case, the user must change the operating system's encoding settings to match that of the game. However, changing the system-wide encoding settings can also cause Mojibake in pre-existing applications. In [[Windows XP]] or later, a user also has the option to use [[Microsoft AppLocale]], an application that allows the changing of per-application locale settings. Even so, changing the operating system encoding settings is not possible on earlier operating systems such as [[Windows 98]]; to resolve this issue on earlier operating systems, a user would have to use third party font rendering applications.
+
+==Problems in specific languages==
+Mojibake in English texts generally occurs in punctuation, such as emdashes (—), endashes (–), and curly quotes (“, ”), but rarely in character text since most encodings agree with [[ASCII]] on the encoding of the [[English alphabet]]. For example, the pound sign "£" will appear as "Â£" if it was encoded by the sender as [[UTF-8]] but interpreted by the recipient as [[CP1252]] or [[ISO 8859-1]]. If iterated, this can lead to "Ã‚Â£", "Ãƒâ€šÃ‚Â£", etc.
+
+In [[Japanese language|Japanese]], the phenomenon is as mentioned called ''mojibake'' {{lang|ja|文字化け}}. It is often encountered by non-Japanese when attempting to run software written for the Japanese market.
+
+In [[Chinese language|Chinese]], this phenomenon is called ''luanma'' ({{zh-stpl|t=亂碼|s=乱码|p=luànmǎ|l=messy/disorderly code}}).
+
+In [[Korean language|Korean]], this phenomenon is called ''Oigye-eo'' {{lang|ko|외계어}}, meaning 'alien language'.
+
+Users of [[Central Europe|Central]] and [[Eastern Europe]]an languages can also be affected. Because most computers were not connected to any network, during the mid- to late 1980s there were different character encodings for ''every'' language with diacritical characters.
+
+[[Image:Letter to Russia with krokozyabry.jpg|thumb|Handwritten kryakozyabry corrected by a postal employee.]]
+
+In [[Russian language|Russian]] slang, mojibake is humorously called ''kryakozyabry'' ({{lang|ru|крякозя́бры}}, "crackozyabres"). It remains controversial whether the word is related to English "[[Crack|crack]]" (as used in computer slang) or is constructed artificially, slightly remembering Russian ''krya'' ({{lang|ru|кря}}, which means "quack"). During the 1990s, several different encodings for the [[Cyrillic alphabet]] (Unix [[KOI8-R]], Windows [[CP-1251]], DOS [[Code page 866|866]], standard [[ISO 8859-5]], and several others) competed. Poorly configured servers and lack of compatibility made garbled text a common and frustrating experience. Many e-mail servers stripped the 8th bit from the characters as permitted by earlier standards (which renders [[UTF-8]] unreadable, as well as all of the above). For this reason many Cyrillic users resorted to [[Volapuk encoding]]. An even more frustrating problem emerged in the early 2000s, when the popular e-mail client [[Microsoft Outlook]] started to replace correctly entered Cyrillic characters with question marks when replying to or forwarding messages created in competing encodings.
+
+In [[Bulgarian language|Bulgarian]], mojibake is often called ''maymunitsa'' (маймуница), meaning monkey's alphabet. In [[Serbian language|Serbian]], it is called ''ђубре'' (đubre), meaning [[trash]]. In [[German language|German]], ''Zeichensalat'' (character salad) and ''Krähenfüße'' (crow's feet) are common terms for this phenomenon.
+
+In [[Poland]] every company selling early [[DOS]] computers created its own encoding, and simply reprogrammed the [[EPROM]]s of the video cards (typically [[Color Graphics Adapter|CGA]], [[Enhanced Graphics Adapter|EGA]] or [[Hercules Graphics Card|Hercules]]) with the according character shapes. Additionally, users of then-popular home computers (such as the [[Atari ST]]) invented their own encodings, incompatible with international standards ([[ISO 8859-2]]), vendor standards (IBM [[CP852]], [[Windows-1250|Windows CP1250]]) and locally agreed-upon PC/MS DOS standards ([[Mazovia encoding|Mazovia]]). The situation began to improve when, after pressure from academic and user groups, [[ISO 8859-2]] succeeded as the "Internet standard" with limited support of the dominant vendors' software (today largely replaced by Unicode). With the numerous problems caused by the variety of encodings, even today some users tend to refer to Polish diacritical characters as ''krzaki'' ("bushes").
+
+Among languages of Scandinavia, mojibake is not uncommon, but isn't much of a problem and is more of an annoyance. [[Finnish language|Finnish]] and [[Swedish language|Swedish]] use the letters of the [[English alphabet]] and three more characters: å, ä and ö, and typically these three are the only ones that become corrupted. The situation is similar for Norwegian and Danish, except the three relevant letters are æ, ø and å. In Swedish, Norwegian and Danish, vowels are rarely repeated, and it is usually obvious when one character gets corrupted, such as the second letter in "kÃ¤rlek" (kärlek, "love"). This way, even though the reader has to guess between å, ä and ö, almost all texts remain perfectly readable. However, [[Finnish language|Finnish]] does have repeating vowels in words like "HÃ¤Ã¤yÃ¶" (hääyö), which can sometimes render text very hard to read.
+
+Another type of mojibake occurs when text is erroneously parsed in a multi-byte encoding, such as one of the east Asian encodings. With this kind of mojibake more than one (typically two) characters is corrupted at once, e.g. "k舐lek" (kärlek) in Swedish, where "är" is parsed as "舐". Compared to the above mojibake, this is harder to read for humans since now also letters unrelated to the problematic åäö are missing, and is especially problematic for short words starting with åäö such as "än" (becomes e.g. "舅"). Also, since two letters are combined, the mojibake seems more random (over 50 variants compared to the normal 3, not counting the rarer capitals). In some rare cases, an entire text string, such as "[[Bush hid the facts]]", may be misinterpreted.
+
+In [[Ex-Yu|most of Former Yugoslavia]], an addition to the basic Latin alphabet are the letters š, đ, č, ć, ž, and their capital counterparts Š, Đ, Č, Ć, Ž. All of these letters are defined in [[ISO/IEC_8859-2|Latin2]] and [[Windows-1250]], while only some (š, Š, ž, Ž, Đ) exist in the usual OS-default [[Windows-1252|Western]]. Although even those that exist in extended Western ASCII (Windows-1252) are not immune to errors, the ones that don't are much more prone to errors. Thus "šđčćž ŠĐČĆŽ" all too often (even nowadays) gets interpreted as "šðèæž ŠÐÈÆŽ", making users wonder where ð, è, æ, È, Æ are used. When confined to basic ASCII (most usernames, for example), common replacements are: š→s, đ→dj, č→c, ć→c, ž→z (capital forms analogously, with Đ→Dj or Đ→DJ depending on word case). All of these replacements introduce ambiguities, so reconstructing original from such a form is usually done manually if required.
+
+Before [[Unicode]] came into popular use, [[Esperanto]] used to use [[Latin-3]] to display the accented characters: ĉ, ĝ, ĥ, ĵ, ŝ, and ŭ. In some browsers these characters would be incorrectly displayed as Latin-1 characters with the same encoding: æ, ø, ¶, ¼, þ, and ý.
+-->
+== Websigge ==
+* [http://www.denbushi.net/blog/archives/000032.html Reprinted article from the Japan Times]
+* [http://coldfusion.sys-con.com/read/44480.htm Coldfusion Developers Guide article]
+* [http://www.gibberish.co.il/ Online decoder of Hebrew text] - Online decoder converts input into readable Hebrew text
+* [http://www.fumizuki.com/mojibake.html Translators guide]
+* [http://www.kanzaki.com/docs/jis-recover.html Recovery tool] – Recovery of Japanese text {{ja icon}}
+* [https://mimizu.mine.nu:8443/tdict/mojibake.jsp Recovery tool] – Recovery of Japanese text
+* [http://www.mandarintools.com/email.html Chinese E-mail Fixer] – Recovery of Chinese text
+* [http://decodr.ru/ Decodr.ru] - Fast Cyrillic decoder of e-mail and charsets
+* [http://2cyr.com/decode/ Universal Cyrillic decoder] - Recovery of Cyrillic text
+* [http://www.online-decoder.com/ Online decoder of russian text] - Online decoder converts input into readable russian text
+
+{{Övversaz uß}}
+
+<!-- ======= -->
+[[Category:Komjutorei]]
+[[Category:Fähler]]
+<!-- ======== -->
+[[de:Mojibake]]
+[[en:Mojibake]]
+[[es:Mojibake]]
+[[fr:Mojibake]]
+[[gl:Mojibake]]
+[[it:Mojibake]]
+[[ja:文字化け]]
+[[pt:Mojibake]]
+[[ru:Крокозябры]]
+[[sv:Mojibake]]
+[[zh:亂碼]]
