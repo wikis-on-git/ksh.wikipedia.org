@@ -1,19 +1,22 @@
 {{Atikkel_op|Kölsch|}}
 
 
-'''Bochstabesallat''' kütt zoshtand, wann enne [[Komjutor]], ene [[Kompjuto-Dröcker]], odder esu jet, mem fokeehte [[Zëjschesaz (Kompjuto)|Zëjschesaz]] ärbeide. Wat do ußjejovve weed, dat kam_mer dann jaa nit lässe, or nur zem Dëijl. Tüppesche Fäll bëij ons:
+'''Bochstabesallat''' kütt en de Houpsaach zoshtand, wann enne [[Komjutor]], ene [[Kompjuto-Dröcker]], odder esu jet, mem fokeehte [[Zëjschesaz (Kompjuto)|Zëjschesaz]] ärbeide. Wat do ußjejovve weed, dat kam_mer dann jaa nit lässe, or nur zem Dëijl. Tüppesche Fäll bëij ons:
 * De [[Ümluut]]e sen fott.
-* För jede Ümluut un et [[scharfe s]] stëij jet angersch do.
+* För jede Ömluut un et [[scharfe s]] stëijt jet angersch do.
 * Mer süüht nur ene exootesche Sammlong uß koomije Zëijshe.
-[[Image:Mojibake.png|thumb|400px|De Sigg övver {{lang|jp|[[文字化け]]}} (Bochstabesallaat) en de Wikipedija op [[Japanesch (Shprooch)|Japanesch]] ävver jezëijsh, wi wänn dat noh dä [[ISO-8859-1]] [[Norrem]] [[Kodeere|kodeet]] wöhr — et eß ävver en [[UTF-8]].]]
-<!--
+[[Image:Mojibake.png|thumb|400px|De Sigg övver {{lang|jp|[[文字化け]]}} (Bochstabesallaat) en de Wikipedija op [[Japanesch (Shprooch)|Japanesch]] ävver jezëijsh, wi wänn dat noh dä [[ISO-8859-1]] [[Norrem]] [[Kodeere|kodeet]] wöhr — et eß ävver en [[UTF-8]] övvermeddelt woode.]]
+Ene andere, selldene Fall eß, wann Ëiner op de verkeehte [[Taßtatuur]] eröm am klimpere eß, udder obb_en verkeeht enjeshtallte. Dann meint dä, hä hät dä ëijne Bochstabe [[Tippe (Schriive)|jetipp]], un wat eß? Ene andere kütt eruß.
+
 == Ander Bezëishnonge ==
-{{nihongo|'''Mojibake'''|文字化け||{{pronEng|ˌmɔdʒi'bake}}}} is the happenstance of incorrect, unreadable characters (garbage characters) shown when [[computer software]] fails to render a text correctly according to its associated [[character encoding]].
+Der janz besonöndere [[Kompjutojeck]] jäät och jän [[änglėsch (Shprooch)|änglėsch]] '''''{{lang|en|[[:en:mojibake|mojibake]]}}''''' udder [[japaanėsch (Shprooch)|japaanėsch]] {{lang|ja|文字化け}} doför, kleng beeds onjeväär {{IPA|ˌmɔdʒi'bake}}, dat eß esu äänlesch wi Mǫschibake. Dat [[Woot (Kalle)|Woot]] küt och uss_em Jappaaneėsche. {{lang|jp|文字}} (''moji'') eß Letter odder Bochshtave, un {{lang|jp|化け}} (''bake'') bedügg [[Verwandelle|Verwandelong]], udder [[Dorjeneijn]], dat küt fun {{lang|jp|化ける}} (''bakeru''), un dat bedügg „kostümeet opdouche“, un „sing Form verändere op&…nbsp;“, un „sesch noh_m Schlääshte wandelle“.
 
-==Etymology==
-Mojibake is a [[loanword]] from [[Japanese language|Japanese]]; the Japanese word 文字化け ({{IPA|[moʥibake]}}) is composed of 文字 (''moji''), which means ''letter'', ''character'', and 化け (''bake''), from the verb 化ける (''bakeru''), which means ''to appear in disguise, to take the form of, to change for the worse''. Literally, it means "character mutation".
+Ene andere änglesche Ußdrock unger Kompjutolück eß '''''{{lang|en|[[:en:gibberish|gibberish]]}}''''' (mir däte [[Kauderwelsch]] sare)
 
-==Causes==
+För dat, wat uns Bochshtabesallaat sönß nochbedügge kann, han de Kompjutolück dä änglesche Ußdrock '''''{{lang|en|[[:en:garbage|garbage]]}}''''', dat es mä [[Möll]], [[Affall]], [[Dreßß]], ävver dat Woot weet dann och wider för e beße mieh esu en [[Date]]-[[Onjlöck]]er jebruch.
+
+<!--
+== Ursaache ==
 ''Mojibake'' is often caused when a [[character encoding]] is not correctly tagged in a document, or when a document is moved to a system with a different default encoding. Such display of [[writing system]]s or [[character encoding]]s that are mistagged or "foreign" to the user's computer system: if a computer does not have the software required to process a foreign language's characters, it will attempt to process them in its default language encoding, usually resulting in gibberish. Messages transferred between different encodings of the same language can also have ''mojibake'' problems. Japanese language users, with several different encodings historically employed, would encounter this problem relatively often. For example, the intended word "文字化け", encoded in [[UTF-8]], is incorrectly displayed as "æ–‡å­—åŒ–ã‘" in software that is configured to expect text in the [[Windows-1252]] or [[ISO-8859-1]] encodings, usually labeled Western.
 
 A [[web browser]] may not be able to distinguish a page coded in [[EUC-JP]] and another in [[Shift-JIS]] if the coding scheme is not assigned explicitly using the [[Hypertext Transfer Protocol|HTTP]] headers sent along with the documents, or using the [[HTML]] document's [[meta tag]]s that are used to substitute for missing HTTP headers if the server cannot be configured to send the proper HTTP headers. Heuristics can be applied to guess at the character set, but these are not always successful.
