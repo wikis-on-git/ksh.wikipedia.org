@@ -16,29 +16,27 @@ Ene andere änglesche Ußdrock unger Kompjutolück eß '''''{{lang|en|[[:en:gibb
 
 För dat, wat uns Bochshtabesallaat sönß nochbedügge kann, han de Kompjutolück dä änglesche Ußdrock '''''{{lang|en|[[:en:garbage|garbage]]}}''''', dat es mä [[Möll]], [[Affall]], [[Dreßß]], ävver dat Woot weet dann och wider för e beße mieh esu en [[Date]]-[[Onjlöck]]er jebruch.
 
-== Jrönd för et Optredde ==
-Dä Boochstabesallaht kütt et miehts zoshtand, wann de [[Zëijshe]] ier [[Kodeerung]], da su jennannte „''{{lang|en|[[character encoding]]}}''“ nit reshtesh medd_ennem [[Dokkemänt]] zosamme övverdraare wood.
-<!---
-, udder wan_su_n Dokemänt ohne di Enfomazjů                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+== Ursaache för et Optredde ==
+Dä Boochstabesallaht kütt et miehts zoshtand, wann de [[Zëijshe]] ier [[Kodeerung]], dä su jennannte „''{{lang|en|[[character encoding]]}}''“ nit reshtesh medd_ennem [[Dokkemänt]] zosamme övverdraare wood, udder wan_su_n Dokemänt ohne di Enfomazjůn obb_en annder Komputo_Süßtem jekůmme eß, un dann „jlöüv“_enne Kompjuto, oddo dä Dröcker, et wöhr et „ëije“, un dat shtemmp ävver nit. Leider jidd_et ene Houfe esu en ungerscheidlijje Kodeerunge op der Welt, un di bruch mer och, un jede Firma, wo Komputore un Zubehör jemaat wääde, hät ier_er di se Vörtrecke, ävver de Länder, de Kultuurkriese, un de Shprooche hann_er och de iere. Wann jetz ene Kompjuto nit „wëiß“, wat met esu enem Dokkemänt loß eß, es dat öff jenou esu jot, wi wann de verkeehte Zëijshesatz-Enfomazjůn medd_em jekumme es. Odder dä Kompjuto hät ëijfach nit di Zëijsche sellver, di enn_enem Zëijshesaz dren sen, sarr_ens enne Dröcker en Europpa, un dä sät: „[[Schineesėsch]], dat kann_esch nit“ — do hät dä Kompjuto këijn Schangs, dänn zom Schinesësch_Dröcke ze krijje. Wann dä Dröcker dann di Daate trotzdämm kritt, för se ußzedröcke, dann weet uß dämm eetzte [[schineesesch Zëijshe]], zem Bëispell et eetze [[Lattëjnesch Bochshtab|latteinesch Zeijsche]] maache, uss_em zwëijte et zwëije, un esu, un am Eng kütt do [[Keu]] beij_eruß.
+
+Text en ungerscheedlijje Kodeerunge en ëijn un dersellve Shprooch odder Schreff künne och esu en Problme hann. [[Japan]]er künne e Leedshe dovun senge. Bëij dänne es dat lang uusuß, dat se hen handvoll ungerscheedlijje Kodeerůnge am bruche sėn. Zum Bëijshpell dat Woot „{{lang|ja|文字化け}}“ en [[UTF-8]] weed fokeeht als „æ–‡å­—åŒ–ã‘“ aanjezëijsh obb_enem [[Personal Computer|PC]], dä op dat su jenannte „[[Weste|wesslijje]]“ [[Windows-1252]] enjeshtalld_eß, un fun dämm [[UNICODE]], also och UTF-8, nix foshtëiht.
+
+Ene [[Web-Brauser]] maach nit ungerschejde künne zwesche ene [[Websigg]] em [[EUC-JP]] Kode un en andere en [[Shift-JIS]], wann de Kodeerůng nit ußdröcklesch en enem [[Hypertext Transfer Protocol|HTTP]]-''{{lang|en|[[header]]}}''-Enndraach jenannt eß, dä zosamme met dä Sigg zo imm jescheck woode sėn, un wann se nit dann winnishtdenß en enem ''{{lang|en|[[meta tag]]}}'' en dämm [[HTML]] fun dä Sigg dren shtëishe don, wann_et övverhoup en HTML-Sigg eß, wat ävver se miihßte Websigge sin. Met dämm ''{{lang|en|meta tag}}'' för de Kodeerung kam_mer sesch dröm eröm laveeere, wann sijj_ene [[Webßöver]] nit esu eshtälle löht, dat dä de reshteje ''{{lang|en|HTTP headers}}'' ruß_sende dëijt. Hät mer beeds nit, kam_mer noch met [[Heuristik|heureßtesche Metoode]] probeere, dä Zëishesatz eruß ze krijje, ävver dat jrenz aan [[Rode]], un dö kann nit en jedem Fall jät joods bëij_eruß kumme.
+
+Mer kann och ens e beßje Bochstabesalaat krijje wann de Kodeerunge zosamme ze paase schinge. Zem Bëijshpell, [[Microsoft Windows|Windows]] un [[Macintosh]] bröüshte [[ISO-8859-1]] als dänne iere Zëishe-Kood, sare se. Shtemmp och, äver. Beeds bruche se en iere Süßteeme och noch Zëijshe, di em dä ISO-8859-1 [[Norrem]] jaa nit dren sin, un beeds künnte un donn nit drop aade, dat se di Zëijshe_Pusizjuhne nich bruche dörrve, wan ens e Dokkement up däm Kompjuto eruß jëiht. Nattöörlesch sin di Extra Zëijshe nit deselve un nit jlisch, zwesche dänne zwëij. Dröm sen Dokkemënte met dänne dren och nit [[kompatibel]] zwesche dä Systeme. Scheck mer se doch fun ëijne obb_et andere, zack, häß De för di paa Zëijshe der Bochshtabesalat.
 <!--
-== Ursaache ==
-''Mojibake'' is often caused when a [[character encoding]] is not correctly tagged in a document, or when a document is moved to a system with a different default encoding. Such display of [[writing system]]s or [[character encoding]]s that are mistagged or "foreign" to the user's computer system: if a computer does not have the software required to process a foreign language's characters, it will attempt to process them in its default language encoding, usually resulting in gibberish. Messages transferred between different encodings of the same language can also have ''mojibake'' problems. Japanese language users, with several different encodings historically employed, would encounter this problem relatively often. For example, the intended word "文字化け", encoded in [[UTF-8]], is incorrectly displayed as "æ–‡å­—åŒ–ã‘" in software that is configured to expect text in the [[Windows-1252]] or [[ISO-8859-1]] encodings, usually labeled Western.
-
-A [[web browser]] may not be able to distinguish a page coded in [[EUC-JP]] and another in [[Shift-JIS]] if the coding scheme is not assigned explicitly using the [[Hypertext Transfer Protocol|HTTP]] headers sent along with the documents, or using the [[HTML]] document's [[meta tag]]s that are used to substitute for missing HTTP headers if the server cannot be configured to send the proper HTTP headers. Heuristics can be applied to guess at the character set, but these are not always successful.
-
 In the mid 1990s, as this problem became common, several websites featured mojibake not as a problem to be tackled but simply for amusement. Words and even sentences were "deciphered" with meanings made up to deliver funny messages.
+-->
+== Lösunge ==
 
-Mojibake can also occur between what appears to be the same encodings. For example, [[Microsoft Windows|Windows]] and [[Macintosh]] both use the name [[ISO-8859-1]] for a character encoding. However, each system includes characters in their encoding not in ISO-8859-1, and these are not compatible across systems. It is possible to be unaware of these extra characters' incompatibility across platforms, and to unintentionally cause mojibake by using them.
-
-==Resolutions==
-
-Applications using [[UTF-8]] as a default encoding may achieve a greater degree of interoperability due to its widespread use and backwards compatibility with [[US-ASCII]].
-
+[[Aanwendung (Komjutorei)|Aanwendung]]e, di [[UTF-8]] alß dänne iere [[Shtanndatt]] hann, hann en hröößer Schangß, dat se met andere zosamme könne, wëijl dä Kood enzwesche öff jebruch weed, un ußerdämm och, wëil hä met dämm älldere, un och öff jebruchte [[US-ASCII]] kampatibel eß.
+<!--
 The difficulty of resolving an instance of mojibake varies depending on the application within which it occurs and the causes of it. Two of the most common applications in which mojibake may occur are [[web browser]]s and [[word processor]]s. Modern browsers and word processors often support a wide array of character encodings. Browsers would often allow a user to change its [[Layout engine|rendering engine's]] encoding setting on the fly, while word processors would allow the user to select the appropriate encoding when opening a file. It may take some [[trial and error]] for users to find the correct encoding.
 
 The problem gets more complicated when it occurs in an application that normally does not support a wide range of character encoding, such as in a non-Unicode computer game. In this case, the user must change the operating system's encoding settings to match that of the game. However, changing the system-wide encoding settings can also cause Mojibake in pre-existing applications. In [[Windows XP]] or later, a user also has the option to use [[Microsoft AppLocale]], an application that allows the changing of per-application locale settings. Even so, changing the operating system encoding settings is not possible on earlier operating systems such as [[Windows 98]]; to resolve this issue on earlier operating systems, a user would have to use third party font rendering applications.
-
-==Problems in specific languages==
+-->
+== Probleme met bestemmpte Shrooche ==
+<!--
 Mojibake in English texts generally occurs in punctuation, such as emdashes (—), endashes (–), and curly quotes (“, ”), but rarely in character text since most encodings agree with [[ASCII]] on the encoding of the [[English alphabet]]. For example, the pound sign "£" will appear as "Â£" if it was encoded by the sender as [[UTF-8]] but interpreted by the recipient as [[CP1252]] or [[ISO 8859-1]]. If iterated, this can lead to "Ã‚Â£", "Ãƒâ€šÃ‚Â£", etc.
 
 In [[Japanese language|Japanese]], the phenomenon is as mentioned called ''mojibake'' {{lang|ja|文字化け}}. It is often encountered by non-Japanese when attempting to run software written for the Japanese market.
@@ -65,6 +63,7 @@ In [[Ex-Yu|most of Former Yugoslavia]], an addition to the basic Latin alphabet 
 
 Before [[Unicode]] came into popular use, [[Esperanto]] used to use [[Latin-3]] to display the accented characters: ĉ, ĝ, ĥ, ĵ, ŝ, and ŭ. In some browsers these characters would be incorrectly displayed as Latin-1 characters with the same encoding: æ, ø, ¶, ¼, þ, and ý.
 -->
+Ih dat dä [[Unicode]] bahl övverall opjejreffe wohdt, ät mer em [[Esperanto]] dä [[Latin-3]] Kood benoz, öm de [[Akzentzëijshe]] u [[Ömluut]] daazeshtelle, dat sinn_er: ĉ, ĝ, ĥ, ĵ, ŝ, un ŭ. En mansh enem Zosammehang, un en ahle Web-Brausere, kumme di als wi [[Latin-1]] aan, un mer süüht de verkeehte Zëijshe: æ, ø, ¶, ¼, þ, un ý.
 
 == Websigge ==
 * [http://www.denbushi.net/blog/archives/000032.html Reprinted article from the Japan Times]
