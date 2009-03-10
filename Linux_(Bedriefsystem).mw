@@ -7,25 +7,25 @@
 
 
 
+ -->
+'''Linux''', dat klengk: {{IPA|ˈliːnʊks}}, um_mer säät och '''GNU/Linux''' {{IPA|jnuː ˈliːnʊks}} doför<ref>loor ens nooch däm [[GNU/Linux-Nomenszänk]]</ref>. Et is en [[Frieje Software|friejes]] [[Plattform (Computer)|Multiplattform]]-[[Miehbenutzersystem|Miehbenutzer]]-[[Bedriefsystem]], dat de [[Linux (Kernel)|Linux-Kernel]] verwende dät, op [[GNU]] basiere dät un [[Unixoide Systeme|Unix-ähnlich]] sin dät. Erztmals in größerem Stil ingesatzt wood dat Linux [[1992 (Johr)|1992]] nah de [[GNU General Public License|GPL]]-Lizenzjierung von de Linux-Kernels.
 
+Dat modular opgebaute Bedriefsystem wed wigger usgebaut, von [[Softwareentwickler]]n op de ganze Welt, welche bei de verschiddenen Projekte mitmache däte. Do sin dan Ungernehmen wie och [[Non-Profit-Organisation]]e un Enzelpersonne beteiljigt, die dat dan als [[Hobby]] betreivve. Im Leeve werde dann miest sogenannte [[Linux-Distribution]]e genutzt, in denne dan verschiddene Software fix un feddich parat gemacht wudde sinn. Aal von denne Distributione enthale somit quasi Linux also genau gesacht de Linux-Kernel. Von denne Linux-Distributionen gibt et wirklich ärch viel, evver für de aktuelle Kernel 2.2.x, 2.4.x un 2.6.x gidet immer nur en stabille, in aktiv gepflechte und en wigger entwickelte Version – dobei wird de (stabille) 2.6.16er-Zweich noh gepflegt un et wede [[Patch (Software)|Patches]] für de vorherje Versionen parat gemat. Evver viell von de [[Distributor]]en und von de versierte Benutzer mache sich de [[Bedriefsystemkern]] mehr oder wenniger für ihre Zweck selvs parat.
 
- -->'''Linux''', dat klengk: {{IPA|ˈliːnʊks}}, um mer säät och '''GNU/Linux''' doför<ref>''loor ens ooch'' [[GNU/Linux-Nomenszänk]]</ref> et is en [[Frieje Software|friejes]] [[Plattform (Computer)|Multiplattform]]-[[Mehrbenutzersystem|Mehrbenutzer]]-[[Bedriefsystem]], dat de [[Linux (Kernel)|Linux-Kernel]] verwende dät, op [[GNU]] basiere dät un [[Unixoide Systeme|Unix-ähnlich]] sin dät. Erztmals in größerem Stil ingesatzt wood dat Linux [[1992 (Johr)|1992]] nah de [[GNU General Public License|GPL]]-Lizenzjierung von de Linux-Kernels.
-
-Dat modular opgebaute Bedriefsystem wed wigger usgebaut, von Softwareentwicklern op de ganze Welt, welche bei de verschiddenen Projekte mitmache däte. Do sin dan Ungernehmen wie och [[Non-Profit-Organisation]]e un Enzelpersonne beteiljigt, die dat dan als Hobby betreivve. Im Leeve werde dann miest sogenannte [[Linux-Distribution]]e genutzt, in denne dan verschiddene Software fix un feddich parat gemacht wudde sinn. Aal von denne Distributione enthale somit quasi Linux also genau gesacht de Linux-Kernel. Von denne Linux-Distributionen gibt et wirklich ärch viel, evver für de aktuelle Kernel 2.2.x, 2.4.x un 2.6.x gidet immer nur en stabille, in aktiv gepflechte und en wigger entwickelte Version – dobei wird de (stabille) 2.6.16er-Zweich noh gepflegt un et wede [[Patch (Software)|Patches]] für de vorherje Versionen parat gemat. Evver viell von de [[Distributor]]en und von de versierte Benutzer mache sich de [[Bedriefsystemkern]] mehr oder wenniger für ihre Zweck selvs parat.
-
-Linux kanste quasi övveral gebruche, so op dinge [[Desktop-Computer|Desktop-Rechnern]], op nen [[Host (Informationstechnik)|Servern]], in en [[Mobiltelefon]], oder nen [[Router]], op Multimedia-Endgeräten un in enem [[Supercomputer]]. Dobei sinn die Ungerschide in de verbreitung von de enzelne Bereich at äch drastisch. So is dat Linux im Server-Maat ne feste Größ, wobei es op de Desktop's bislang nur ein kleen Roll spillt. Dazu kütt dat de wirtschaftliche un de geographische Lage ener Region e wichtige Roll spille dät. So wille zeerzt südamerikanische Schwelleländer de Insatz von de Linux ärch verstärke donn.
-
-<references />
-
-
+Linux kanste quasi övveral gebruche, so op dinge [[Desktop-Computer|Desktop-Rechnern]], op nen [[Host (Informationstechnik)|Servern]], in en [[Mobiltelefon]], oder nen [[Router]], op Multimedia-Endgeräten un in enem [[Supercomputer]]. Dobei sinn die Ungerschide in de verbreitung von de enzelne Bereich at äch drastisch. So is dat Linux im Server-Maat ne feste Größ, wobei et op de Desktops bislang nur ein kleen Roll spillt. Dazu kütt dat de wirtschaftliche un de geographische Lage ener Region e wichtige Roll spille dät. So wille zeerzt südamerikanische Schwelleländer de Insatz von de Linux ärch verstärke donn.
 
 == Geschicht ==
-→ ''Houpsigk: [[de Geschicht vun de Linux]]''
+Janz jenou fengk mer et op dä Houpsigk övver →&nbsp;[[dem Linux sing Geschicht]].
 
-=== Wat is fürher passeet ===
-Anno 1983 hät de [[Richard Stallman]] ens e Projekt in et Levve geroofe, und hät de ganze Rötsch [[GNU-Projekt]] genannt, för dat et dat Zill wor, en dem [[Unix]] -ähnliche, Bedriefsystem für ze mache, wat sich mit dem [[POSIX]] gut vertrare sollt dät. Zwor wor at am anfang von de 90er Johr en ordentlich Rötsch vun Programme geschrivve wode, evver de wichtige Bedriefsystem-Kern, wor noch e Idötze, un koom nur langsam fürran.<br>
-Jo un dan wor da noch de [[Berkeley Software Distribution]], de hät sich at in de 80er entwikelt, dat wor och en frije Programm, evver de bedötschte Advokate hadde sich noh in de Hoor, un wie dat wod wede sollt, kund och noch kener sage, sodat dat och kee Altanativ för e frijet Bedriefsystem wor.<br>
-Jo, un so koom et dann, dat am Beginn von de 90er Johr kee einziges frijet System do wor, wat vollstandig sinn dät, un esu för dat de Entwikler intressant hät sinn könne.
+=== Wat is fürher passeet? ===
+[[Anno 1983]] hät de [[Richard Stallman]] ens e Projekt in et Levve geroofe, und hät de ganze Rötsch [[GNU-Projekt]] genannt, för dat et dat Zill wor, en dem [[Unix]] ähnlichet Bedriefsystem für ze mache, wat sich mit dem [[POSIX]] gut vertrare sollt dät. Zwor wor at am anfang von de [[90er Johr]] en ordentlich Rötsch vun Programme geschrivve wode, evver de wichtige Bedriefsystem-Kern, wor noch e [[Idötzje|Idötze]], un koom nur langsam fürran.
+
+Jo un dan wor da noch de [[Berkeley Software Distribution]], de hät sich at in de [[1980-er Johre|80er]] entwikelt, dat wor och en frije Programm, evver de bedötschte [[Advokate]] hadde sich noh in de Hoor, un wie dat wod wede sollt, kund och noch kener sage, sodat dat och kee Altanativ för e frijet Bedriefsystem wor.
+
+Jo, un so koom et dann, dat am Beginn von de [[1980-er Johre|90er Johr]] kee einziges frijet System do wor, wat vollstandig sinn dät, un esu för dat de Entwikler intressant hät sinn könne.
+
+== Henwies ==
+<references />
 
 == Websigge ==
 * http://www.linux.org/ — de Houmpäjdsch
