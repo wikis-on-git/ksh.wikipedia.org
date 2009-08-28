@@ -1,0 +1,53 @@
+[[Image:Network effect.png|right| thumb|Two [[telephone]]s can make only one [[Connectedness|connection]], five can make 10 connections, and twelve can make 66 connections.]]
+
+Dem '''Metcalfe sing Rääjel''' säät jät övver der Noze, dä mer vunenem Netz hät, wie [[Tellefonn]], [[Fax]], un [[Internet]], je nohdämm, wivill do söns noch draan metmaache. ''Metcalfe'' es Englisch un mer spresch et wie [[Mett]] un [[Kalv]], ävver dä [[Robert Metcalfe]] hät nur aam Rand domet zem dooe, Dä [[George Gilder]] hät die Rääjel [[Johr 1993]] et eets opjeschevve. <ref>{{cite book | title = Information Rules | author = Carl Shapiro and Hal R. Varian | publisher = Harvard Business Press | year = 1999 | isbn = 087584863X | url = http://books.google.com/books?id=aE_J4Iv_PVEC&printsec=frontcover&dq=inauthor:shapiro+inauthor:varian&lr=&as_brr=0&ei=m970SJKIGI_IM6TztKAK&sig=ACfU3U38rWi0nWdE95wUzjjSwSgEYyoi5w#PPA184,M1 }}</ref>
+
+'''Metcalfe's law''' states that the value of a [[telecommunications network]] is [[Quadratic growth|proportional to the square]] of the number of connected users
+of the system (''n''<sup>2</sup>). First formulated in this form by [[George Gilder]] in 1993,<ref>{{cite book | title = Information Rules | author = Carl Shapiro and Hal R. Varian | publisher = Harvard Business Press | year = 1999 | isbn = 087584863X | url = http://books.google.com/books?id=aE_J4Iv_PVEC&printsec=frontcover&dq=inauthor:shapiro+inauthor:varian&lr=&as_brr=0&ei=m970SJKIGI_IM6TztKAK&sig=ACfU3U38rWi0nWdE95wUzjjSwSgEYyoi5w#PPA184,M1 }}</ref> and attributed to [[Robert Metcalfe]] in regard to [[Ethernet]], Metcalfe's law was originally presented, circa 1980, not in term of users, but rather of "compatibly communicating devices" (for example, fax machines).<ref>{{cite web | title = Metcalfe’s Law: more misunderstood than wrong? | date = July 26, 2006 | author = Simeon Simeonov | work = HighContrast: Innovation & venture capital in the post-broadband era | url = http://simeons.wordpress.com/2006/07/26/metcalfes-law-more-misunderstood-than-wrong/ }}</ref>
+
+Metcalfe's law characterizes many of the [[network effect]]s of communication technologies and networks such as the [[Internet]], [[social networking]], and the [[World Wide Web]]. It is related to the fact that the number of unique connections in a network of a number of nodes (''n'') can be expressed mathematically as the [[triangular number]] ''n''(''n''&nbsp;&minus;&nbsp;1)/2, which is proportional to ''n''<sup>2</sup> [[asymptote|asymptotically]].
+
+The law has often been illustrated using the example of [[fax]] machines: a single fax machine is useless, but the value of every fax machine increases with the total number of fax machines in the network, because the total number of people with whom each user may send and receive documents increases.
+
+Metcalfe's law is more of a [[heuristic]] or metaphor than an iron-clad empirical rule. In addition to the difficulty of quantifying the "value" of a network, the mathematical justification measures only the ''potential'' number of contacts, i.e., the technological side of a network. However the social utility of a network depends upon the number of nodes ''in contact''. For instance, if Chinese and non-Chinese users don't understand each other, the utility of a network of users that speak the other language is near zero, and the law has to be calculated for the two sub-networks separately.
+
+== See also ==
+* [[List of eponymous laws]]
+* The generalized [[network effect]] of [[microeconomics]].
+* [[Reed's law]]
+* [[Sarnoff's law]]
+* [[Beckstrom's_law |Beckstrom's Law]]
+
+== References ==
+<references/>
+
+== External links ==
+{{wikibooks|The Information Age}}
+* [http://simeons.wordpress.com/2006/07/26/metcalfes-law-more-misunderstood-than-wrong/ Metcalfe's Law: More Misunderstood Than Wrong?]. A co-worker of Bob Metcalfe puts the [[IEEE]] Spectrum critique in perspective. Republished  [http://web2.sys-con.com/read/259624.htm here].
+* [http://spectrum.ieee.org/computing/networks/metcalfes-law-is-wrong Metcalfe's Law is Wrong]. Bob Briscoe, Andrew Odlyzko, and Benjamin Tilly, July 2006 IEEE Spectrum.  Points out that Metcalfe's Law is wrong, that the value is closer to ''n''&nbsp;log&nbsp;(''n'')
+* [http://vcmike.wordpress.com/2006/08/18/metcalfe-social-networks/ Metcalfe’s Law Recurses Down the Long Tail of Social Networking by Bob Metcalfe]
+* [http://news.zdnet.com/2100-1035_22-5616549.html ZDNet: Metcalfe's Law overshoots the mark]
+* [http://www.dtc.umn.edu/~odlyzko/doc/metcalfe.pdf Andrew Odlyzko and Benjamin Tilly paper]
+* [http://www.useit.com/alertbox/990725.html Metcalfe's Law in Reverse], applying Metcalfe's law to form an argument in favour of large, unified networks.
+* [http://www.nature.com/msb/journal/v1/n1/full/msb4100040.html George Church. The Personal Genome Project. Molecular Systems Biology. 13 December 2005]
+* [http://blogs.sun.com/bblfish/entry/rdf_and_metcalf_s_law The Semantic Web and Metcalfe's Law]
+* [http://www.shirky.com/writings/group_enemy.html A Group Is Its Own Worst Enemy]. Clay Shirky's keynote speech on Social Software at the O'Reilly Emerging Technology conference, Santa Clara, April 24, 2003. The fourth of his "Four Things to Design For" is: "And, finally, you have to find a way to spare the group from scale. Scale alone kills conversations, because conversations require dense two-way conversations. In conversational contexts, Metcalfe's law is a drag."
+
+[[Category:Information theory]]
+[[Category:Graph theory]]
+
+[[ca:Llei de Metcalfe]]
+[[da:Metcalfes lov]]
+[[de:Metcalfesches Gesetz]]
+[[en:Metcalfe's law]]
+[[es:Ley de Metcalfe]]
+[[fr:Loi de Metcalfe]]
+[[it:Legge di Metcalfe]]
+[[nl:Wet van Metcalfe]]
+[[ja:メトカーフの法則]]
+[[no:Metcalfes lov]]
+[[pl:Prawo Metcalfe'a]]
+[[pt:Lei de Metcalfe]]
+[[ru:Закон Меткалфа]]
+[[fi:Metcalfen laki]]
+[[sv:Metcalfes lag]]
