@@ -2,7 +2,7 @@
 
 
 '''Bochstabesallat''' kütt en de Houpsaach zoshtand, wann enne [[Kompjutor]], ene [[Kompjuto-Dröcker]], odder esu jet, mem fokeehte [[Zëjschesaz (Kompjuto)|Zëjschesaz]] ärbeide. Wat do ußjejovve weed, dat kam_mer dann jaa nit lässe, or nur zem Dëijl. Tüppesche Fäll bëij ons:
-[[Image:Mojibake.png|thumb|400px|De Sigg övver {{lang|jp|[[文字化け]]}} (Bochstabesallaat) en de Wikipedija op [[Japanesch (Shprooch)|Japanesch]] ävver jezëijsh, wi wänn dat noh dä [[ISO-8859-1]] [[Norrem]] [[Kodeere|kodeet]] wöhr — et eß ävver en Woohëit en [[UTF-8]] övvermeddelt woode.]]
+[[Datei:Mojibake.png|thumb|400px|De Sigg övver {{lang|jp|[[文字化け]]}} (Bochstabesallaat) en de Wikipedija op [[Japanesch (Shprooch)|Japanesch]] ävver jezëijsh, wi wänn dat noh dä [[ISO-8859-1]] [[Norrem]] [[Kodeere|kodeet]] wöhr — et eß ävver en Woohëit en [[UTF-8]] övvermeddelt woode.]]
 * De [[Ümluut]]e sen fott.
 * För jede Ömluut un et [[scharfe s]] stëijt jet angersch do.
 * Mer süüht nur ene exootesche Sammlong uß koomije Zëijshe.
@@ -30,7 +30,7 @@ In the mid 1990s, as this problem became common, several websites featured mojib
 
 == Lösunge ==
 
-[[Aanwendung (Komjutorei)|Aanwendung]]e, di [[UTF-8]] alß dänne iere [[Shtanndatt]] hann, hann en hröößer Schangß, dat se met andere zosamme könne, wëijl dä Kood enzwesche öff jebruch weed, un ußerdämm och, wëil hä met dämm älldere, un och öff jebruchte [[US-ASCII]] kampatibel eß.
+[[Aanwendung (Komjutorei)|Aanwendunge]], di [[UTF-8]] alß dänne iere [[Shtanndatt]] hann, hann en hröößer Schangß, dat se met andere zosamme könne, wëijl dä Kood enzwesche öff jebruch weed, un ußerdämm och, wëil hä met dämm älldere, un och öff jebruchte [[US-ASCII]] kampatibel eß.
 
 De Schwireschkëijte, met däm Bochshtabesallaat ömzejonn hange dofun af, wat dat förr_en [[Projramm]] ov [[Jerääd]]_eß, woh dä opdouch, un nattörlėsh, wi dä övvohoup zeshtand küt. Drëij fun de häufijje Projramme sen [[Web-Brauser]], [[e-mail]]-Projramme, un [[Tëxforbeidůng]]e, woh mer dä Sallaat ald ens süüht. De Brausers hückzedaach un de mihßte neuere Texprojramme ongershtötze öff en jruße Zahl Zëijshe-Kodėerunge. Brausere don öff däm Minsch de Müjjeleschkëijt jevve, dat hä de Kodeerung för_et Aanzeije ömschallde kann, wi_j_et ėmm jevällt. Esu kam_mer met Eröm[[probeere]] af un aan jät riiße. De Texprojramme un de e-mail-Projramme dun dat fö_jewöönlesch nit, di söke sesch de Kodėerung uß, wann se en [[Datei opmaache]]. 
 
@@ -45,7 +45,7 @@ In [[German language|German]], ''Zeichensalat'' (character salad) and ''Krähenf
 Among languages of Scandinavia, mojibake is not uncommon, but isn't much of a problem and is more of an annoyance. [[Finnish language|Finnish]] and [[Swedish language|Swedish]] use the letters of the [[English alphabet]] and three more characters: å, ä and ö, and typically these three are the only ones that become corrupted. The situation is similar for Norwegian and Danish, except the three relevant letters are æ, ø and å. In Swedish, Norwegian and Danish, vowels are rarely repeated, and it is usually obvious when one character gets corrupted, such as the second letter in "kÃ¤rlek" (kärlek, "love"). This way, even though the reader has to guess between å, ä and ö, almost all texts remain perfectly readable. However, [[Finnish language|Finnish]] does have repeating vowels in words like "HÃ¤Ã¤yÃ¶" (hääyö), which can sometimes render text very hard to read.
 
 -->
-En [[Änglesh (Shprooch)|Änglesh]] hät mer miihtß bloß Zëijshesalaat met dä Zäijsche, di zwesche [[Woot (Kalle)|Wööt]] un [[Satz (Kalle)|Sätz]] shtonn künne, alsu en lange (—) un koote (–) [[Jedangkeshtresch]], en [[Aanföhrung (Zeishe)|Aanföhrung]]e (“, ”), un esu enem Krohm. Dä Räß eß bahl emmer mem [[ASCII]]-Zëijshesatz kompatibel, met dämm me et änglesche [[Latteinėsche Zëijshe|lattëijnesche Allfabeet]] fun hückzerdachs schriive dëijt. För e Bëijshpell, dat Zëijshe för et [[änglesche Pungk]] „[[£]]“ süüht wi „Â£“ uß, wann ene Afsender dat em [[UTF-8]] kodeet hät, un dä et kritt, zëijsh_et met [[CP1252]] odder [[ISO 8859-1]] aan. Wann mer dat Spell öffters määt, da kütt „Ã‚Â£“ eruß, dann „Ãƒâ€šÃ‚Â£“, un esu wigger.
+En [[Änglesh (Shprooch)|Änglesh]] hät mer miihtß bloß Zëijshesalaat met dä Zäijsche, di zwesche [[Woot (Kalle)|Wööt]] un [[Satz (Kalle)|Sätz]] shtonn künne, alsu en lange (—) un koote (–) [[Jedangkeshtresch]], en [[Aanföhrung (Zeishe)|Aanföhrunge]] (“, ”), un esu enem Krohm. Dä Räß eß bahl emmer mem [[ASCII]]-Zëijshesatz kompatibel, met dämm me et änglesche [[Latteinėsche Zëijshe|lattëijnesche Allfabeet]] fun hückzerdachs schriive dëijt. För e Bëijshpell, dat Zëijshe för et [[änglesche Pungk]] „[[£]]“ süüht wi „Â£“ uß, wann ene Afsender dat em [[UTF-8]] kodeet hät, un dä et kritt, zëijsh_et met [[CP1252]] odder [[ISO 8859-1]] aan. Wann mer dat Spell öffters määt, da kütt „Ã‚Â£“ eruß, dann „Ãƒâ€šÃ‚Â£“, un esu wigger.
 
 <!-- 
 
@@ -89,12 +89,12 @@ Ih dat dä [[Unicode]] bahl övverall opjejreffe wohdt, hät mer dä [[Latin-3]]
 {{Övversaz uß}}
 
 <!-- ======= -->
-[[Category:Kompjutorëij]]
-[[Category:Fähler]]
+[[Saachjrupp:Kompjutorëij]]
+[[Saachjrupp:Fähler]]
 <!-- ======== -->
 
 [[ar:موجيباكي]]
-[[de:Mojibake]]
+[[de:Zeichensalat]]
 [[el:Mojibake]]
 [[en:Mojibake]]
 [[eo:Moĝibako]]
