@@ -310,7 +310,7 @@ Tokipinglish, a constructed language by Robert Hulsey based on Toki Pona with En
 //]]>
 </script>
 <p><a name="Phonology" id="Phonology"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=1" title="Edit section: Phonology">edit</a>]</span> <span class="mw-headline">1 Phonology</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=1" title="Edit section: Phonology">edit</a>]</span> <span class="mw-headline">1 Phonology</span></h2>
 <p>Toki&#160;Pona is phonetically minimal. Its system resembles that of <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a> but lacks distinctive <a href="/wiki/Phonation" title="Phonation">voicing</a>, phonemic <a href="/wiki/Vowel_length" title="Vowel length">length of vowels</a> and <a href="/wiki/Gemination" title="Gemination">of consonants</a>, <a href="/wiki/Diphthong" title="Diphthong">diphthongs</a>, and clusters of <a href="/wiki/Palatal_consonant" title="Palatal consonant">palatal consonants</a>.</p>
 <table class="wikitable" style="margin: 1em auto 1em auto; text-align:center">
 <tr>
@@ -406,74 +406,74 @@ Tokipinglish, a constructed language by Robert Hulsey based on Toki Pona with En
 <p>The nasal at the end of a syllable is always spelled <i>n</i> but, due to <a href="/wiki/Sandhi" title="Sandhi">sandhi</a>, is realized as the nasal at the same <a href="/wiki/Place_of_articulation" title="Place of articulation">place of articulation</a>. For instance, /n/ becomes [m] before /p/.</p>
 <p>Within a word, syllable-final nasal cannot precede a nasal consonant (<i>n</i> or <i>m</i>), and a syllable without an initial consonant can only appear as the first syllable of a word.</p>
 <p><a name="Syntax" id="Syntax"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=2" title="Edit section: Syntax">edit</a>]</span> <span class="mw-headline">2 Syntax</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=2" title="Edit section: Syntax">edit</a>]</span> <span class="mw-headline">2 Syntax</span></h2>
 <p>Some basic features of Toki Pona's <a href="/wiki/Agent_Verb_Object" title="Agent Verb Object">Subject Verb Object</a> syntax are: The word <i lang="x-tokipona" xml:lang="x-tokipona">li</i> usually separates the subject from the predicate; <i lang="x-tokipona" xml:lang="x-tokipona">e</i> precedes the direct object; direct object phrases precede prepositional phrases in the predicate; <i lang="x-tokipona" xml:lang="x-tokipona">la</i> separates complex adverbs from the main sentence. The language is simple enough that most of its syntax can be expressed in fewer than a dozen lines of <a href="/wiki/Extended_Backus-Naur_form" title="Extended Backus-Naur form">Extended Backus-Naur form</a>:</p>
 <table class="wikitable" style="font-family:Courier; margin:1em auto 1em auto">
 <tr>
-<td align="right">&lt;sentence&gt;</td>
-<td>::= [&lt;sentence-adverb&gt; "la"] &lt;pron-or-subject&gt; &lt;predicate&gt;</td>
+<td align="right"><sentence></td>
+<td>::= [<sentence-adverb> "la"] <pron-or-subject> <predicate></td>
 </tr>
 <tr>
-<td align="right">&lt;pron-or-subject&gt;</td>
-<td>::= "mi" | "sina" | &lt;subject&gt; "li"</td>
+<td align="right"><pron-or-subject></td>
+<td>::= "mi" | "sina" | <subject> "li"</td>
 </tr>
 <tr>
-<td align="right">&lt;sentence-adverb&gt;</td>
-<td>::= &lt;noun-phrase&gt;</td>
+<td align="right"><sentence-adverb></td>
+<td>::= <noun-phrase></td>
 </tr>
 <tr>
-<td align="right">&lt;subject&gt;</td>
-<td>::= &lt;noun-phrase&gt; | &lt;compound-subject&gt;</td>
+<td align="right"><subject></td>
+<td>::= <noun-phrase> | <compound-subject></td>
 </tr>
 <tr>
-<td align="right">&lt;predicate&gt;</td>
-<td>::= &lt;verb-phrase&gt; | &lt;compound-predicate&gt;</td>
+<td align="right"><predicate></td>
+<td>::= <verb-phrase> | <compound-predicate></td>
 </tr>
 <tr>
-<td align="right">&lt;compound-subject&gt;</td>
-<td>::= &lt;subject&gt; "en" &lt;subject&gt;</td>
+<td align="right"><compound-subject></td>
+<td>::= <subject> "en" <subject></td>
 </tr>
 <tr>
-<td align="right">&lt;compound-predicate&gt;</td>
-<td>::= &lt;predicate&gt; "li" &lt;predicate&gt;</td>
+<td align="right"><compound-predicate></td>
+<td>::= <predicate> "li" <predicate></td>
 </tr>
 <tr>
-<td align="right">&lt;noun-phrase&gt;</td>
-<td>::= &lt;noun&gt; &lt;adjective&gt;*</td>
+<td align="right"><noun-phrase></td>
+<td>::= <noun> <adjective>*</td>
 </tr>
 <tr>
-<td align="right">&lt;verb-phrase&gt;</td>
-<td>::= &lt;verb&gt; &lt;adverb&gt;* &lt;direct-object&gt;*</td>
+<td align="right"><verb-phrase></td>
+<td>::= <verb> <adverb>* <direct-object>*</td>
 </tr>
 <tr>
-<td align="right">&lt;direct-object&gt;</td>
-<td>::= "e" &lt;noun-phrase&gt;</td>
+<td align="right"><direct-object></td>
+<td>::= "e" <noun-phrase></td>
 </tr>
 </table>
 <p><a name="Pronouns" id="Pronouns"></a></p>
-<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=3" title="Edit section: Pronouns">edit</a>]</span> <span class="mw-headline">2.1 Pronouns</span></h3>
+<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=3" title="Edit section: Pronouns">edit</a>]</span> <span class="mw-headline">2.1 Pronouns</span></h3>
 <p>Toki Pona has the basic pronouns <i lang="x-tokipona" xml:lang="x-tokipona">mi</i> (first person), <i lang="x-tokipona" xml:lang="x-tokipona">sina</i> (second person), and <i lang="x-tokipona" xml:lang="x-tokipona">ona</i> (third person).</p>
 <p>Note that the above words do not specify number. Thus, <i lang="x-tokipona" xml:lang="x-tokipona">ona</i> can mean both "he" and "they." In practice, Toki Pona speakers use the phrase <i lang="x-tokipona" xml:lang="x-tokipona">mi mute</i> to mean "we." Although much less common, <i lang="x-tokipona" xml:lang="x-tokipona">ona mute</i> means "they." However, the phrase <i lang="x-tokipona" xml:lang="x-tokipona">sina mute</i> for a pluralized "you" is strongly discouraged.</p>
 <p>Whenever the subject of a sentence is either of the pronouns <i lang="x-tokipona" xml:lang="x-tokipona">mi</i> or <i lang="x-tokipona" xml:lang="x-tokipona">sina</i>, then <i lang="x-tokipona" xml:lang="x-tokipona">li</i> is not used to separate the subject and predicate.</p>
 <p><a name="Nouns" id="Nouns"></a></p>
-<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=4"; title="Edit section: Nouns">edit</a>]</span> <span class="mw-headline">2.2 Nouns</span></h3>
+<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=4"; title="Edit section: Nouns">edit</a>]</span> <span class="mw-headline">2.2 Nouns</span></h3>
 <p>With such a small vocabulary, Toki Pona relies heavily on compounds to make more complex meanings. A typical example is combining <i lang="x-tokipona" xml:lang="x-tokipona">jan</i> (person) with <i lang="x-tokipona" xml:lang="x-tokipona">utala</i> (fight) to make <i lang="x-tokipona" xml:lang="x-tokipona">jan utala</i> (soldier, warrior).</p>
 <p>Nouns do not decline according to number. <i lang="x-tokipona" xml:lang="x-tokipona">jan</i> can mean "person", "people", or "the human race" depending on context.</p>
 <p>Toki Pona does not use proper nouns; instead, it uses proper adjectives, which are the language's only open class. For example, names of people and places are modifiers of the common root for "person" and "place", e.g. <i lang="x-tokipona" xml:lang="x-tokipona">ma Kanata</i> (lit. "Canada country") or <i lang="x-tokipona" xml:lang="x-tokipona">jan Lisa</i> (lit. "Lisa person").</p>
 <p>Ideally, the aim of Toki Pona is to reduce all noun phrases to just the core noun itself; through context, a noun phrase initially introduced as <i lang="x-tokipona" xml:lang="x-tokipona">jan utala suli pi pona lukin</i> (handsome important soldier) would eventually be reduced through context to <i lang="x-tokipona" xml:lang="x-tokipona">jan</i>. The attempt here is to reduce all concepts to their base form, or in other words, to see something as it really is. From the aforementioned example, a handsome important soldier is still essentially a person.</p>
 <p><a name="Adjectives" id="Adjectives"></a></p>
-<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=5" title="Edit section: Adjectives">edit</a>]</span> <span class="mw-headline">2.3 Adjectives</span></h3>
-<p><a href="/wiki/Phrase" title="Phrase">Phrases</a> in Toki Pona are <a href="/w/index.php?title=Head-initial&amp;action=edit" class="new" title="Head-initial">head-initial</a>; modifiers always come after the word that they modify. This trait resembles the typical arrangement of adjectives in <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> and <a href="/wiki/Arabic_language" title="Arabic language">Arabic</a> and contrasts with the typical English structure. Thus <i lang="x-tokipona" xml:lang="x-tokipona">kasi kule poki</i> (<i lang="x-tokipona" xml:lang="x-tokipona">kasi kule</i>, "flower," <i lang="x-tokipona" xml:lang="x-tokipona">poki</i>, "container, vessel") means "potted plant" rather than "pot <i>for a</i> plant," or alternatively, "plant pot." <i lang="x-tokipona" xml:lang="x-tokipona">kasi kule</i> ("flower") itself literally means "colorful plant".</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=5" title="Edit section: Adjectives">edit</a>]</span> <span class="mw-headline">2.3 Adjectives</span></h3>
+<p><a href="/wiki/Phrase" title="Phrase">Phrases</a> in Toki Pona are <a href="/w/index.php?title=Head-initial&action=edit" class="new" title="Head-initial">head-initial</a>; modifiers always come after the word that they modify. This trait resembles the typical arrangement of adjectives in <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> and <a href="/wiki/Arabic_language" title="Arabic language">Arabic</a> and contrasts with the typical English structure. Thus <i lang="x-tokipona" xml:lang="x-tokipona">kasi kule poki</i> (<i lang="x-tokipona" xml:lang="x-tokipona">kasi kule</i>, "flower," <i lang="x-tokipona" xml:lang="x-tokipona">poki</i>, "container, vessel") means "potted plant" rather than "pot <i>for a</i> plant," or alternatively, "plant pot." <i lang="x-tokipona" xml:lang="x-tokipona">kasi kule</i> ("flower") itself literally means "colorful plant".</p>
 <p>Order of operations is completely opposite to that of <a href="/wiki/Lojban" title="Lojban">Lojban</a>. In Toki&#160;Pona, "N A1 A2" (where N represents a noun and A1 and A2 represent modifiers) is parsed as ((N A1) A2), that is, an A1 N that is A2: E.g., <i lang="x-tokipona" xml:lang="x-tokipona">jan pona lukin</i> = ((jan pona) lukin), a friend watching (<i lang="x-tokipona" xml:lang="x-tokipona">jan pona</i>, "friend," literally "good person").</p>
 <p>This can be changed with the particle <i lang="x-tokipona" xml:lang="x-tokipona">pi</i>, "of", which groups the following adjectives into a kind of compound adjective that applies to the head noun, which leads to <i lang="x-tokipona" xml:lang="x-tokipona">jan pi pona lukin</i> = (jan (pona lukin)), "good-looking person."</p>
 <p>Demonstratives, numerals, and possessive pronouns follow other modifiers.</p>
 <p><a name="Verbs" id="Verbs"></a></p>
-<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=6" title="Edit section: Verbs">edit</a>]</span> <span class="mw-headline">2.4 Verbs</span></h3>
+<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=6" title="Edit section: Verbs">edit</a>]</span> <span class="mw-headline">2.4 Verbs</span></h3>
 <p>There is a <a href="/wiki/Zero_copula" title="Zero copula">zero copula</a> except in <a href="/wiki/Locative" title="Locative">locative</a> senses, which use the <a href="/wiki/Copula" title="Copula">copula</a> <i lang="x-tokipona" xml:lang="x-tokipona">lon</i>.</p>
 <p>Toki Pona does not inflect verbs according to person, tense, mood, or voice. Person is inferred from the subject of the verb; time is inferred from context or a temporal adverb in the sentence. There is no true passive voice in Toki Pona; the closest thing to passivity in Toki Pona is a structure such as "(result) of (subject) is because of (agent)." Alternatively, one could phrase a passive sentence as an active one with the agent subject being unknown.</p>
 <p>Some verbs, such as <i lang="x-tokipona" xml:lang="x-tokipona">tawa</i> = "to go", which in English govern prepositions, do not take <i lang="x-tokipona" xml:lang="x-tokipona">e</i> before their direct objects.</p>
 <p><a name="Vocabulary" id="Vocabulary"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=7" title="Edit section: Vocabulary">edit</a>]</span> <span class="mw-headline">3 Vocabulary</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=7" title="Edit section: Vocabulary">edit</a>]</span> <span class="mw-headline">3 Vocabulary</span></h2>
 <div class="thumb tright">
 <div class="thumbinner" style="width:182px;"><a href="/wiki/Image:BodyTokiPona.jpg" class="internal" title="Body parts in Toki Pona"><img alt="Body parts in Toki Pona" longdesc="/wiki/Image:BodyTokiPona.jpg" class="thumbimage" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/BodyTokiPona.jpg/180px-BodyTokiPona.jpg" width="180" height="193" /></a>
 <div class="thumbcaption">
@@ -504,7 +504,7 @@ Body parts in Toki Pona</div>
 <p>Some words have archaic <a href="/wiki/Synonym" title="Synonym">synonyms</a> because they were changed to avoid a potentially confusing <a href="/wiki/Minimal_pair" title="Minimal pair">minimal pair</a>. For instance, <i lang="x-tokipona" xml:lang="x-tokipona">ona</i> ("he, she, it") used to be <i lang="x-tokipona" xml:lang="x-tokipona">iki</i> but was changed because <i lang="x-tokipona" xml:lang="x-tokipona">iki</i> is too similar to <i lang="x-tokipona" xml:lang="x-tokipona">ike</i> ("bad").</p>
 <p>Because of the small number of words in Toki Pona, single words from other languages are often translated into Toki Pona using two or more words, e.g. "to teach" is translated into Toki Pona by "pana e sona", which literally means "to give knowledge".<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[2]</a></sup></p>
 <p><a name="Colors" id="Colors"></a></p>
-<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=8" title="Edit section: Colors">edit</a>]</span> <span class="mw-headline">3.1 Colors</span></h3>
+<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=8" title="Edit section: Colors">edit</a>]</span> <span class="mw-headline">3.1 Colors</span></h3>
 <p>Toki Pona has only five root words for colors: <i lang="x-tokipona" xml:lang="x-tokipona">pimeja</i> (black), <i lang="x-tokipona" xml:lang="x-tokipona">walo</i> (white), <i lang="x-tokipona" xml:lang="x-tokipona">loje</i> (red), <i lang="x-tokipona" xml:lang="x-tokipona">jelo</i> (yellow), and <i lang="x-tokipona" xml:lang="x-tokipona">laso</i> (blue). Each word represents multiple shades: <i lang="x-tokipona" xml:lang="x-tokipona">laso</i> refers to words as light as <a href="/wiki/Cornflower_blue" title="Cornflower blue">cornflower blue</a> or as dark as <a href="/wiki/Navy_blue" title="Navy blue">navy blue</a>, even extending into shades of <a href="/wiki/Blue-green" title="Blue-green">blue-green</a> such as <a href="/wiki/Cyan" title="Cyan">cyan</a>.</p>
 <div class="thumb tleft">
 <div class="thumbinner" style="width:102px;"><a href="/wiki/Image:Synthese-.svg" class="internal" title="Many colors can be expressed by using subtractive colors."><img alt="Many colors can be expressed by using subtractive colors." longdesc="/wiki/Image:Synthese-.svg" class="thumbimage" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Synthese-.svg/100px-Synthese-.svg.png" width="100" height="96" /></a>
@@ -515,19 +515,19 @@ Many colors can be expressed by using <a href="/wiki/Subtractive_color" title="S
 </div>
 <p>Although the simplified conceptualization of colors tends to exclude a number of colors that are commonly expressed in Western languages, speakers sometimes may combine these five words to make more specific descriptions of certain colors. For instance, "purple" may be represented by combining <i lang="x-tokipona" xml:lang="x-tokipona">laso</i> and <i lang="x-tokipona" xml:lang="x-tokipona">loje</i>. The phrase <i lang="x-tokipona" xml:lang="x-tokipona">laso loje</i> means "a reddish shade of blue" and <i lang="x-tokipona" xml:lang="x-tokipona">loje laso</i> means "a bluish shade of red".<a href="http://bknight0.myweb.uga.edu/toki/lesson/lesson13.html" class="external autonumber" title="http://bknight0.myweb.uga.edu/toki/lesson/lesson13.html" rel="nofollow">[1]</a></p>
 <p><a name="Numbers" id="Numbers"></a></p>
-<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=9" title="Edit section: Numbers">edit</a>]</span> <span class="mw-headline">3.2 Numbers</span></h3>
+<h3><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=9" title="Edit section: Numbers">edit</a>]</span> <span class="mw-headline">3.2 Numbers</span></h3>
 <p>Toki Pona has root words for one (<i lang="x-tokipona" xml:lang="x-tokipona">wan</i>), two (<i lang="x-tokipona" xml:lang="x-tokipona">tu</i>), and many (<i lang="x-tokipona" xml:lang="x-tokipona">mute</i>). In addition, <i lang="x-tokipona" xml:lang="x-tokipona">ala</i> can mean zero, although its more literal meaning is "no" or "none."</p>
 <p>Toki Ponans express larger numbers additively by using phrases such as <i lang="x-tokipona" xml:lang="x-tokipona">tu wan</i> for three, <i lang="x-tokipona" xml:lang="x-tokipona">tu tu</i> for four, and so on. This feature was added to make it impractical to communicate large numbers.</p>
 <p>An early description of the language uses <i lang="x-tokipona" xml:lang="x-tokipona">luka</i> (literally "hand") to signify "five." Although Kisa has deprecated this feature in the latest official description of Toki Pona, its use is still common; from January to July 2006, it was used 10 times more often as a number than in its original sense of "hand" <a href="http://groups.yahoo.com/group/tokipona/message/1768" class="external autonumber" title="http://groups.yahoo.com/group/tokipona/message/1768" rel="nofollow">[2]</a>. For an example of this structure, see <a href="http://groups.yahoo.com/group/tokipona/message/1263" class="external text" title="http://groups.yahoo.com/group/tokipona/message/1263" rel="nofollow">this posting</a>, which uses <i lang="x-tokipona" xml:lang="x-tokipona">luka luka luka wan</i> to mean "sixteen."</p>
 <p><a name="Writing_system" id="Writing_system"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=10" title="Edit section: Writing system">edit</a>]</span> <span class="mw-headline">4 Writing system</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=10" title="Edit section: Writing system">edit</a>]</span> <span class="mw-headline">4 Writing system</span></h2>
 <p>Kisa officially used the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a> to represent the language. However, a few enthusiasts have adapted various other scripts for use in Toki Pona: <a href="http://www.tokipona.bravehost.com/korean.html" class="external text" title="http://www.tokipona.bravehost.com/korean.html" rel="nofollow">Korean Hangul</a>, <a href="http://toki.dm7.net/tengwar/tengwar.html" class="external text" title="http://toki.dm7.net/tengwar/tengwar.html" rel="nofollow">Tengwar</a>, an <a href="http://www.theiling.de/schrift/tokipona.html" class="external text" title="http://www.theiling.de/schrift/tokipona.html" rel="nofollow">original Toki Pona writing system</a>, or a <a href="http://www.deadlybrain.org/projects/tokipona/index.php" class="external text" title="http://www.deadlybrain.org/projects/tokipona/index.php" rel="nofollow">variety of other writing systems</a>.</p>
 <p><a name="Literature" id="Literature"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=11" title="Edit section: Literature">edit</a>]</span> <span class="mw-headline">5 Literature</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=11" title="Edit section: Literature">edit</a>]</span> <span class="mw-headline">5 Literature</span></h2>
 <p>Toki&#160;Pona's official <a href="/wiki/Literature" title="Literature">literature</a> consists of <a href="/wiki/Proverb" title="Proverb">proverbs</a>, some <a href="/wiki/Poetry" title="Poetry">poetry</a>, and a basic <a href="/wiki/Phrase_book" title="Phrase book">phrase book</a>. Aside from the official literature, a number of Toki Ponans have created their own websites with texts, comics, translated video games, and even a couple of songs.</p>
 <p>There are currently 10-20 proficient speakers and several hundred enthusiasts.</p>
 <p><a name="Sample_texts" id="Sample_texts"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=12" title="Edit section: Sample texts">edit</a>]</span> <span class="mw-headline">6 Sample texts</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=12" title="Edit section: Sample texts">edit</a>]</span> <span class="mw-headline">6 Sample texts</span></h2>
 <p><b>mama pi mi mute</b> (The <a href="/wiki/Lord%27s_Prayer" title="Lord's Prayer">Lord's Prayer</a>)<br />
 <small>Translation by Pije</small></p>
 <blockquote lang="x-tokipona" xml:lang="x-tokipona">
@@ -567,7 +567,7 @@ telo pimeja ni li telo loje mi, li ale mi.<br />
 tenpo ale la pimeja li lon.<br /></p>
 </blockquote>
 <p><a name="References" id="References"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=13" title="Edit section: References">edit</a>]</span> <span class="mw-headline">7 References</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=13" title="Edit section: References">edit</a>]</span> <span class="mw-headline">7 References</span></h2>
 <div class="references-small">
 <ol class="references">
 <li id="_note-0"><b><a href="#_ref-0" title="">^</a></b> Sonja Elen Kisa. <a href="http://www.tokipona.org/intro.html" class="external text" title="http://www.tokipona.org/intro.html" rel="nofollow">What is Toki Pona?</a> Accessed on <a href="/wiki/May_23" title="May 23">May 23</a>, <a href="/wiki/2007" title="2007">2007</a>.</li>
@@ -575,7 +575,7 @@ tenpo ale la pimeja li lon.<br /></p>
 </ol>
 </div>
 <p><a name="See_also" id="See_also"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a>]</span> <span class="mw-headline">8 See also</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=14" title="Edit section: See also">edit</a>]</span> <span class="mw-headline">8 See also</span></h2>
 <ul>
 <li><a href="/wiki/Alphabet_of_human_thought" title="Alphabet of human thought">Alphabet of human thought</a></li>
 <li><a href="/wiki/Philosophical_language" title="Philosophical language">Philosophical language</a></li>
@@ -587,7 +587,7 @@ tenpo ale la pimeja li lon.<br /></p>
 <li><a href="/wiki/Newspeak" title="Newspeak">Newspeak</a></li>
 </ul>
 <p><a name="External_links" id="External_links"></a></p>
-<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a>]</span> <span class="mw-headline">9 External links</span></h2>
+<h2><span class="editsection">[<a href="/w/index.php?title=Toki_Pona&action=edit&section=15" title="Edit section: External links">edit</a>]</span> <span class="mw-headline">9 External links</span></h2>
 <ul>
 <li>Sites Run by Toki Ponans</li>
 </ul>
@@ -623,7 +623,7 @@ tenpo ale la pimeja li lon.<br /></p>
 <ul>
 <li><a href="http://www.pineight.com/tokipona/tpreview.html" class="external text" title="http://www.pineight.com/tokipona/tpreview.html" rel="nofollow">Damian Yerrick's review of Toki Pona</a></li>
 <li><a href="http://www.langmaker.com/db/mdl_tokipona.htm" class="external text" title="http://www.langmaker.com/db/mdl_tokipona.htm" rel="nofollow">Profile at Langmaker.com</a></li>
-<li><a href="http://www.politikin-zabavnik.co.yu/tekst.php?broj=2862&amp;tekst=04" class="external text" title="http://www.politikin-zabavnik.co.yu/tekst.php?broj=2862&amp;tekst=04" rel="nofollow">Article that discusses Toki Pona in Politikin Zabavnik magazine</a> (in Serbian)</li>
+<li><a href="http://www.politikin-zabavnik.co.yu/tekst.php?broj=2862&tekst=04" class="external text" title="http://www.politikin-zabavnik.co.yu/tekst.php?broj=2862&tekst=04" rel="nofollow">Article that discusses Toki Pona in Politikin Zabavnik magazine</a> (in Serbian)</li>
 <li><a href="http://offline.computerra.ru/2004/550/34762/" class="external text" title="http://offline.computerra.ru/2004/550/34762/" rel="nofollow">Article that discusses Toki Pona in Computerra magazine</a>;; (in Russian)</li>
 </ul>
 </dd>
@@ -661,7 +661,7 @@ Maximum: 2048000 bytes
 [[cy:Toki Pona]]
 [[da:Tokipona]]
 [[de:Toki Pona]]
-[[en:Toki Pona]]
+[[en:Toki Pona]] {{Link GA|en}}
 [[eo:Tokipono]]
 [[es:Toki pona]]
 [[et:Toki pona]]
