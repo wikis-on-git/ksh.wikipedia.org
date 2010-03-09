@@ -1,4 +1,4 @@
-Dä Name '''localhost''' hät ungo [[tcp/IP]] dä Kompjuto wo mo dran es, odo jrad drop es. Op do äjene Rääschno küt mo no met dä [[IP_Addräßß]] [[127.0.0.1]] un di eß nommahl op dä Name '''localhost''' [[jemäpp]]. Bäj [[IPv6]] eß dat di [[::1]], di doselve Deenß däjt. Hät mo do enne [[Sörvo]] am loufe, da kammer dä med localhost aanredde, zem Bäjshpell esu:
+Dä Name '''localhost''' hät ungo [[tcp/IP]] dä Kompjuto wo mo dran es, odo jrad drop es. Op do äjene Rääschno küt mo no met dä [[IP Addräßß]] [[127.0.0.1]] un di eß nommahl op dä Name '''localhost''' [[jemäpp]]. Bäj [[IPv6]] eß dat di [[::1]], di doselve Deenß däjt. Hät mo do enne [[Sörvo]] am loufe, da kammer dä med localhost aanredde, zem Bäjshpell esu:
 
  telnet localhost 1024
  ftp localhost
@@ -15,8 +15,9 @@ Jebruch weed das jähn fö de äijene Räsho uß ze probeere ih dat mo dänn aan
 * RFC 3513 — De IPv6 Addräße Arshitäktur
 
 <!-- ======= -->
-[[Kategorie:tcp/IP]]
 <!-- ======= -->
+
+[[Saachjrupp:Tcp/IP]]
 
 [[ca:Localhost]]
 [[cs:Localhost]]
@@ -25,6 +26,7 @@ Jebruch weed das jähn fö de äijene Räsho uß ze probeere ih dat mo dänn aan
 [[el:Localhost]]
 [[en:Localhost]]
 [[es:Localhost]]
+[[et:Kohalik host]]
 [[eu:Localhost]]
 [[fr:Localhost]]
 [[hu:Localhost]]
