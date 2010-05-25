@@ -1,0 +1,87 @@
+[[File:Wikimedia_Community_Logo-Toolserver.svg|thumb|150px|Däm Toolserver sing Logo]]
+<div style="float:right;clear:right">&nbsp;</div>
+[[File:Toolserver-cluster.svg|thumb|De Rääschner-Kubbel vum Toolserver]]
+Dä '''Wikimedia Toolserver''' es e Projäk wat dä [http://wikimedia.de/ Dütsche Wikimedia-Verein] bedriif. Dat [[änglesch (Shprooch)|änglesch]]e [[Woot (Kalle)|Woot]] ''{{lang|en|tool}}'' bedügg_esu_fill wi [[Wärkzüsch]]. Wä sesch met däm Süßteem, un de Projramme ußkännt, kann op däm Toolßööver tikäktemang op Kopiije vun de jannze Datebanke vun de Wikis zohjriife, och vun uns [[:project:Houpsigk|Wikipedija]]. Alle Daatebangke vun alle Wikis vun de [[:foundation:|Wikimedija Shtefftung]] (WMF) sen om Toolßööver jeshpeejelt. Domet künne Metmaacher op däm Toolsööver ene Houfe joode Wärrekzüsch för de Jemeinschaff schaffe, un a-jjuur hallde, wat der oohne esu en Daatebangke nit ze maache, un koum müjjelesch wöhr.
+
+* [[m:Toolserver|dä Toolservers op Metta beschrevve]] (''en&nbsp;[[Englesch (Shprooch)|Englesch]]'')
+* [https://wiki.toolserver.org/ dem Toolserver-Wikis sing Houpsigg] 
+&nbsp;
+
+== De Täschnek ==
+Et jitt nit dää eine Tuulßöööver. Et sin, jeneoujenumme, en Aanzahl Rääschner, di zosamme „dää Tuhlßööver“ affjävve. Dänne ier Aufjabe sin em einzelne:
+# ßöövere för Daatebangke met Kopiije ([[Replikaate]]) vun de Daatebangke vun alle Projäkte vun de Wikimeedija-Shtefftung
+# Web-ßöövere, woh Projramme („''{{lang|en|tools}}''“ jenannt) drop aam loufe sin un parraat schtonn
+# ßööver för et Enlogge, woh de Metmaacher [[Bot]]s un andder Zoote [[Skrep]]te loufe lohße künne
+# dobei jidd_et Rääschner för de ongerscheidlijje Deenste, die däm hellfe donn, förr_e zum Beishpöll dä [http://jira.toolserver.org Deens ''{{lang|en|JIRA}}'' för Fäählere un Wönsch aanzemellde].
+
+=== Shtattus ===
+Dä Toolserver läuf zwa enzwesche rääsch schtabihl, ävver trozdämm kann et aff un aan ene Ußfall jävve, udder jet deiht nit fluppe. Mieh övver der aktowälle Shtand liß mer op dä Websigge heh:
+
+* [http://journal.toolserver.org/ et ''{{lang|en|Toolserver Blog}}'']
+* [https://confluence.toolserver.org/display/tech/Maintenance+log et Lognoch vun de Waadung]
+* [http://status.toolserver.org/ dä Shtattus vun de Daatebangke]
+
+Aktewälle Ennfommazjuhne jidd_et op em Kannaaal [irc://freenet.net/#wikimedia-toolserver #wikimedia-toolserver] em [[IRC]].
+
+==== Repläg ====
+Met „Repläg“ — dat kütt vum [[Änglesch (Shprooch)|Änglesch]]e „''{{lang|en|replication}}''“, en lebändeje Daatebangk immer wigger koppeere, un „''{{lang|en|lag}}''“, de Verzööjerung un dä Afschtand fum Henger_heer_Talpe — bezeischne mer di Zick, öm di de Datebank-Kopiije om Tuulßööver henger dä Ojinaale her hengke. Fö jewöönlesch sinn_et e paa winnije [[Sekunde]], wann et lahm förraan jeiht. Ävver et kütt och immer widder för, dat ens woh jät jehange hät, dann ess_et mieh, un de Antwoot, di de Projramme vom Tuulßööver jevve, sin nit janz om aktowälle Shtand. Der Repläg kam_mer nohloore:
+
+* [http://toolserver.org/~bryan/stats/replag/ De aktoälle Replägs]. För de Wikipedia en Ripoaresche Shprooche dä ßööver es <code lang="en">sql-s3</code>
+
+== Zohjang ==
+Em Prinzipp kann Jeede ene Zohjang op dä Toolserver krijje, dä jät vun däm vershteiht, wat doh jedonn weet. Projrameere sullt mer schunn künne, söns kam_mer wall nix domet aanfange. Weeschtesch: Mer moß sesh aan de Rääjelle för der Tuulsörver un sing Verwendung hallde.
+
+* [https://wiki.toolserver.org/view/Rules Rääjelle för der Tuulsörver] (op&nbsp;[[Änglesh (Sprooch)|Änglesh]])
+* [https://wiki.toolserver.org/view/Account_approval_policy/de Reeshtlinije för der Zohjang zo verjävve] (op&nbsp;[[dütsch (Shprooch)|dütsch]])
+
+== Kumtak ==
+Bei Probleeme mem Tuulßööver, wann De Froore häs, de Administratoore sin dermiehts em [[IRC]] em Kannaaal [irc://freenet.net/#wikimedia-toolserver #wikimedia-toolserver] ze fenge, udder dooht ühr ''{{lang|en|e-mail}}'' aan dė Addräß <code lang="en">ts-admins[[File:At sign.svg|9px]]toolserver.org</code> scheke. Hee uß de Wikipedia ham_mer och Metmaacher om Toolsörver:
+
+* {{GENDER:Purodha|Dä|Et|Dä Metmaacher|Dat|De}} [[Medmaacher:Purodha|Purodha]]
+
+Wann jet aam Brenne es — de Metmaacher met Zohjang op dä Tuulßööver, di faß all kein Administratoore sin, kenne noch en Tellefonnummer för der Nudfall, woh mer ene Administrator met ussem Bett holle kann.
+
+Wann et öm e beshtemmp ''{{lang|en|tool}}'' jeiht, dann ess_et ävver bäßer, tiräk met dämm Schriiver dovun udder däm Vo'antwootlijje en Kumtak ze kumme. De Andere, Metmaacher udder Adminißtratoore, han dermiehtß nit jenooch Aanung, öm ze helleve.
+
+Wä mer aankalle udder aanschriive sull, dat fengk mer bei de ''{{lang|en|tools}}'' met Adress em Web janz eijfaach uß dä Adräß, weil doh däm reeschtijje Metmaacher singe Name jlish dren shteiht. Aanjenumme, di Web_Addräß wöhr <code>http:<nowiki />//www.toolserver.org/~''zinterkloos''/hee_kütt_noch_jet</code>, dann es <code>''zinterkloos''</code> dä Metmaachername om Tuulßööver, un met <code>''zinterkloos''[[File:At sign.svg|9px]]toolserver.org</code> als Adräß för de ''{{lang|en|e-mail}}'' kam_mer dämm schriive.
+
+Allerdings es et en joode Idee, eets ens ze loore, of mer nit en Sigg övver dat ''{{lang|en|tool}}'' fengk, woh ald drop shteiht wat mer weße well, un wam_mer ene Vörschlaach zom Verbesse maache well, dä kam_mer och jraadt em [http://jira.toolserver.org Deens ''{{lang|en|JIRA}}''] enndraare.
+<!--
+== Projramme ==
+Heh küt en Leß met Projamme, di för uns Wikipedia om Tuulßöver loufe: 
+
+{| class="wikitable" |
+! ''{{lang|en|Tool}}''
+! Wadd_et es
+! Wadd_et määt
+! Wä_t betreut
+|--
+| [http://toolserver.org/~daniel/WikiSense/CatScan.php CatScan]
+| Websigg
+| [[meta:User:Duesentrieb/CatScan Beschreibung]], [https://jira.toolserver.org/secure/IssueNavigator.jspa?reset=true&mode=hide&pid=10030&sorter/order=DESC&sorter/field=priority&resolution=-1&component=10030 Bugs]
+| [[:de:Benutzer:Duesentrieb|Duesentrieb]]
+|--
+| ...
+| ...
+| ...
+| ...
+|}
+<!-- -->
+
+== Süch och ens noh ==
+* [[Wikipedia:Gadgets]]
+
+<!-- ======= -->
+[[Kategorie:{{NS:4}}:Täschnesche Krohm]]
+[[Saachjropp:{{NS:4}}:Unger Unß]]
+<!-- ======== -->
+
+[[be-x-old:Вікіпэдыя:Сэрвэр інструмэнтаў]]
+[[de:Wikipedia:Toolserver]]
+[[en:Wikipedia:Toolserver]]
+[[fr:Wikipédia:Toolserver]]
+[[it:Wikipedia:Toolserver]]
+[[pl:Wikipedia:Toolserver]]
+[[pt:Wikipedia:Toolserver]]
+[[ru:Википедия:Тулсервер]]
+[[sv:Wikipedia:Toolserver]]
