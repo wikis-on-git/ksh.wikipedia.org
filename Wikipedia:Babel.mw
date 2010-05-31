@@ -1,0 +1,267 @@
+Met denne Babel-Schawweluune künne Mir op unß Metmaachersigge kloo maache, wat för_n Shprooche mir Lesse un Schrieve.
+{| style="float:right; width:480px; max-width:480px; margin=0; border:0; padding:1ex 0 3em 1em; background:white; color:black; text-align:justify"
+|- 
+|[[Datei:Wikibabel.png|Dä Turrem fun Babel]]
+|-
+|align="right"| <small> Dä [[Turrem fun Babel]] jemoohld fum [[Pieter Bruegel (dä Ählere)|ählere Pieter Bruegel]] em [[16. Johungort]]</small>
+|- 
+|align="justify"|<div align="justify" style="padding-left:3ex; text-align:justify">Beß op di Zigge fun [[Babel]], su säät de [[Lejend]], kunnte sesh de [[Minnshe]] ëĳnfach foshtonn. Dann kohme de Zigge fun luuter ëĳnzel [[Shrooch]]e, et su jenannte [[Babylonische Sproche Jeverr]], un dat jingk nit mieh. Enzwesche hann mir [[Shpaßß]] an uns fille Shprooche krääje un sinn shtůllds_ob_di_mer künne. Dad_eß, wo_t he dröm jëĳdt.</div>
+|-
+|}
+== Wat et määt ==
+Met Babel_Schabloone krit mer Zäddel di — en enner Sprooch — saren, wi joodt dat mer di Shprooch kann,
+un mer weed automatish en {{WikiMedia:Categories}} enjedraare, di doför jedaach un_esu opjboudt sinn,
+dat mer do drövver Lück finge kann, di hee em Wikki aanjemälldt sinn un en beshtemmpde Shprooch su_un_esu
+joot künne. Su kam_mer sesh op e Bier zosammefinge, beijem Övversäzze hällefe loohße, odder jraad nuur
+Spaß dran hann.
+
+För de Mommänt ham_mer eetß de Shprooche fun de Wälldt aanjefange. De Ripuarische Shprooche dum_mer non_nit
+ungershëĳde, ävver dat weed sesho_noch_kumme.
+== Wie mer et bruche deijt ==
+Mer schriif op sing [[:{{NS:4}}:Medmaacher Sigge|Medmaacher_Sigk]] enne zimmlish ëĳnache Opproof fun enner [[:{{NS:4}}:Wat sinn Schabloone?|Schablohn]], odder wämmer sesh di Möh maache well, e paa winnije, wo mer mieh bestemme kann, wieh_t ußßsüüht. De Parrameeter sin desellve. Se saare wat förn Shprooch medd_e paa Boochshtaave, un wi joot, dat mer se kann, met Nummere. Unge ham_mer e paa [[#Bejshpill|Bëĳshpill]] med_Äklieronge.
+=== Schabloone ===
+==== Babel ====
+De äĳnfacherre Schabloon häĳß <code>Babel</code> un di schriif mer met ier Parrameter-Paare esu hen:
+ <code><nowiki>{{</nowiki>Babel| ''Kood1''|''Nommer1'' | ''Kood2''|''Nommer2'' | ''Kood3''|''Nommer3'' |</code> … | … <code><nowiki>}}</nowiki></code>
+Mer kann_esu fill Parrameeter henschriive, wi mer bruch. För de  ''Kood1'', ''Kood2'', un esu wigger moßß mer Shprooche-[[#Koodes|Koodes]] endraare, för di ''Nommer1'', ''Nommer2'', un esu wigger di [[#Nummere|Nommo]] di säät vi joot mer di Shrooch kann, di do_füer shteijt.
+==== Babel-User ====
+De ömshtänndlisherre Schabloone sin de <code>Babel-User</code>, do bruch mer nommal e paa fun, un di schriif mer emmer med zwëĳ Parrameter hen, seu:
+ <code><nowiki>{{</nowiki>Babel-user|''Kood''|''Nommer''<nowiki>}}</nowiki></code>
+För ''Kood'' moßß mer_enne Shprooche-[[#Koodes|Koode]] endraare, för ''Nommer'' ëĳn fun de [[#Nummere|Nommere]] di saren vi joot dat mer di Shrooch kann, öm_di_t_jeijt.
+=== Koodes ===
+Di Sprooche weede faßß all med iiere [[Kood]]es noh dä [[ISO 639]] aanjejovve. Dass_en [[ingernazjonaal]] [[Norrəmm]].
+[[#list|Unge]] ham_mer_en Lėßß me_dä Shprooche di_mmer ad ennjeresh_hann.
+=== Nummere ===
+Domet mer wesse, vat di Nummere uns jenau saare welle, shteijt hee, wää sesh su'n Nommo jitt.
+==== <big>M, N,</big> oddo nix — Mottosproach ====
+Wä met dä Sproach opjewaaßen_eß, en dä Shproach dröümp, un se demäntshpräshend em Schloof kann.
+==== <big>4</big> — päffägk — esu jood wi Mottoshproach ====
+Wä felleijsh nit met dä Sproach jruus jewooden_es, ävver se jenau_esu_jood kann, zom Beijshpill
+weijl e se do jannzen Daach bruch, weijl e met Lügk zesamme lääv, ärbeijde deet, oddo_su jät,
+di doa jannzen Daach di Shproach schwaade, weil e eets als_enne älldere Panz do hen jetrokken_es,
+woa di Shproach jeschwaadt weed.
+
+==== <big>3</big> — rishtish jood ====
+Wä di Sproach eets spääder jeliert hätt, un se esu jood kann, datt e praktish alles foshteijd
+un de kläine Fääler en de Täxte fun dä Lügg repareere kann, di se nit esu jood künne,
+oohne datt to jruuß jät bäij zo övverlääje wöö.
+==== <big>2</big> — meddeljood ====
+Wä de Sprooch foshteijt, Täxte schriive kann, ävver he un doo leever ens noh m Wööterbooch jriefe weed.
+==== <big>1</big> — e beßje — enne Aanfängo ====
+Wä enne Täxx en dä Sproach lesse kann un dann weijs wo fun de Redd ess, wä op eijnfache Froore
+en dä Sproach sennfoll Antwoote jävve kann, wä sejj_en dä Sproach jet zosamme sööke kann,
+wänn et dren shteijd, uß Täxte, di anndere jeshrevve hann.
+==== <big>0</big> — övverhoup jaa nit ====
+Et hät keijne Senn, wem mer et met dä Sproach fosöök, do weed ni jät drus. Allso, eijne kann nix,
+oddo nit mieh wi e paa eijnzellne Wööt.
+
+Annwännde weed mer dat met dä Noll sesher nit dousend mool fö_di Shprooche di_mar all nit kann.
+Ävver et hät natörlisjj_enne Senn, wänn ëĳne_esu_säät, dat_e unß Shprooche nit kann, wänn dä zem Bëĳshpill
+nuur hee annjemëldt eß, wëĳl hä jät met de Täshnigk fum Wikki am Hoot hät.
+
+== Beijshpill ==
+=== Et eezte Beijshpill: ===
+{{babel-sample|ksh||de||en|1|fr|1|}}
+Däm Metmaacher sing Motershprooche sinn en Ripoarische Shprooch un Deutsch, un hä kann
+Franzüüsisch un Englijj_als Frempshprooche, zimmlish schlääch.
+ <code><nowiki>{{babel | ksh | M | de | M | en | 1 | fr | 1 |}}</nowiki></code>
+<br style="clear:both">
+=== Dat zweijte Beijshpill: ===
+{{babel-sample|ksh|0|de||en|3||}}
+Dat hee kann keijn vun unns Sprooche,
+sei shprish Deutsch,
+un dat eßß dämm sing Mottershprooch,
+dozoo kütt Englisch,
+dat iß sing eijnzijje Frempshprooch,
+un dat kann_et rishtish joot.
+ <code><nowiki>{{babel | ksh|0 | de| | en|3 || }}</nowiki></code>
+<br style="clear:both">
+=== Et drette Beijshpill: ===
+{{Babel-sample|hi||en||nl|4|ksh|2|sa|1|}}
+Hee eß eijner met Hindi unn Englisch oppjewaaße,
+dann eßße als_ene Panz noh de Neederläng vertrokke,
+hät do de Shprooch jeliehrd_unn kann_et wie wann_t sing Mottersprooch wöör,
+hä hätt och jannz joot der lokaale Dialekk jeliehrt,
+dat ess-eijn fun unß ripoarische Sprooche,
+un jett Sanßkitt kann hä och noch,
+ävver blooß noch Jrunntlaren,
+unn mieh ess_et nit mieh.
+ <code><nowiki>{{Babel|hi||en||nl|4|ksh|2|sa|1}}</nowiki></code>
+<br style="clear:both">
+=== Beijshpill fijo: ===
+Hee dä määt sijj_en ëĳen [[Läĳout]] zerrääsh.
+Wëĳl sing MottəShprooch {{babel-lang-name|ur}} eß,
+kann_e och {{babel-lang-name|hi}} schwaade un forshtonn,
+ävver hä kann de Schreff nit un dëĳt sesh do_för schamme,
+dröm hätt_err_et <code><nowiki>{{babel-user|hi|0}}</nowiki></code> fottjeloohße.
+Hä kann bäßtenß {{babel-lang-name|fa}},
+joot {{babel-lang-name|bn}},
+un ußßor_dämm jät {{babel-lang-name|th}},
+e beßßje  {{babel-lang-name|ar}},
+jät_{{babel-lang-name|sah}},
+un winnish {{babel-lang-name|he}}.
+<br style="clear:both">
+<div style="float:right; margin:0 0 0 1em; border:0; padding:0.5ex 0 1ex 1em; background-color:white; color:black">
+{|style="float:right; border:#fcb dotted 3px; background:#ffe"
+| {{babel-user|ur||0}}
+| {{Rheinland|||0}}
+|-
+| {{babel-user|fa|3|0}}
+| {{babel-user|bn|2|0}}
+|-
+| {{babel-user|ar|1|0}}
+| {{babel-user|th|1|0}}
+|-
+| {{babel-user|he|1|0}}
+| {{babel-user|sah|1|0}}
+|}
+</div>
+ <code><nowiki> {|style="float:right; border:#fcb dotted 3px; background:#ffe"
+ | {{babel-user|ur|}}
+ | {{Rheinland}}
+ |-
+ | {{babel-user|fa|3}}
+ | {{babel-user|bn|2}}
+ |-
+ | {{babel-user|ar|1}}
+ | {{babel-user|th|1}}
+ |-
+ | {{babel-user|he|1}}
+ | {{babel-user|sah|1}}
+ |}</nowiki></code>
+<br style="clear:both">
+
+== Shprooche Innhaltzverzeijschnißß noh Naame ==
+Drop klikke shprengk op dä enndrach en de less nahm kood.
+{{/O=1}}
+{{/O=2}}
+{{/O=3}}
+{{/O=4}}
+----
+<!-- ======= -->
+<!-- ======= -->
+
+[[Saachjrupp:{{NS:4}}:Medmaacher ier Shprooche| ]]
+[[Saachjrupp:{{NS:4}}:Frëmpshprooche|Babel]]
+[[Saachjrupp:{{NS:4}}:Babel|Babel]]
+[[Saachjrupp:{{NS:4}}:Unger Unß|Babel]]
+
+[[af:Wikipedia:Babel]]
+[[als:Wikipedia:Babel]]
+[[am:Wikipedia:ልሳናት]]
+[[an:Wikipedia:Babel]]
+[[ang:Wikipedia:Babel]]
+[[ar:ويكيبيديا:بابل]]
+[[ast:Uiquipedia:Babel]]
+[[ay:Wikipidiya:Wawil]]
+[[az:Vikipediya:Babil]]
+[[bar:Wikipedia:Babel]]
+[[be:Вікіпедыя:Babel]]
+[[be-x-old:Вікіпэдыя:Бабілёнская вежа]]
+[[bg:Уикипедия:Вавилон]]
+[[br:Wikipedia:Babel]]
+[[bs:Wikipedia:Babel]]
+[[ca:Viquipèdia:Babel]]
+[[cr:Wikipedia:Babel]]
+[[cs:Wikipedie:Babylón]]
+[[cu:Википє́дїꙗ:Вавѷлѡнъ]]
+[[cv:Википеди:Вавилон]]
+[[cy:Wicipedia:Babel]]
+[[da:Hjælp:Babel]]
+[[de:Wikipedia:Babel]]
+[[diq:Şablonê zıwani]]
+[[dsb:Wikipedija:Babel]]
+[[el:Βικιπαίδεια:Βαβέλ]]
+[[en:Wikipedia:Babel]]
+[[eo:Vikipedio:Babel]]
+[[es:Wikipedia:Babel]]
+[[et:Vikipeedia:Babel]]
+[[eu:Wikipedia:Babel]]
+[[fa:ویکی‌پدیا:بابل]]
+[[fi:Wikipedia:Babylon]]
+[[fo:Wikipedia:Málkassi]]
+[[fr:Wikipédia:Babel]]
+[[fur:Vichipedie:Babel]]
+[[fy:Wikipedy:Babel]]
+[[ga:Vicipéid:Baibéal]]
+[[gl:Wikipedia:Babel]]
+[[got:Wikipedia:Babilu]]
+[[he:ויקיפדיה:כישורי שפה]]
+[[hi:विकिपीडिया:बेबल]]
+[[hr:Wikipedija:Babilon]]
+[[hsb:Wikipedija:Babel]]
+[[hu:Wikipédia:Bábel]]
+[[id:Wikipedia:Babel]]
+[[io:Wikipedio:Babel]]
+[[is:Wikipedia:Málkassi]]
+[[it:Wikipedia:Babel]]
+[[ja:Wikipedia:バベル]]
+[[jv:Wikipedia:Babel]]
+[[ka:ვიკიპედია:ბაბილონი]]
+[[km:វិគីភីឌា:បាបេល]]
+[[ko:위키백과:바벨]]
+[[krc:Википедия:Вавилон]]
+[[ku:Wîkîpediya:Babel]]
+[[ky:Wikipedia:Babel]]
+[[la:Vicipaedia:Babel formulae]]
+[[lb:Wikipedia:Babel]]
+[[lbe:Википедия:Вавилон]]
+[[li:Wikipedia:Babel]]
+[[ln:Wikipedia:Babel]]
+[[lt:Vikipedija:Babelis]]
+[[lv:Vikipēdija:Babel]]
+[[map-bms:Wikipedia:Babel]]
+[[mg:Wikipedia:Babel]]
+[[mi:Wikipedia:Babel]]
+[[mk:Википедија:Вавилон]]
+[[ms:Wikipedia:Babel]]
+[[mt:Wikipedija:Babel]]
+[[na:Wikipedia:Babel]]
+[[nah:Huiquipedia:Babel]]
+[[nds:Wikipedia:Babel]]
+[[nds-nl:Wikipedie:Babel]]
+[[nl:Wikipedia:Babel]]
+[[nn:Wikipedia:Babel]]
+[[no:Wikipedia:Babel]]
+[[os:Википеди:Вавилон]]
+[[pcd:Wikipédia:Babel]]
+[[pdc:Wikipedia:Babel]]
+[[pl:Wikipedia:Wieża Babel]]
+[[pt:Wikipedia:Babel]]
+[[qu:Wikipedia:Babel]]
+[[rmy:Vikipidiya:Babel]]
+[[ro:Wikipedia:Babel]]
+[[ru:Википедия:Вавилон]]
+[[sc:Wikipedia:Babel]]
+[[scn:Wikipedia:Babeli]]
+[[sco:Wikipedia:Babel]]
+[[sh:Wikipedia:Babel]]
+[[simple:Wikipedia:Babel]]
+[[sk:Wikipédia:Babylon]]
+[[sl:Wikipedija:Babilon]]
+[[so:Wikipedia:Babel]]
+[[sq:Wikipedia:Babel]]
+[[sr:Википедија:Шаблони/Језичке кутијице]]
+[[su:Wikipedia:Babel]]
+[[sv:Wikipedia:Babel]]
+[[sw:Wikipedia:Babel]]
+[[szl:Wikipedyjo:Babel]]
+[[th:วิกิพีเดีย:บาเบล]]
+[[tpi:Wikipedia:Babel]]
+[[tr:Vikipedi:Babil]]
+[[tw:Wikipedia:Babel]]
+[[udm:Wikipedia:Вавилон]]
+[[uk:Вікіпедія:Вавилон]]
+[[uz:Vikipediya:Bobil]]
+[[vec:Wikipedia:Babel]]
+[[vi:Wikipedia:Ngôn ngữ sử dụng]]
+[[wa:Wikipedia:Babel]]
+[[war:Wikipedia:Babel]]
+[[wuu:Wikipedia:巴别]]
+[[yi:װיקיפּעדיע:באבעל]]
+[[yo:Wikipedia:Babel]]
+[[zh:Wikipedia:巴別]]
+[[zh-classical:維基大典:Babel]]
+[[zh-min-nan:Wikipedia:Babel]]
+[[zh-yue:Wikipedia:Babel]]
+[[zu:Wikipedia:Babel]]
