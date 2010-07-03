@@ -187,6 +187,8 @@ __NOEDITSECTION__
 |align="left"| [[01. {{int:may}}]]      ||[[2010 (Johr)|2010]]||||1485328||518492|| 10825||   113||5093||  40||8||   92||  272||
 |-
 |align="left"| [[01. {{int:june}}]]     ||[[2010 (Johr)|2010]]||||1489679||518618|| 10894||   117||5293||  31||8||   92||  272||<!-- /home/pacs/bli00/ksh/rsta.01 -->
+|-
+|align="left"| [[01. {{int:july}}]]     ||[[2010 (Johr)|2010]]||||1494969||518732||  10941||  117||5501||  39||8||     ||  272||<!-- /home/pacs/bli00/ksh/rsta.01 -->
 |- id="neue_mohnd"
 |colspan="13"|
 ----
@@ -667,7 +669,7 @@ __NOEDITSECTION__
 
 |-
 |colspan="10"|
-=== Ripoarisch Wikkipedija &nbsp; [[{{int:may}} (Moohnd)|{{int:june}}]] [[2010 (Johr)|2010]] ===
+=== Ripoarisch Wikkipedija &nbsp; [[{{int:june}} (Moohnd)|{{int:june}}]] [[2010 (Johr)|2010]] ===
 |- style="text-align:right"
 !colspan="3" align="left"|Daach
 !
@@ -735,6 +737,40 @@ __NOEDITSECTION__
 |align="left"|26.|| ||align="center"|Sa.|| ||00:08||1494376||518714||10932||117||5454||41||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.26 -->
 |-
 |align="left"|27.|| ||align="center"|Su.|| ||00:08||1494473||518718||10933||117||5463||41||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.27 -->
+|-
+|align="left"|28.|| ||align="center"|Mo.|| ||00:08||1494544||518723||10935||117||5468||41||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.28 -->
+|-
+|align="left"|29.|| ||align="center"|Di.|| ||00:08||1494613||518726||10937||117||5480||39||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.29 -->
+|-
+|align="left"|30.|| ||align="center"|Me.|| ||00:08||1494753||518729||10939||117||5490||39||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.30 -->
+|-
+|align="center" colspan="14"|
+----
+
+
+
+|-
+|colspan="10"|
+=== Ripoarisch Wikkipedija &nbsp; [[{{int:july}} (Moohnd)|{{int:july}}]] [[2010 (Johr)|2010]] ===
+|- style="text-align:right"
+!colspan="3" align="left"|Daach
+!
+!align="center"|Zigk
+!Ännderonge
+!Sigge
+!Attikkelle
+!Bellder
+!Medmaacher
+!Aktive
+!Köbeße
+!Plaaz
+!Unger
+|-
+|align="left"|01.|| ||align="center"|Du.|| ||00:08||1494969||518732||10941||117||5501||39||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.01 -->
+|-
+|align="left"|02.|| ||align="center"|Fr.|| ||00:08||1495174||518734||10943||117||5511||38||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.02 -->
+|-
+|align="left"|03.|| ||align="center"|Sa.|| ||00:08||1495243||518736||10945||117||5519||38||8|| ||272||<!-- /home/pacs/bli00/ksh/rsta.03 -->
 |- id="NEXT"
 |align="center" colspan="14"|
 ----
